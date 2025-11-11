@@ -1,0 +1,150 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "POS: An Operator Scheduling Framework for Multi-model Inference on Edge Intelligent Computing",
+                "doi": "10.1145/3583120.3586953"
+            },
+            {
+                "title": "CoEdge: A Cooperative Edge System for Distributed Real-Time Deep Learning Tasks",
+                "doi": "10.1145/3583120.3586955"
+            },
+            {
+                "title": "Interpersonal Distance Tracking with mmWave Radar and IMUs",
+                "doi": "10.1145/3583120.3586958"
+            },
+            {
+                "title": "PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators",
+                "doi": "10.1145/3583120.3587045"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Interpersonal Distance Tracking with mmWave Radar and IMUs",
+                "doi": "10.1145/3583120.3586958"
+            },
+            {
+                "title": "CMA: Cross-Modal Association Between Wearable and Structural Vibration Signal Segments for Indoor Occupant Sensing",
+                "doi": "10.1145/3583120.3586960"
+            },
+            {
+                "title": "WINC: A Wireless IoT Network for Multi-Noise Source Cancellation",
+                "doi": "10.1145/3583120.3586964"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "mmRipple: Communicating with mmWave Radars through Smartphone Vibration",
+                "doi": "10.1145/3583120.3586956"
+            },
+            {
+                "title": "Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As \"Phase Carriers\"",
+                "doi": "10.1145/3583120.3586965"
+            },
+            {
+                "title": "MicroDeblur: Image Motion Deblurring on Microcontroller-based Vision Systems",
+                "doi": "10.1145/3583120.3586970"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "ARSteth: Enabling Home Self-Screening with AR-Assisted Intelligent Stethoscopes",
+                "doi": "10.1145/3583120.3586962"
+            },
+            {
+                "title": "Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition",
+                "doi": "10.1145/3583120.3586968"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster Abstract: mmWaveNet: Indoor Point Cloud Generation from Millimeter-Wave Devices",
+                "doi": "10.1145/3583120.3589822"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster Abstract: SenseEMS - Towards A Hand Activity Recognition and Monitoring System for Emergency Medical Services",
+                "doi": "10.1145/3583120.3589823"
+            },
+            {
+                "title": "Poster Abstract: Attentive Multimodal Learning on Sensor Data using Hyperdimensional Computing",
+                "doi": "10.1145/3583120.3589824"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster Abstract: Multi-sensor Fusion for In-cabin Vehicular Sensing Applications",
+                "doi": "10.1145/3583120.3589836"
+            },
+            {
+                "title": "Poster Abstract: A Testbed for Context Representation in Physical Spaces",
+                "doi": "10.1145/3583120.3589838"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster Abstract: Integrating On- and Off-body Sensing for Young Adults Failure to Launch (FTL) Behavior Profiling",
+                "doi": "10.1145/3583120.3589830"
+            },
+            {
+                "title": "Activity-based Profiling for Energy Harvesting Estimation",
+                "doi": "10.1145/3583120.3589833"
+            },
+            {
+                "title": "Poster Abstract: Driving Behavior Monitoring with Unobtrusive Smart-glasses",
+                "doi": "10.1145/3583120.3589834"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "PhD Forum Abstract: Cooperative Problem-Solving with Systems of Constrained Mobile Agents",
+                "doi": "10.1145/3583120.3589568"
+            },
+            {
+                "title": "PhD Forum Abstract: Pushing the limits of high resolution sensing with single-chip mmWave radar",
+                "doi": "10.1145/3583120.3589569"
+            },
+            {
+                "title": "Demo Abstract: Accessible WiFi sensing leveraging Robot Operating System",
+                "doi": "10.1145/3583120.3589817"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster Abstract: A Radar Based User Discrimination System for Medication Adherence Monitoring",
+                "doi": "10.1145/3583120.3589839"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Demo Abstract: BiGuide: A Bi-level Data Acquisition Guidance for Object Detection on Mobile Devices",
+                "doi": "10.1145/3583120.3589809"
+            },
+            {
+                "title": "Demo Abstract: Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As \"Phase Carriers\"",
+                "doi": "10.1145/3583120.3589815"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Demo Abstract: FreePulse Heart Rate Monitoring System using Ambient Structural Vibrations",
+                "doi": "10.1145/3583120.3589812"
+            },
+            {
+                "title": "Demo Abstract: Edge-based Augmented Reality Guidance System for Retinal Laser Therapy via Feature Matching",
+                "doi": "10.1145/3583120.3589814"
+            }
+        ]
+    }
+]

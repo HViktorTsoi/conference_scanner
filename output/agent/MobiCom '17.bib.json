@@ -1,0 +1,159 @@
+[
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Pulsar: Towards Ubiquitous Visible Light Localization",
+                "doi": "10.1145/3117811.3117821"
+            },
+            {
+                "title": "RF-Echo: A Non-Line-of-Sight Indoor Localization System Using a Low-Power Active RF Reflector ASIC Tag",
+                "doi": "10.1145/3117811.3117840"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Navigating the Chasm between Curiosity- and Impact-Driven Research",
+                "doi": "10.1145/3117811.3129240"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "TagScan: Simultaneous Target Imaging and Material Identification with Commodity RFID Devices",
+                "doi": "10.1145/3117811.3117830"
+            },
+            {
+                "title": "Minding the Billions: Ultra-wideband Localization for Deployed RFID Tags",
+                "doi": "10.1145/3117811.3117833"
+            },
+            {
+                "title": "Simultaneous Power-Based Localization of Transmitters for Crowdsourced Spectrum Monitoring",
+                "doi": "10.1145/3117811.3117845"
+            },
+            {
+                "title": "FlipTracer: Practical Parallel Decoding for Backscatter Communication",
+                "doi": "10.1145/3117811.3117828"
+            },
+            {
+                "title": "Analog On-Tag Hashing: Towards Selective Reading as Hash Primitives in Gen2 RFID Systems",
+                "doi": "10.1145/3117811.3117835"
+            },
+            {
+                "title": "RIO: A Pervasive RFID-based Touch Gesture Interface",
+                "doi": "10.1145/3117811.3117818"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Cardiac Scan: A Non-contact and Continuous Heart-based User Authentication System",
+                "doi": "10.1145/3117811.3117839"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Demo: The Sound of Silence: End-to-End Sign Language Recognition Using SmartWatch",
+                "doi": "10.1145/3117811.3119853"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Demo: Sensor Fusion Localization and Navigation for Visually Impaired People",
+                "doi": "10.1145/3117811.3119858"
+            },
+            {
+                "title": "Demo: Position Tracking for Virtual Reality Using Commodity WiFi",
+                "doi": "10.1145/3117811.3119865"
+            },
+            {
+                "title": "Demo: Ultra-Low Power Gaze Tracking for Virtual Reality",
+                "doi": "10.1145/3117811.3119866"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Demo: Sensor Fusion Localization and Navigation for Visually Impaired People",
+                "doi": "10.1145/3117811.3119858"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Demo: Towards Flexible and Scalable Indoor Navigation",
+                "doi": "10.1145/3117811.3119854"
+            },
+            {
+                "title": "Demo: Acoustic Sensing Based Indoor Floor Plan Construction Using Smartphones",
+                "doi": "10.1145/3117811.3119864"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster: DRIZY: Collaborative Driver Assistance Over Wireless Networks",
+                "doi": "10.1145/3117811.3131255"
+            },
+            {
+                "title": "Poster: Resource Allocation with Conflict Resolution for Vehicular Sidelink Broadcast Communications",
+                "doi": "10.1145/3117811.3131260"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster: Emotion-Aware Smart Tips for Healthy and Happy Sleep",
+                "doi": "10.1145/3117811.3131256"
+            },
+            {
+                "title": "Poster: Conservative Modulation and Coding for Low-latency Robust Transmission of Scalable ECG over LTE MTC",
+                "doi": "10.1145/3117811.3131267"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster: A VLC Solution for Smart Parking",
+                "doi": "10.1145/3117811.3131245"
+            },
+            {
+                "title": "Poster: Connecting Simulation and Real World: IEEE 802.11p in the Loop",
+                "doi": "10.1145/3117811.3131265"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster: Improving Multipath Resolution with MIMO Smoothing",
+                "doi": "10.1145/3117811.3131243"
+            },
+            {
+                "title": "Poster: Combating Multipaths to Enable RFID Sensing in Practical Environments",
+                "doi": "10.1145/3117811.3131258"
+            },
+            {
+                "title": "Poster: Enabling Secure Location Authentication in Drone",
+                "doi": "10.1145/3117811.3131259"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster: WiFi-based Device-Free Human Activity Recognition via Automatic Representation Learning",
+                "doi": "10.1145/3117811.3131266"
+            }
+        ]
+    }
+]

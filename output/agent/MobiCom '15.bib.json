@@ -1,0 +1,131 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Reusing 60GHz Radios for Mobile Radar Imaging",
+                "doi": "10.1145/2789168.2790112"
+            },
+            {
+                "title": "Precise Power Delay Profiling with Commodity WiFi",
+                "doi": "10.1145/2789168.2790124"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Demo: Platform for Collecting Data From Urban Sensors Using Vehicular Networking",
+                "doi": "10.1145/2789168.2789169"
+            },
+            {
+                "title": "Demo: Car-Fi: Opportunistic V2I by Exploiting Dual-Access Wi-Fi Networks",
+                "doi": "10.1145/2789168.2789171"
+            },
+            {
+                "title": "mTrack: High-Precision Passive Tracking Using Millimeter Wave Radios",
+                "doi": "10.1145/2789168.2790113"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster: NLOS-aware Localization Based on Phase Shift Measurements",
+                "doi": "10.1145/2789168.2795163"
+            },
+            {
+                "title": "Poster: On the Low-Cost and Distance-Adaptive Device-free Localization",
+                "doi": "10.1145/2789168.2795162"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster: Continuous and Fine-grained Respiration Volume Monitoring Using Continuous Wave Radar",
+                "doi": "10.1145/2789168.2795177"
+            },
+            {
+                "title": "Poster: Distributed Voronoi-based Acoustic Source Localization with Wireless Sensor Networks",
+                "doi": "10.1145/2789168.2795178"
+            },
+            {
+                "title": "Poster: ParkMaster: Leveraging Edge Computing in Visual Analytics",
+                "doi": "10.1145/2789168.2795174"
+            },
+            {
+                "title": "Poster: Regression-based Characterization of 802.11ac Indoor Performance",
+                "doi": "10.1145/2789168.2795173"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster: Continuous and Fine-grained Respiration Volume Monitoring Using Continuous Wave Radar",
+                "doi": "10.1145/2789168.2795177"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster: A Multi-Drone Platform for Empowering Drones' Teamwork",
+                "doi": "10.1145/2789168.2795180"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "EcoDrive: A Mobile Sensing and Control System for Fuel Efficient Driving",
+                "doi": "10.1145/2789168.2790111"
+            },
+            {
+                "title": "Human Sensing Using Visible Light Communication",
+                "doi": "10.1145/2789168.2790110"
+            },
+            {
+                "title": "The Design and Implementation of a Wireless Video Surveillance System",
+                "doi": "10.1145/2789168.2790123"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "CIDER: Enabling Robustness-Power Tradeoffs on a Computational Eyeglass",
+                "doi": "10.1145/2789168.2790096"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Last-Mile Navigation Using Smartphones",
+                "doi": "10.1145/2789168.2790099"
+            },
+            {
+                "title": "See Through Walls with COTS RFID System!",
+                "doi": "10.1145/2789168.2790100"
+            },
+            {
+                "title": "EchoTag: Accurate Infrastructure-Free Indoor Location Tagging with Smartphones",
+                "doi": "10.1145/2789168.2790102"
+            },
+            {
+                "title": "ToneTrack: Leveraging Frequency-Agile Radios for Time-Based Indoor Wireless Localization",
+                "doi": "10.1145/2789168.2790125"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": []
+    }
+]

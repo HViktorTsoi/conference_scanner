@@ -1,0 +1,212 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation",
+                "doi": "10.1145/3498361.3538918"
+            },
+            {
+                "title": "AutoCast: scalable infrastructure-less cooperative perception for distributed collaborative driving",
+                "doi": "10.1145/3498361.3538925"
+            },
+            {
+                "title": "Wi-drone: wi-fi-based 6-DoF tracking for indoor drone flight control",
+                "doi": "10.1145/3498361.3538936"
+            },
+            {
+                "title": "Reverse engineering and retrofitting robotic aerial vehicle control firmware using dispatch",
+                "doi": "10.1145/3498361.3538938"
+            },
+            {
+                "title": "G2Auth: secure mutual authentication for drone delivery without special user-side hardware",
+                "doi": "10.1145/3498361.3538941"
+            },
+            {
+                "title": "Sunflower: locating underwater robots from the air",
+                "doi": "10.1145/3498361.3539773"
+            },
+            {
+                "title": "SPiDR: ultra-low-power acoustic spatial sensing for micro-robot navigation",
+                "doi": "10.1145/3498361.3539775"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Mosaic: leveraging diverse reflector geometries for omnidirectional around-corner automotive radar",
+                "doi": "10.1145/3498361.3538944"
+            },
+            {
+                "title": "Battery-enabled anti-theft vehicle immobilizer",
+                "doi": "10.1145/3498361.3539772"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "OmniScatter: extreme sensitivity mmWave backscattering using commodity FMCW radar",
+                "doi": "10.1145/3498361.3538924"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "EarHealth: an earphone-based acoustic otoscope for detection of multiple ear diseases in daily life",
+                "doi": "10.1145/3498361.3538935"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Augmenting mmWave localization accuracy through sub-6 GHz on off-the-shelf devices",
+                "doi": "10.1145/3498361.3538920"
+            },
+            {
+                "title": "m3Track: mmwave-based multi-user 3D posture tracking",
+                "doi": "10.1145/3498361.3538926"
+            },
+            {
+                "title": "MetaSight: localizing blocked RFID objects by modulating NLOS signals via metasurfaces",
+                "doi": "10.1145/3498361.3538947"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Edge-IoT framework for speech and mobile-based human-robot interaction",
+                "doi": "10.1145/3498361.3538767"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Liquid level detection using wireless signals",
+                "doi": "10.1145/3498361.3538764"
+            },
+            {
+                "title": "Personalized health monitoring via vital sign measurements leveraging motion sensors on AR/VR headsets",
+                "doi": "10.1145/3498361.3538768"
+            },
+            {
+                "title": "mmSleep: monitoring sleep posture from commodity millimeter-wave devices",
+                "doi": "10.1145/3498361.3538773"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Accurate device self-tracking for robust millimeter-wave imaging on handheld smart devices",
+                "doi": "10.1145/3498361.3538775"
+            },
+            {
+                "title": "Adaptive voltage scaling to balance energy savings and image quality in cameras",
+                "doi": "10.1145/3498361.3538776"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "A millimeter-wave wireless sensing approach for at-home exercise recognition",
+                "doi": "10.1145/3498361.3538781"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Adaptable mobile vision systems through multi-exit neural networks",
+                "doi": "10.1145/3498361.3538791"
+            },
+            {
+                "title": "A modular, extensible framework for modern visual SLAM systems",
+                "doi": "10.1145/3498361.3538793"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "EarChew: towards identifying chewing side preference using earables",
+                "doi": "10.1145/3498361.3538789"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Indoor navigation for visually impaired people with vertex colored graphs",
+                "doi": "10.1145/3498361.3538797"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Indoor navigation for visually impaired people with vertex colored graphs",
+                "doi": "10.1145/3498361.3538797"
+            },
+            {
+                "title": "Continuous blood pressure monitoring using low-cost motion sensors on AR/VR headsets",
+                "doi": "10.1145/3498361.3538798"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Sunflower: locating underwater robots from the air: video",
+                "doi": "10.1145/3498361.3538656"
+            },
+            {
+                "title": "Real-time low-latency tracking for UWB tags",
+                "doi": "10.1145/3498361.3538658"
+            },
+            {
+                "title": "M-cube: an open-source millimeter-wave MIMO software radio for wireless communication and sensing",
+                "doi": "10.1145/3498361.3538659"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Inner-ear cochlea testing with earphones",
+                "doi": "10.1145/3498361.3538657"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "A modular and reconfigurable sensing and actuation platform for smarter environments and drones: demo abstract",
+                "doi": "10.1145/3498361.3538667"
+            },
+            {
+                "title": "Real-time camera analytics for enhancing traffic intersection safety",
+                "doi": "10.1145/3498361.3538669"
+            },
+            {
+                "title": "A sensorless drone-based system for mapping indoor 3D airflow gradients: demo abstract",
+                "doi": "10.1145/3498361.3538671"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "A sensorless drone-based system for mapping indoor 3D airflow gradients: demo abstract",
+                "doi": "10.1145/3498361.3538671"
+            },
+            {
+                "title": "Facilitating instant interactions for stressful experiences sharing and peer support",
+                "doi": "10.1145/3498361.3538672"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "IDEA: intelligent divine eye on air through multi-UAV collaborative inference",
+                "doi": "10.1145/3498361.3538674"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "RFClock: timing, phase and frequency synchronization for distributed wireless networks",
+                "doi": "10.1145/3447993.3448623"
+            },
+            {
+                "title": "Millimetro: mmWave retro-reflective tags for accurate, long range localization",
+                "doi": "10.1145/3447993.3448627"
+            },
+            {
+                "title": "DeepRadar: a deep-learning-based environmental sensing capability sensor design for CBRS",
+                "doi": "10.1145/3447993.3448632"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Large-scale vehicle trajectory reconstruction with camera sensing network",
+                "doi": "10.1145/3447993.3448617"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "HeadFi: bringing intelligence to all headphones",
+                "doi": "10.1145/3447993.3448624"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "RFID and camera fusion for recognition of human-object interactions",
+                "doi": "10.1145/3447993.3483244"
+            },
+            {
+                "title": "SiWa: see into walls via deep UWB radar",
+                "doi": "10.1145/3447993.3483258"
+            },
+            {
+                "title": "MagX: wearable, untethered hands tracking with passive magnets",
+                "doi": "10.1145/3447993.3483260"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Crisp-BP: continuous wrist PPG-based blood pressure measurement",
+                "doi": "10.1145/3447993.3483241"
+            },
+            {
+                "title": "MoVi-Fi: motion-robust vital signs waveform recovery via deep interpreted RF sensing",
+                "doi": "10.1145/3447993.3483251"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "MVP: magnetic vehicular positioning system for GNSS-denied environments",
+                "doi": "10.1145/3447993.3483264"
+            },
+            {
+                "title": "Robust indoor localization with ADS-B",
+                "doi": "10.1145/3447993.3483257"
+            },
+            {
+                "title": "LegoDNN: block-grained scaling of deep neural networks for mobile vision",
+                "doi": "10.1145/3447993.3483249"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "EMP: edge-assisted multi-vehicle perception",
+                "doi": "10.1145/3447993.3483242"
+            },
+            {
+                "title": "VI-eye: semantic-based 3D point cloud registration for infrastructure-assisted autonomous driving",
+                "doi": "10.1145/3447993.3483276"
+            },
+            {
+                "title": "Seirios: leveraging multiple channels for LoRaWAN indoor and outdoor localization",
+                "doi": "10.1145/3447993.3483256"
+            },
+            {
+                "title": "Octopus: a practical and versatile wideband MIMO sensing platform",
+                "doi": "10.1145/3447993.3483267"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Visage: enabling timely analytics for drone imagery",
+                "doi": "10.1145/3447993.3483273"
+            },
+            {
+                "title": "Long-range ambient LoRa backscatter with parallel decoding",
+                "doi": "10.1145/3447993.3483261"
+            },
+            {
+                "title": "PassiveLiFi: rethinking LiFi for low-power and long range RF backscatter",
+                "doi": "10.1145/3447993.3483262"
+            },
+            {
+                "title": "Microphone array backscatter: an application-driven design for lightweight spatial sound recording over the air",
+                "doi": "10.1145/3447993.3483265"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Extracting human behavioral biometrics from robot motions",
+                "doi": "10.1145/3447993.3482860"
+            },
+            {
+                "title": "An aerodynamic, computer vision, and network simulator for networked drone applications",
+                "doi": "10.1145/3447993.3482862"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Heart rate trend forecasting during high-intensity interval training using consumer wearable devices",
+                "doi": "10.1145/3447993.3482870"
+            },
+            {
+                "title": "Federated mobile sensing for activity recognition",
+                "doi": "10.1145/3447993.3488031"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Long-range accurate ranging of millimeter-wave retro-reflective tags in high mobility",
+                "doi": "10.1145/3447993.3510592"
+            },
+            {
+                "title": "Wearable, untethered hands tracking with passive magnets",
+                "doi": "10.1145/3447993.3511175"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Video-based social distancing evaluation in the cosmos testbed pilot site",
+                "doi": "10.1145/3447993.3510590"
+            },
+            {
+                "title": "HAWK-i: a remote and lightweight thermal imaging-based crowd screening framework",
+                "doi": "10.1145/3447993.3520260"
+            }
+        ]
+    }
+]

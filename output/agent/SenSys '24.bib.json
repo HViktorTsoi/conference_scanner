@@ -1,0 +1,272 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "FireLoc: Low-latency Multi-modal Wildfire Geolocation",
+                "doi": "10.1145/3666025.3699318"
+            },
+            {
+                "title": "SALINA: Towards Sustainable Live Sonar Analytics in Wild Ecosystems",
+                "doi": "10.1145/3666025.3699323"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Boosting Collaborative Vehicular Perception on the Edge with Vehicle-to-Vehicle Communication",
+                "doi": "10.1145/3666025.3699328"
+            },
+            {
+                "title": "Acoustic Side-Channel Communications for Aerial Drones with HUM",
+                "doi": "10.1145/3666025.3699337"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "mmCLIP: Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment",
+                "doi": "10.1145/3666025.3699331"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "SEESys: Online Pose Error Estimation System for Visual SLAM",
+                "doi": "10.1145/3666025.3699341"
+            },
+            {
+                "title": "EMTrig: Physical Adversarial Examples Triggered by Electromagnetic Injection towards LiDAR Perception",
+                "doi": "10.1145/3666025.3699343"
+            },
+            {
+                "title": "An Online Defense against Object-based LiDAR Attacks in Autonomous Driving",
+                "doi": "10.1145/3666025.3699345"
+            },
+            {
+                "title": "Mission: mmWave Radar Person Identification with RGB Cameras",
+                "doi": "10.1145/3666025.3699340"
+            },
+            {
+                "title": "MagicStream: Bandwidth-conserving Immersive Telepresence via Semantic Communication",
+                "doi": "10.1145/3666025.3699344"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "LTA: Control-Driven UAV Testing and Bug Localization with Flight Record Decomposition",
+                "doi": "10.1145/3666025.3699350"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition",
+                "doi": "10.1145/3666025.3699349"
+            },
+            {
+                "title": "BSENSE: In-vehicle Child Detection and Vital Sign Monitoring with a Single mmWave Radar and Synthetic Reflectors",
+                "doi": "10.1145/3666025.3699352"
+            },
+            {
+                "title": "Don\u2019t Crosstalk to Me: Origami Structure-Augmented Sensing for Scalable Surface Pressure Monitoring",
+                "doi": "10.1145/3666025.3699353"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "AdaFlow: Opportunistic Inference on Asynchronous Mobile Data with Generalized Affinity Control",
+                "doi": "10.1145/3666025.3699361"
+            },
+            {
+                "title": "CommRad: Context-Aware Sensing-Driven Millimeter-Wave Networks",
+                "doi": "10.1145/3666025.3699363"
+            },
+            {
+                "title": "StarAngle: User Orientation Sensing with Beacon Phase Measurements of Multiple Starlink Satellites",
+                "doi": "10.1145/3666025.3699367"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Advancing PPG-Based Continuous Blood Pressure Monitoring from a Generative Perspective",
+                "doi": "10.1145/3666025.3699365"
+            },
+            {
+                "title": "Towards Efficient Heterogeneous Multi-Modal Federated Learning with Hierarchical Knowledge Disentanglement",
+                "doi": "10.1145/3666025.3699360"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Towards High-Speed Passive Visible Light Communication with Event Cameras and Digital Micro-Mirrors",
+                "doi": "10.1145/3666025.3699368"
+            },
+            {
+                "title": "SyncEcho: Echo-Based Single Speaker Time Offset Estimation for Time-of-Flight Localization",
+                "doi": "10.1145/3666025.3699369"
+            },
+            {
+                "title": "Understanding Concurrent Transmissions over Ultra-Wideband Complex Channels",
+                "doi": "10.1145/3666025.3699372"
+            },
+            {
+                "title": "Exploiting Polarization and Color to Enable MIMO Backscattering with Light",
+                "doi": "10.1145/3666025.3699373"
+            },
+            {
+                "title": "Poster: Wideband Cellular Sensing for Real-time, Sustainable Geo-localization Tags",
+                "doi": "10.1145/3666025.3699382"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "BP3: Improving Cuff-less Blood Pressure Monitoring Performance by Fusing mmWave Pulse Wave Sensing and Physiological Factors",
+                "doi": "10.1145/3666025.3699370"
+            },
+            {
+                "title": "Unvoiced: Designing an LLM-assisted Unvoiced User Interface using Earables",
+                "doi": "10.1145/3666025.3699374"
+            },
+            {
+                "title": "UrineSpec: A Lightweight Near-Infrared Spectroscopy System for Metabolite Detection in Urine",
+                "doi": "10.1145/3666025.3699375"
+            },
+            {
+                "title": "Poster: Multi-Sensory Based Immersive Improvisational Music Intervention Space for Addressing Depression among Sino-Foreign University Students: A Preliminary Study",
+                "doi": "10.1145/3666025.3699384"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster: Single-tag NLoS mmWave Backscatter Localization",
+                "doi": "10.1145/3666025.3699388"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster abstract: Detecting lung diseases with electrical impedance tomography",
+                "doi": "10.1145/3666025.3699385"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Demo Abstract: RemoteHap: Enabling Haptic Exploration of Distant 3D Objects",
+                "doi": "10.1145/3666025.3699398"
+            },
+            {
+                "title": "Demo: Invisible Adversarial Stripes against Traffic Sign Recognition in Autonomous Driving",
+                "doi": "10.1145/3666025.3699401"
+            },
+            {
+                "title": "Poster: Indoor NLoS Localization Using mmWave IRS with Commodity 24 GHz Radar",
+                "doi": "10.1145/3666025.3699402"
+            },
+            {
+                "title": "Poster: Vehicle-Edge Server Collaborative Task Offloading for UAVs: A Game Theoretic Approach",
+                "doi": "10.1145/3666025.3699405"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Demo: Myotrainer: Muscle-Aware Motion Analysis and Feedback System for In-Home Resistance Training",
+                "doi": "10.1145/3666025.3699397"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster Abstract: GnssQuest: Questing for Suitable GNSS Satellites through Augmented Reality",
+                "doi": "10.1145/3666025.3699411"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster Abstract: Acoustic Analysis System for Monitoring Respiratory Disease Symptoms",
+                "doi": "10.1145/3666025.3699406"
+            },
+            {
+                "title": "Poster: A Contactless Health Monitoring System for Humans and Animals",
+                "doi": "10.1145/3666025.3699412"
+            },
+            {
+                "title": "Poster: FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexible Sensor",
+                "doi": "10.1145/3666025.3699415"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster Cooperative UAV Sensor Fusion for Precision Localization and Navigation in Load Transport",
+                "doi": "10.1145/3666025.3699425"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Demo Abstract: Advancing PPG-Based Continuous Blood Pressure Monitoring from a Generative Perspective",
+                "doi": "10.1145/3666025.3699417"
+            },
+            {
+                "title": "Poster: Towards Privacy Preserving Patient State Classification in Psychiatric Seclusion Room using mmWave Radar",
+                "doi": "10.1145/3666025.3699418"
+            },
+            {
+                "title": "Demo: Smartwatch-Driven Gaming for Stroke Rehabilitation",
+                "doi": "10.1145/3666025.3699421"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Ph.D. Forum Abstract: Adapting Deep Learning-Based Sensing Systems to Cyber-Physical Dynamics",
+                "doi": "10.1145/3666025.3699663"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster: AquaGuard: A Sonar-based Pool Monitoring System",
+                "doi": "10.1145/3666025.3699426"
+            },
+            {
+                "title": "Poster: TapID: Wearable Sensing Technology for Identity Identification via Tap Vibration Sensing",
+                "doi": "10.1145/3666025.3699430"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Empowering Resource-efficient MoE Co-Adaptation for Multi-Task Vision Systems",
+                "doi": "10.1145/3666025.3699671"
+            },
+            {
+                "title": "Non-blocking Inference on Asynchronous Mobile Sensor Data with Affinity Control",
+                "doi": "10.1145/3666025.3699672"
+            },
+            {
+                "title": "Ph.D. Forum: Responsive On-Device DNN Adaptation for Non-Stationary Mobile Environments",
+                "doi": "10.1145/3666025.3699673"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Ph.D. Forum: Field Sensing Model, A New Foundation for RF Sensing",
+                "doi": "10.1145/3666025.3699668"
+            }
+        ]
+    }
+]

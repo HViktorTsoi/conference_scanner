@@ -1,0 +1,132 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Fireworks: Channel Estimation of Parallel Backscattered Signals",
+                "doi": "10.1109/IPSN48710.2020.00-44"
+            },
+            {
+                "title": "Distributed Slot Scheduling for QoS Guarantee over TSCH-based IoT Networks via Adaptive Parameterization",
+                "doi": "10.1109/IPSN48710.2020.00029"
+            },
+            {
+                "title": "Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Network",
+                "doi": "10.1109/IPSN48710.2020.00-51"
+            },
+            {
+                "title": "SateLoc: A Virtual Fingerprinting Approach to Outdoor LoRa Localization using Satellite Images",
+                "doi": "10.1109/IPSN48710.2020.00-50"
+            },
+            {
+                "title": "LOCI: Privacy-aware, Device-free, Low-power Localization of Multiple Persons using IR Sensors",
+                "doi": "10.1109/IPSN48710.2020.00018"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Estimating Heart Rate and Detecting Feeding Events of Fish Using an Implantable Biologger",
+                "doi": "10.1109/IPSN48710.2020.00-48"
+            },
+            {
+                "title": "E-Jacket: Posture Detection with Loose-Fitting Garment using a Novel Strain Sensor",
+                "doi": "10.1109/IPSN48710.2020.00-47"
+            },
+            {
+                "title": "MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing",
+                "doi": "10.1109/IPSN48710.2020.00-45"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "RFMap: Generating Indoor Maps using RF Signals",
+                "doi": "10.1109/IPSN48710.2020.00-40"
+            },
+            {
+                "title": "A Spoof-Proof GPS Receiver",
+                "doi": "10.1109/IPSN48710.2020.00-39"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster Abstract: A QoS-aware, Energy-efficient Trajectory Optimization for UAV Base Stations using Q-Learning",
+                "doi": "10.1109/IPSN48710.2020.00-22"
+            },
+            {
+                "title": "All that GLITTERs: Low-Power Spoof-Resilient Optical Markers for Augmented Reality",
+                "doi": "10.1109/IPSN48710.2020.00-27"
+            },
+            {
+                "title": "CollabAR: Edge-assisted Collaborative Image Recognition for Mobile Augmented Reality",
+                "doi": "10.1109/IPSN48710.2020.00-26"
+            },
+            {
+                "title": "Road Grade Estimation Using Crowd-Sourced Smartphone Data",
+                "doi": "10.1109/IPSN48710.2020.00-25"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster Abstract: A Weakly Supervised Tracking of Hand Hygiene Technique",
+                "doi": "10.1109/IPSN48710.2020.00-21"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster Abstract: Multi-Drone Assisted Internet of Things Testbed Based on Bluetooth 5 Communications",
+                "doi": "10.1109/IPSN48710.2020.00-14"
+            },
+            {
+                "title": "Poster Abstract: Human Detection with Weak Ranging Signal for FMCW Radar Systems",
+                "doi": "10.1109/IPSN48710.2020.00-15"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Demo Abstract: Collision Prediction from Pairwise Ranging",
+                "doi": "10.1109/IPSN48710.2020.000-7"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Demo Abstract: Wireless Glasses for Non-contact Facial Expression Monitoring",
+                "doi": "10.1109/IPSN48710.2020.000-1"
+            },
+            {
+                "title": "Demo Abstract: Human Activity Detection with Loose-Fitting Smart Jacket",
+                "doi": "10.1109/IPSN48710.2020.000-6"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "VLD: Smartphone-assisted Vertical Location Detection for Vehicles in Urban Environments",
+                "doi": "10.1109/IPSN48710.2020.9257302"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "PhD Forum Abstract: Scheduling Tasks on Intermittently Powered Systems",
+                "doi": "10.1109/IPSN48710.2020.00010"
+            },
+            {
+                "title": "PhD Forum Abstract: Energy Harvesting based Sensing for the Batteryless IoT",
+                "doi": "10.1109/IPSN48710.2020.00007"
+            },
+            {
+                "title": "PhD Forum Abstract: Towards Deep Learning in Signal Translation for Cross Configurations in device-free WiFi Sensing",
+                "doi": "10.1109/IPSN48710.2020.00011"
+            }
+        ]
+    }
+]

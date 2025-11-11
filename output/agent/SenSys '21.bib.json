@@ -1,0 +1,267 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling",
+                "doi": "10.1145/3485730.3485930"
+            },
+            {
+                "title": "RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms",
+                "doi": "10.1145/3485730.3485938"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "MoRe-Fi: Motion-robust and Fine-grained Respiration Monitoring via Deep-Learning UWB Radar",
+                "doi": "10.1145/3485730.3485932"
+            },
+            {
+                "title": "Sense Me on the Ride: Accurate Mobile Sensing over a LoRa Backscatter Channel",
+                "doi": "10.1145/3485730.3485933"
+            },
+            {
+                "title": "FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition",
+                "doi": "10.1145/3485730.3485946"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "CurveLight: An Accurate and Practical Indoor Positioning System",
+                "doi": "10.1145/3485730.3485934"
+            },
+            {
+                "title": "RFusion: Robotic Grasping via RF-Visual Sensing and Learning",
+                "doi": "10.1145/3485730.3485944"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "LTE-based Pervasive Sensing Across Indoor and Outdoor",
+                "doi": "10.1145/3485730.3485943"
+            },
+            {
+                "title": "OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi",
+                "doi": "10.1145/3485730.3485936"
+            },
+            {
+                "title": "LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications",
+                "doi": "10.1145/3485730.3485937"
+            },
+            {
+                "title": "UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification",
+                "doi": "10.1145/3485730.3485942"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "UltraDepth: Exposing High-Resolution Texture from Depth Cameras",
+                "doi": "10.1145/3485730.3485927"
+            },
+            {
+                "title": "Adversarial Attacks against LiDAR Semantic Segmentation in Autonomous Driving",
+                "doi": "10.1145/3485730.3485935"
+            },
+            {
+                "title": "LAPD: Hidden Spy Camera Detection using Smartphone Time-of-Flight Sensors",
+                "doi": "10.1145/3485730.3485941"
+            },
+            {
+                "title": "A Drone-based System for Intelligent and Autonomous Homes",
+                "doi": "10.1145/3485730.3492881"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "ROMeasure: Smartwatch-Based Practical Solution To Accurately Calculate Joint Range Of Motion",
+                "doi": "10.1145/3485730.3492878"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "A Wearable-based Distracted Driving Detection Leveraging BLE",
+                "doi": "10.1145/3485730.3492872"
+            },
+            {
+                "title": "BLE Location-based Services via WiFi",
+                "doi": "10.1145/3485730.3492891"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Enhanced Virtual Reality: Exploring an Immersive and Realistic Virtual Reality Training for Nursing",
+                "doi": "10.1145/3485730.3492870"
+            },
+            {
+                "title": "Pushing the Limits of Respiration Sensing with Reconfigurable Metasurface",
+                "doi": "10.1145/3485730.3492873"
+            },
+            {
+                "title": "Muscle-Mind: towards the Strength Training Monitoring via the Neuro-Muscular Connection Sensing",
+                "doi": "10.1145/3485730.3492875"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Can Image Style Transfer Save Automotive Radar?",
+                "doi": "10.1145/3485730.3492888"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Image Reconstruction and Compression in Ultrasound Tomography Using Discrete Cosine Transform",
+                "doi": "10.1145/3485730.3492876"
+            },
+            {
+                "title": "Diagnosing Cardiovascular Diseases with Machine Learning on Body Surface Potential Mapping Data",
+                "doi": "10.1145/3485730.3492883"
+            },
+            {
+                "title": "Ultrasound Tomography for Monitoring the Lower Urinary Tract",
+                "doi": "10.1145/3485730.3492887"
+            },
+            {
+                "title": "Pseudo Random Binary Sequence Excitation for Electrical Impedance Tomography",
+                "doi": "10.1145/3485730.3492889"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Social Distancing Compliance Monitoring for COVID-19 Recovery Through Footstep-Induced Floor Vibrations",
+                "doi": "10.1145/3485730.3492893"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Better Never Than Late: Timely Edge Video Analytics Over the Air",
+                "doi": "10.1145/3485730.3493446"
+            },
+            {
+                "title": "Deep Contextualized Compressive Offloading for Images",
+                "doi": "10.1145/3485730.3493452"
+            },
+            {
+                "title": "Vision Paper: Towards Software-Defined Video Analytics with Cross-Camera Collaboration",
+                "doi": "10.1145/3485730.3493453"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Exploring Co-dependency of IoT Data Quality and Model Robustness in Precision Cattle Farming",
+                "doi": "10.1145/3485730.3493447"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Experimental Scalability Study of Consortium Blockchains with BFT Consensus for IoT Automotive Use Case",
+                "doi": "10.1145/3485730.3493374"
+            },
+            {
+                "title": "Detecting Compromised Edge Smart Cameras using Lightweight Environmental Fingerprint Consensus",
+                "doi": "10.1145/3485730.3493684"
+            },
+            {
+                "title": "Person Re-ID Testbed with Multi-Modal Sensors",
+                "doi": "10.1145/3485730.3494113"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "A Blockchain and Machine Learning based Framework for Efficient Health Insurance Management",
+                "doi": "10.1145/3485730.3493685"
+            },
+            {
+                "title": "Enabling Offline Tuning of Fat Channel Communication",
+                "doi": "10.1145/3485730.3494112"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Autonomous Energy Status Sharing and Synchronization for Batteryless Sensor Networks",
+                "doi": "10.1145/3485730.3493360"
+            },
+            {
+                "title": "Persistent Timekeeping Using Harvested Power Measurements",
+                "doi": "10.1145/3485730.3493361"
+            },
+            {
+                "title": "Joint Energy Management for Distributed Energy Harvesting Systems",
+                "doi": "10.1145/3485730.3493362"
+            },
+            {
+                "title": "A Low-resolution infrared thermal dataset and potential privacy-preserving applications",
+                "doi": "10.1145/3485730.3493692"
+            },
+            {
+                "title": "Large-scale Urban IoT Activity Data for DDoS Attack Emulation",
+                "doi": "10.1145/3485730.3493695"
+            },
+            {
+                "title": "Environmental Impact on the Long-Term Connectivity and Link Quality of an Outdoor LoRa Network",
+                "doi": "10.1145/3485730.3493696"
+            },
+            {
+                "title": "Analysis of IFTTT Recipes to Study How Humans Use Internet-of-Things (IoT) Devices",
+                "doi": "10.1145/3485730.3494115"
+            },
+            {
+                "title": "Motion Tracklet Oriented 6-DoF Inertial Tracking Using Commodity Smartphones",
+                "doi": "10.1145/3485730.3494116"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Footstep-Induced Floor Vibration Dataset: Reusability and Transferability Analysis",
+                "doi": "10.1145/3485730.3494117"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "A Battery-Free Long-Range Wireless Smart Camera for Face Recognition",
+                "doi": "10.1145/3485730.3493367"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "A Machine Learning Approach for Abnormality Detection in Blood Vessels via Mobile Nanosensors",
+                "doi": "10.1145/3485730.3494037"
+            },
+            {
+                "title": "Enabling Protein Interactions Using Terahertz Signals for Intra-body Communication",
+                "doi": "10.1145/3485730.3494041"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Coordinating a Swarm of Micro-Robots Under Lossy Communication",
+                "doi": "10.1145/3485730.3494040"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Cardiac Bio-Nanonetwork: Extracellular Matrix Modeling for the Propagation of Extracellular Vesicles",
+                "doi": "10.1145/3485730.3494035"
+            }
+        ]
+    }
+]

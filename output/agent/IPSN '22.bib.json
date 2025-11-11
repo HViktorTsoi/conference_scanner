@@ -1,0 +1,143 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Placement Optimization for UAV-Enabled Wireless Networks with Multi-Hop Backhauls in Urban Environments",
+                "doi": "10.1109/IPSN54338.2022.00012"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "A Low-Cost In-situ System for Continuous Multi-Person Fever Screening",
+                "doi": "10.1109/IPSN54338.2022.00009"
+            },
+            {
+                "title": "SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems",
+                "doi": "10.1109/IPSN54338.2022.00014"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Edge-Eye: Rectifying Millimeter-level Edge Deviation in Manufacturing using Camera-enabled IoT Edge Device",
+                "doi": "10.1109/IPSN54338.2022.00027"
+            },
+            {
+                "title": "Vi-Fi: Associating Moving Subjects across Vision and Wireless Sensors",
+                "doi": "10.1109/IPSN54338.2022.00024"
+            },
+            {
+                "title": "SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites",
+                "doi": "10.1109/IPSN54338.2022.00025"
+            },
+            {
+                "title": "MOM: Microphone based 3D Orientation Measurement",
+                "doi": "10.1109/IPSN54338.2022.00018"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "FaceListener: Recognizing Human Facial Expressions via Acoustic Sensing on Commodity Headphones",
+                "doi": "10.1109/IPSN54338.2022.00019"
+            },
+            {
+                "title": "EyeSyn: Psychology-inspired Eye Movement Synthesis for Gaze-based Activity Recognition",
+                "doi": "10.1109/IPSN54338.2022.00026"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "BalanceFL: Addressing Class Imbalance in Long-Tail Federated Learning",
+                "doi": "10.1109/IPSN54338.2022.00029"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Using Ubiquitous Mobile Sensing and Temporal Sensor-Relation Graph Neural Network to Predict Fluid Intake of End Stage Kidney Patients",
+                "doi": "10.1109/IPSN54338.2022.00031"
+            },
+            {
+                "title": "VMA: Domain Variance- and Modality-Aware Model Transfer for Fine-Grained Occupant Activity Recognition",
+                "doi": "10.1109/IPSN54338.2022.00028"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Demo Abstract: 3D Simultaneous localization and Mapping with Power Network Electromagnetic Radiation",
+                "doi": "10.1109/IPSN54338.2022.00046"
+            },
+            {
+                "title": "Cappella: Establishing Multi-User Augmented Reality Sessions Using Inertial Estimates and Peer-to-Peer Ranging",
+                "doi": "10.1109/IPSN54338.2022.00041"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "The Case for Approximate Intermittent Computing",
+                "doi": "10.1109/IPSN54338.2022.00044"
+            },
+            {
+                "title": "Demo Abstract: An Underwater Sonar-Based Drowning Detection System",
+                "doi": "10.1109/IPSN54338.2022.00047"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Demo Abstract: Towards Reliable Obstacle Avoidance for Nano-UAVs",
+                "doi": "10.1109/IPSN54338.2022.00051"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Demo Abstract: Real-Time Teeth Functional Occlusion Monitoring via In-Mouth Vibration Sensing",
+                "doi": "10.1109/IPSN54338.2022.00053"
+            },
+            {
+                "title": "Poster Abstract: SeatBeats Heart Rate Monitoring System using Structural Seat Vibrations",
+                "doi": "10.1109/IPSN54338.2022.00056"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster Abstract: Machine Learning-based Models for Phase-Difference-of-Arrival Measurements Using Ultra-Wideband Transceivers",
+                "doi": "10.1109/IPSN54338.2022.00059"
+            },
+            {
+                "title": "Poster: An Experimental Localization Testbed based on UWB Channel Impulse Response Measurements",
+                "doi": "10.1109/IPSN54338.2022.00058"
+            },
+            {
+                "title": "Poster Abstract: Accurate and Efficient Hybrid Indoor Localization using ML Methods",
+                "doi": "10.1109/IPSN54338.2022.00062"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster Abstract: Realistic Multiuser, Multimodal (IMU, Acoustic) HAR Data Generation through Single User Data Augmentation",
+                "doi": "10.1109/IPSN54338.2022.00067"
+            },
+            {
+                "title": "Poster Abstract: Sedentary Posture Muscle Monitoring via Active Vibratory Sensing",
+                "doi": "10.1109/IPSN54338.2022.00066"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster Abstract: Trade-off Analysis of Inference Accuracy and Resource Usage for Energy-Positive Activity Recognition",
+                "doi": "10.1109/IPSN54338.2022.00072"
+            }
+        ]
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "FlyZone: A Testbed for Experimenting with Aerial Drone Applications",
+                "doi": "10.1145/3307334.3326106"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "BreathListener: Fine-grained Breathing Monitoring in Driving Environments Utilizing Acoustic Signals",
+                "doi": "10.1145/3307334.3326074"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "When IoT met Augmented Reality: Visualizing the Source of the Wireless Signal in AR View",
+                "doi": "10.1145/3307334.3326079"
+            },
+            {
+                "title": "LpGL: Low-power Graphics Library for Mobile AR Headsets",
+                "doi": "10.1145/3307334.3326097"
+            },
+            {
+                "title": "GLEAM: An Illumination Estimation Framework for Real-time Photorealistic Augmented Reality on Mobile Devices",
+                "doi": "10.1145/3307334.3326098"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "SpecEye: Towards Pervasive and Privacy-Preserving Screen Exposure Detection in Daily Life",
+                "doi": "10.1145/3307334.3326076"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Aura: Inside-out Electromagnetic Controller Tracking",
+                "doi": "10.1145/3307334.3326090"
+            },
+            {
+                "title": "Banner: An Image Sensor Reconfiguration Framework for Seamless Resolution-based Tradeoffs",
+                "doi": "10.1145/3307334.3326092"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Liquid Testing with Your Smartphone",
+                "doi": "10.1145/3307334.3326078"
+            },
+            {
+                "title": "CardioCam: Leveraging Camera on Mobile Devices to Verify Users While Their Heart is Pumping",
+                "doi": "10.1145/3307334.3326093"
+            },
+            {
+                "title": "pH Watch - Leveraging Pulse Oximeters in Existing Wearables for Reusable, Real-time Monitoring of pH in Sweat",
+                "doi": "10.1145/3307334.3326105"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "MagTrack: Enabling Safe Driving Monitoring with Wearable Magnetics",
+                "doi": "10.1145/3307334.3326107"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Toward Reliable Localization by Unequal AoA Tracking",
+                "doi": "10.1145/3307334.3326103"
+            },
+            {
+                "title": "Rover Who Make Indoor Radio Map (poster)",
+                "doi": "10.1145/3307334.3328596"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Virtual-to-Real Transfer via Dynamics Models (poster)",
+                "doi": "10.1145/3307334.3328602"
+            },
+            {
+                "title": "Multi-Agent Deep Reinforcement Learning for Connected Vehicles (poster)",
+                "doi": "10.1145/3307334.3328606"
+            },
+            {
+                "title": "Sensor Localization System for AR-assisted Disaster Relief Applications (poster)",
+                "doi": "10.1145/3307334.3328607"
+            },
+            {
+                "title": "AutoCUP: A Platform for Automatically Creating Aerial Panoramic Map with Multi-UAVs (poster)",
+                "doi": "10.1145/3307334.3328609"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Modeling Exploration/Exploitation Decisions through Mobile Sensing for Understanding Mechanisms of Addiction (poster)",
+                "doi": "10.1145/3307334.3328599"
+            },
+            {
+                "title": "When Wearable Sensing Meets Arm Tracking (poster)",
+                "doi": "10.1145/3307334.3328603"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Audio-based Drone Ranging and Localization using Deep Learning (poster)",
+                "doi": "10.1145/3307334.3328613"
+            },
+            {
+                "title": "AuthGPS: Lightweight GPS Authentication against GPS and LTE Spoofing (poster)",
+                "doi": "10.1145/3307334.3328618"
+            },
+            {
+                "title": "Visualization of City model with VWorld (poster)",
+                "doi": "10.1145/3307334.3328619"
+            },
+            {
+                "title": "PROMAR: Practical Reference Object-based Multi-user Augmented Reality (poster)",
+                "doi": "10.1145/3307334.3328610"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Data Collection from Outdoor IoT 802.15.4 Sensor Networks using Unmanned Aerial Systems (poster)",
+                "doi": "10.1145/3307334.3328627"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Relationship Between LF/HF Value in Heart Rate and Used Mobile Applications (poster)",
+                "doi": "10.1145/3307334.3328626"
+            },
+            {
+                "title": "Deep ECG Wave Estimation Model with Seismograph Sensor (poster)",
+                "doi": "10.1145/3307334.3328629"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "RC Function Virtualization - You Can Remote Control Drone Squadrons (poster)",
+                "doi": "10.1145/3307334.3328644"
+            },
+            {
+                "title": "Accelerating Applications in the Fast-moving Devices with Proactive Provisioning (poster)",
+                "doi": "10.1145/3307334.3328649"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Predicting Air Quality using Moving Sensors (poster)",
+                "doi": "10.1145/3307334.3328647"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "High Precision Relative Positioning on a Mobile (poster)",
+                "doi": "10.1145/3307334.3328653"
+            },
+            {
+                "title": "Towards Precise Localization of E-Scooters Using Sidewalk Ramps (poster)",
+                "doi": "10.1145/3307334.3328660"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Right Intervention at Right Time to Right Person for Healthy Behavior Adaptation (poster)",
+                "doi": "10.1145/3307334.3328654"
+            },
+            {
+                "title": "Smartphone Based Wellness Application for Healthy Lifestyle Promotion (poster)",
+                "doi": "10.1145/3307334.3328656"
+            },
+            {
+                "title": "Medical Concept Extraction using Smartphone and Natural Language Processing Techniques (poster)",
+                "doi": "10.1145/3307334.3328661"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "SoundUAV: Fingerprinting Acoustic Emanations for Delivery Drone Authentication (poster)",
+                "doi": "10.1145/3307334.3328662"
+            },
+            {
+                "title": "RSSI based Power Control Algorithm for C-V2X Mode 4 (poster)",
+                "doi": "10.1145/3307334.3328663"
+            },
+            {
+                "title": "Accelerating Colorizer of Shaded Image for Autonomous Driving in Resource-Constrained SoC (poster)",
+                "doi": "10.1145/3307334.3328664"
+            },
+            {
+                "title": "Towards the Experience of Daytime Driving at Night (poster)",
+                "doi": "10.1145/3307334.3328665"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Accurate Eating Detection on a Daily Wearable Necklace (demo)",
+                "doi": "10.1145/3307334.3328565"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "A Robust and Customizable Tracking Algorithm for Accurate Heart Rate Estimation (demo)",
+                "doi": "10.1145/3307334.3328573"
+            },
+            {
+                "title": "Passive Detection of Perceived Stress Using Location-driven Sensing Technologies at Scale (demo)",
+                "doi": "10.1145/3307334.3328574"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Towards Peripheral Awareness of Remote Family Member's Context Using Self-mobile Robotic Avatars (demo)",
+                "doi": "10.1145/3307334.3328578"
+            },
+            {
+                "title": "Earable -- An Ear-Worn Biosignal Sensing Platform for Cognitive State Monitoring and Human-Computer Interaction (demo)",
+                "doi": "10.1145/3307334.3328582"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Motivating Long-term Dietary Habit Modification through Mobile MR Gamification (demo)",
+                "doi": "10.1145/3307334.3328575"
+            },
+            {
+                "title": "Automatic Assessment Framework for Range of Motion Test using Wearable Device and Smartphone (demo)",
+                "doi": "10.1145/3307334.3328580"
+            },
+            {
+                "title": "Earable -- An Ear-Worn Biosignal Sensing Platform for Cognitive State Monitoring and Human-Computer Interaction (demo)",
+                "doi": "10.1145/3307334.3328582"
+            },
+            {
+                "title": "pH Watch - Leveraging Pulse Oximeters in Existing Wearables for Reusable, Real-time Monitoring of pH in Sweat (demo)",
+                "doi": "10.1145/3307334.3328583"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Edge Acceleration of Deep Neural Networks (demo)",
+                "doi": "10.1145/3307334.3328586"
+            },
+            {
+                "title": "Video Analytics - Killer App for Edge Computing",
+                "doi": "10.1145/3307334.3328589"
+            },
+            {
+                "title": "Robot-Assisted Acupuncture (video)",
+                "doi": "10.1145/3307334.3328590"
+            },
+            {
+                "title": "Micropayments for Trusted Vehicular Services using MOTIVE (video)",
+                "doi": "10.1145/3307334.3328592"
+            },
+            {
+                "title": "Banner -- An Image Sensor Reconfiguration Framework for Seamless Resolution-based Tradeoffs (video)",
+                "doi": "10.1145/3307334.3328594"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Robot-Assisted Acupuncture (video)",
+                "doi": "10.1145/3307334.3328590"
+            }
+        ]
+    }
+]

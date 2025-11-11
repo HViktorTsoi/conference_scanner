@@ -1,0 +1,174 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Griassdi: mutually assisted slotless neighbor discovery",
+                "doi": "10.1145/3055031.3055074"
+            },
+            {
+                "title": "Natural timestamping using powerline electromagnetic radiation",
+                "doi": "10.1145/3055031.3055075"
+            },
+            {
+                "title": "MinHash hierarchy for privacy preserving trajectory sensing and query",
+                "doi": "10.1145/3055031.3055076"
+            },
+            {
+                "title": "PrOLoc: resilient localization with private observers using partial homomorphic encryption",
+                "doi": "10.1145/3055031.3055080"
+            },
+            {
+                "title": "Density-aware compressive crowdsensing",
+                "doi": "10.1145/3055031.3055081"
+            },
+            {
+                "title": "Panoptes: servicing multiple applications simultaneously using steerable cameras",
+                "doi": "10.1145/3055031.3055085"
+            },
+            {
+                "title": "BLEnd: practical continuous neighbor discovery for Bluetooth low energy",
+                "doi": "10.1145/3055031.3055086"
+            },
+            {
+                "title": "Coresets for differentially private k-means clustering and applications to privacy in mobile sensor networks",
+                "doi": "10.1145/3055031.3055090"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Synchronous dynamic view learning: a framework for autonomous training of activity recognition models using wearable sensors",
+                "doi": "10.1145/3055031.3055087"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Argus: realistic target coverage by drones",
+                "doi": "10.1145/3055031.3055078"
+            },
+            {
+                "title": "3D through-wall imaging with unmanned aerial vehicles using wifi",
+                "doi": "10.1145/3055031.3055084"
+            },
+            {
+                "title": "Calibration-free network localization using non-line-of-sight ultra-wideband measurements",
+                "doi": "10.1145/3055031.3055091"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Non-intrusive blood glucose monitor by multi-task deep learning: PhD forum abstract",
+                "doi": "10.1145/3055031.3055049"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "A wireless sensor network simulator focuses on imitating wireless charging vehicle: demo abstract",
+                "doi": "10.1145/3055031.3055037"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Conflict detection in online textual health advice: demo abstract",
+                "doi": "10.1145/3055031.3055038"
+            },
+            {
+                "title": "Separating heartbeats from multiple people on one bed using geophones: PhD forum abstract",
+                "doi": "10.1145/3055031.3055051"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Panoptes\u202f: a cheap, extensible, open-source multi-camera tracking system: demo abstract",
+                "doi": "10.1145/3055031.3055046"
+            },
+            {
+                "title": "Video streaming in multi-hop aerial networks: demo abstract",
+                "doi": "10.1145/3055031.3055047"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Phase-gain IC based novel design of tidal breathing pattern sensor for pulmonary disease diagnostics: demo abstract",
+                "doi": "10.1145/3055031.3055041"
+            },
+            {
+                "title": "HB-phone: a bed-mounted geophone-based heartbeat monitoring system: demo abstract",
+                "doi": "10.1145/3055031.3055042"
+            },
+            {
+                "title": "Mobile sensing to improve medication adherence: demo abstract",
+                "doi": "10.1145/3055031.3055045"
+            },
+            {
+                "title": "IASA - indoor air quality sensing and automation: demo abstract",
+                "doi": "10.1145/3055031.3055043"
+            },
+            {
+                "title": "Using low-cost, non-sensor-equipped BLE beacons to track people's movements: poster abstract",
+                "doi": "10.1145/3055031.3055054"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "3D activity localization with multiple sensors: poster abstract",
+                "doi": "10.1145/3055031.3055057"
+            },
+            {
+                "title": "CAR - a deep learning structure for concurrent activity recognition: poster abstract",
+                "doi": "10.1145/3055031.3055058"
+            },
+            {
+                "title": "Analysis and evaluation of driving behavior recognition based on a 3-axis accelerometer using a random forest approach: poster abstract",
+                "doi": "10.1145/3055031.3055060"
+            },
+            {
+                "title": "Long term occupancy estimation in a commercial space: an empirical study: poster abstract",
+                "doi": "10.1145/3055031.3055062"
+            },
+            {
+                "title": "E-loc: indoor localization through building electric wiring: poster abstract",
+                "doi": "10.1145/3055031.3055064"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "CAR - a deep learning structure for concurrent activity recognition: poster abstract",
+                "doi": "10.1145/3055031.3055058"
+            },
+            {
+                "title": "A beverage intake tracking system based on machine learning algorithms, and ultrasonic and color sensors: poster abstract",
+                "doi": "10.1145/3055031.3055065"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Improving RGB-D SLAM using wi-fi: poster abstract",
+                "doi": "10.1145/3055031.3055067"
+            },
+            {
+                "title": "Hybrid and adaptive drone identification through motion actuation and vision feature matching: poster abstract",
+                "doi": "10.1145/3055031.3055072"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Heart and sole - shoe-based heart monitoring: demo abstract",
+                "doi": "10.1145/3055031.3055048"
+            },
+            {
+                "title": "Empirical research on behavior change promoted by information technology: poster abstract",
+                "doi": "10.1145/3055031.3055068"
+            }
+        ]
+    }
+]

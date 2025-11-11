@@ -1,0 +1,178 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Strata: Fine-Grained Acoustic-based Device-Free Tracking",
+                "doi": "10.1145/3081333.3081356"
+            },
+            {
+                "title": "BatMapper: Acoustic Sensing Based Indoor Floor Plan Construction Using Smartphones",
+                "doi": "10.1145/3081333.3081363"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images",
+                "doi": "10.1145/3081333.3081336"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Enabling High-Precision Visible Light Localization in Today's Buildings",
+                "doi": "10.1145/3081333.3081335"
+            },
+            {
+                "title": "CELLI: Indoor Positioning Using Polarized Sweeping Light Beams",
+                "doi": "10.1145/3081333.3081352"
+            },
+            {
+                "title": "POLI: Long-Range Visible Light Communications Using Polarized Light Intensity Modulation",
+                "doi": "10.1145/3081333.3081353"
+            },
+            {
+                "title": "Card-stunt as a Service: Empowering a Massively Packed Crowd for Instant Collective Expressiveness",
+                "doi": "10.1145/3081333.3081357"
+            },
+            {
+                "title": "Poster: Multicamera Synchronization for Smartphones using Optimally Modulated Illuminations",
+                "doi": "10.1145/3081333.3089292"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster: Towards Quick Angular Check to Rebuff Forged Position Attacks in Vehicular Communication",
+                "doi": "10.1145/3081333.3089300"
+            },
+            {
+                "title": "Poster: Visual Cue-Based VRU Protection on Smartphones",
+                "doi": "10.1145/3081333.3089301"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster: Vocal Resonance as a Passive Biometric",
+                "doi": "10.1145/3081333.3089304"
+            },
+            {
+                "title": "Poster: Smartwatch Knows How Much You Drink",
+                "doi": "10.1145/3081333.3089306"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster: RTDroid: A Real-Time Solution with Android",
+                "doi": "10.1145/3081333.3089312"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster: HeartFit: An Intuitive Smartphone Application for Well-being of Hypertensive Patients",
+                "doi": "10.1145/3081333.3089308"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster: Redundancy Aided Vehicular Networking",
+                "doi": "10.1145/3081333.3089317"
+            },
+            {
+                "title": "Poster: Field Testing Vehicular Networks using OpenC2X",
+                "doi": "10.1145/3081333.3089322"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster: Auracle: A Wearable Device for Detecting and Monitoring Eating Behavior",
+                "doi": "10.1145/3081333.3089320"
+            },
+            {
+                "title": "Poster: Characters vs. Words: Observations on Command Design for Brain-Computer Interfaces",
+                "doi": "10.1145/3081333.3089321"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Demo: DeepMon: Building Mobile GPU Deep Learning Models for Continuous Vision Applications",
+                "doi": "10.1145/3081333.3089331"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Demo: AWSense: A Framework for Collecting Sensing Data from the Apple Watch",
+                "doi": "10.1145/3081333.3089333"
+            },
+            {
+                "title": "Demo: iBlink: Smart Glasses for Facial Paralysis Patients",
+                "doi": "10.1145/3081333.3089337"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Matthan: Drone Presence Detection by Identifying Physical Signatures in the Drone's RF Communication",
+                "doi": "10.1145/3081333.3081354"
+            },
+            {
+                "title": "Demo: CELLI: Indoor Positioning using Polarized Sweeping Light Beams",
+                "doi": "10.1145/3081333.3089339"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Object Recognition and Navigation using a Single Networking Device",
+                "doi": "10.1145/3081333.3081339"
+            },
+            {
+                "title": "Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision",
+                "doi": "10.1145/3081333.3081347"
+            },
+            {
+                "title": "Indoor Follow Me Drone",
+                "doi": "10.1145/3081333.3081362"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "BigRoad: Scaling Road Data Acquisition for Dependable Self-Driving",
+                "doi": "10.1145/3081333.3081344"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "iBlink: Smart Glasses for Facial Paralysis Patients",
+                "doi": "10.1145/3081333.3081343"
+            },
+            {
+                "title": "Open Data Kit 2.0: A Services-Based Application Framework for Disconnected Data Management",
+                "doi": "10.1145/3081333.3081365"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Techu: Open and Privacy-Preserving Crowdsourced GPS for the Masses",
+                "doi": "10.1145/3081333.3081345"
+            }
+        ]
+    }
+]

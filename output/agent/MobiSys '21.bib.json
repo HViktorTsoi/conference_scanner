@@ -1,0 +1,103 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "FollowUpAR: enabling follow-up effects in mobile AR applications",
+                "doi": "10.1145/3458864.3467675"
+            },
+            {
+                "title": "Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality",
+                "doi": "10.1145/3458864.3467886"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "ClusterFL: a similarity-aware federated learning system for human activity recognition",
+                "doi": "10.1145/3458864.3467681"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain",
+                "doi": "10.1145/3458864.3467677"
+            },
+            {
+                "title": "Owlet: enabling spatial information in ubiquitous acoustic devices",
+                "doi": "10.1145/3458864.3467880"
+            },
+            {
+                "title": "Accurate ubiquitous localization with off-the-shelf IEEE 802.11ac devices",
+                "doi": "10.1145/3458864.3468850"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Healthy diapering with passive RFIDs for diaper wetness sensing and urine pH identification",
+                "doi": "10.1145/3458864.3466870"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "SpaceBeam: LiDAR-driven one-shot mmWave beam management",
+                "doi": "10.1145/3458864.3466864"
+            },
+            {
+                "title": "RayTrack: enabling interference-free outdoor mobile VLC with dynamic field-of-view",
+                "doi": "10.1145/3458864.3466867"
+            },
+            {
+                "title": "Throughput-fairness tradeoffs in mobility platforms",
+                "doi": "10.1145/3458864.3467881"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Discovering emergency call pitfalls for cellular networks with formal methods",
+                "doi": "10.1145/3458864.3466625"
+            },
+            {
+                "title": "Is your smoke detector working properly? robust fault tolerance approaches for smoke detectors",
+                "doi": "10.1145/3458864.3466869"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "ITrackU: tracking a pen-like instrument via UWB-IMU fusion",
+                "doi": "10.1145/3458864.3467885"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Pain-o-vision, effortless pain management",
+                "doi": "10.1145/3458864.3466907"
+            },
+            {
+                "title": "A smart agent guided contactless data collection system amid a pandemic",
+                "doi": "10.1145/3458864.3466908"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "A do-it-yourself computer vision based robotic ball throw trainer",
+                "doi": "10.1145/3458864.3466909"
+            },
+            {
+                "title": "Lost and Found! associating target persons in camera surveillance footage with smartphone identifiers",
+                "doi": "10.1145/3458864.3466904"
+            },
+            {
+                "title": "Microstructure-guided spatial sensing for low-power IoT",
+                "doi": "10.1145/3458864.3466906"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    }
+]

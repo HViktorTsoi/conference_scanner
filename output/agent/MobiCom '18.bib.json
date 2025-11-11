@@ -1,0 +1,213 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "SkyCore: Moving Core to the Edge for Untethered and Reliable UAV-based LTE Networks",
+                "doi": "10.1145/3241539.3241549"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Battery-Free Eye Tracker on Glasses",
+                "doi": "10.1145/3241539.3241578"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision",
+                "doi": "10.1145/3241539.3241559"
+            },
+            {
+                "title": "DeepCache: Principled Cache for Mobile Deep Vision",
+                "doi": "10.1145/3241539.3241563"
+            },
+            {
+                "title": "Flare: Practical Viewport-Adaptive 360-Degree Video Streaming for Mobile Devices",
+                "doi": "10.1145/3241539.3241565"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Towards Environment Independent Device Free Human Activity Recognition",
+                "doi": "10.1145/3241539.3241548"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Verification: Accuracy Evaluation of WiFi Fine Time Measurements on an Open Platform",
+                "doi": "10.1145/3241539.3241555"
+            },
+            {
+                "title": "CrossSense: Towards Cross-Site and Large-Scale WiFi Sensing",
+                "doi": "10.1145/3241539.3241570"
+            },
+            {
+                "title": "Session details: Where are U Now? Localization and Motion Tracking",
+                "doi": "10.1145/3285059"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "RainbowLight: Towards Low Cost Ambient Light Positioning with Mobile Phones",
+                "doi": "10.1145/3241539.3241545"
+            },
+            {
+                "title": "Closing the Gaps in Inertial Motion Tracking",
+                "doi": "10.1145/3241539.3241582"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Experience: Cross-Technology Radio Respiratory Monitoring Performance Study",
+                "doi": "10.1145/3241539.3241560"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Simultaneous Localization and Mapping with Power Network Electromagnetic Field",
+                "doi": "10.1145/3241539.3241540"
+            },
+            {
+                "title": "RAVEN: Improving Interactive Latency for the Connected Car",
+                "doi": "10.1145/3241539.3241571"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Chip-to-chip RF Communications and Power Delivery via On-chip Antennas",
+                "doi": "10.1145/3241539.3270100"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Using Barometer on Smartphones to Improve GPS Navigation Altitude Accuracy",
+                "doi": "10.1145/3241539.3267735"
+            },
+            {
+                "title": "Maintaining UAV Stability using Low-Power WANs",
+                "doi": "10.1145/3241539.3267747"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "SaFePlay+: A Wearable Cycling Measurement and Analysis System of Lower Limbs",
+                "doi": "10.1145/3241539.3267757"
+            },
+            {
+                "title": "Effectiveness of Deep Neural Network Model in Typing-based Emotion Detection on Smartphones",
+                "doi": "10.1145/3241539.3267761"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "VeData: Promoting AI Assisted Autonomous Vehicles",
+                "doi": "10.1145/3241539.3267756"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Your Heart Won't Lie: PPG-based Continuous Authentication on Wrist-worn Wearable Devices",
+                "doi": "10.1145/3241539.3267748"
+            },
+            {
+                "title": "Low Cost Platform Design for Pollution Measurement in Delhi-NCR using Vehicle-Mounted Sensors",
+                "doi": "10.1145/3241539.3267779"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "RainbowLight: Design and Implementation of a Low Cost Ambient Light Positioning System",
+                "doi": "10.1145/3241539.3267711"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Leveraging Breathing for Continuous User Authentication",
+                "doi": "10.1145/3241539.3267743"
+            },
+            {
+                "title": "A lightweight Mutually Authenticated Key-Agreement scheme for Wireless Body Area Networks in Internet of Things Environment",
+                "doi": "10.1145/3241539.3267775"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Mitigating Multiple Narrowband Interferers in SDR IEEE 802.11g Diversity Receiver",
+                "doi": "10.1145/3241539.3267713"
+            },
+            {
+                "title": "Near-Field Identification of UHF RFIDs with WiFi!",
+                "doi": "10.1145/3241539.3267718"
+            },
+            {
+                "title": "Low Latency Mobile Augmented Reality with Flexible Tracking",
+                "doi": "10.1145/3241539.3267719"
+            },
+            {
+                "title": "EasyGO: A Rapid Indoor Navigation and Evacuation System Using Smartphones through Internet of Things Technologies",
+                "doi": "10.1145/3241539.3267721"
+            },
+            {
+                "title": "COIN by SenseGiz",
+                "doi": "10.1145/3241539.3267722"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "RF-iCare: An RFID-based Approach for Infusion Status Monitoring",
+                "doi": "10.1145/3241539.3267714"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "HAMS: Driver and Driving Monitoring using a Smartphone",
+                "doi": "10.1145/3241539.3267723"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "MegaSense: Megacity-scale Accurate Air Quality Sensing with the Edge",
+                "doi": "10.1145/3241539.3267724"
+            },
+            {
+                "title": "A Software-Defined Radio for Wireless Brain Implants Network",
+                "doi": "10.1145/3241539.3267727"
+            }
+        ]
+    }
+]

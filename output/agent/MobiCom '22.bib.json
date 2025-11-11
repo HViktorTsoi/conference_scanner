@@ -1,0 +1,250 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Experience: practical indoor localization for malls",
+                "doi": "10.1145/3495243.3517021"
+            },
+            {
+                "title": "Quasi-optical 3D localization using asymmetric signatures above 100 GHz",
+                "doi": "10.1145/3495243.3517022"
+            },
+            {
+                "title": "Moir'\u00e9Pose: ultra high precision camera-to-screen pose estimation based on Moir'\u00e9 pattern",
+                "doi": "10.1145/3495243.3560537"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "VIPS: real-time perception fusion for infrastructure-assisted autonomous driving",
+                "doi": "10.1145/3495243.3560539"
+            },
+            {
+                "title": "Wiffract: a new foundation for RF imaging via edge tracing",
+                "doi": "10.1145/3495243.3514261"
+            },
+            {
+                "title": "CORE-lens: simultaneous communication and object recognition with disentangled-GAN cameras",
+                "doi": "10.1145/3495243.3560526"
+            },
+            {
+                "title": "Experience: pushing indoor localization from laboratory to the wild",
+                "doi": "10.1145/3495243.3560546"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Experience: pushing indoor localization from laboratory to the wild",
+                "doi": "10.1145/3495243.3560546"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Automatic calibration of magnetic tracking",
+                "doi": "10.1145/3495243.3558760"
+            },
+            {
+                "title": "Mobi2Sense: empowering wireless sensing with mobility",
+                "doi": "10.1145/3495243.3560518"
+            },
+            {
+                "title": "RF-URL: unsupervised representation learning for RF sensing",
+                "doi": "10.1145/3495243.3560529"
+            },
+            {
+                "title": "LiqRay: non-invasive and fine-grained liquid recognition system",
+                "doi": "10.1145/3495243.3560540"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Network-side digital contact tracing on a large university campus",
+                "doi": "10.1145/3495243.3517029"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "MobiDepth: real-time depth estimation using on-device dual cameras",
+                "doi": "10.1145/3495243.3560517"
+            },
+            {
+                "title": "DoCam: depth sensing with an optical image stabilization supported RGB camera",
+                "doi": "10.1145/3495243.3560523"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "SmartLens: sensing eye activities using zero-power contact lens",
+                "doi": "10.1145/3495243.3560532"
+            },
+            {
+                "title": "Magnetoelectric backscatter communication for millimeter-sized wireless biomedical implants",
+                "doi": "10.1145/3495243.3560541"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "U-star: an underwater navigation system based on passive 3D optical identification tags",
+                "doi": "10.1145/3495243.3517019"
+            },
+            {
+                "title": "uGPS: design and field-tested seamless GNSS infrastructure in metro city",
+                "doi": "10.1145/3495243.3560520"
+            },
+            {
+                "title": "Non-cooperative wi-fi localization & its privacy implications",
+                "doi": "10.1145/3495243.3560530"
+            },
+            {
+                "title": "Authentication for drone delivery through a novel way of using face biometrics",
+                "doi": "10.1145/3495243.3560550"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "PROS: an efficient pattern-driven compressive sensing framework for low-power biopotential-based wearables with on-chip intelligence",
+                "doi": "10.1145/3495243.3560533"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Demonstrating hitonavi-\u03bc: a novel wearable LiDAR for human activity recognition",
+                "doi": "10.1145/3495243.3558744"
+            },
+            {
+                "title": "HiToF: a ToF camera system for capturing high-resolution textures",
+                "doi": "10.1145/3495243.3558747"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Demonstrating hitonavi-\u03bc: a novel wearable LiDAR for human activity recognition",
+                "doi": "10.1145/3495243.3558744"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "DIY-IPS: towards an off-the-shelf accurate indoor positioning system",
+                "doi": "10.1145/3495243.3558752"
+            },
+            {
+                "title": "Demonstrating OmniCells: a resilient indoor localization system to devices' diversity",
+                "doi": "10.1145/3495243.3558753"
+            },
+            {
+                "title": "Edge-assisted deep video denoising and super-resolution for real-time surveillance at night",
+                "doi": "10.1145/3495243.3558754"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "MUFFLE: prototype of light-weight haptic augmented pressure interface for on-fly neurorehabilitation",
+                "doi": "10.1145/3495243.3558755"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "A wifi vision-based 3D human mesh reconstruction",
+                "doi": "10.1145/3495243.3558247"
+            },
+            {
+                "title": "Indoor localization using light spectral information",
+                "doi": "10.1145/3495243.3558249"
+            },
+            {
+                "title": "Experimenting with localization management functions in 5G core networks",
+                "doi": "10.1145/3495243.3558762"
+            },
+            {
+                "title": "Automatic calibration of magnetic tracking: demo",
+                "doi": "10.1145/3495243.3567653"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Passive light spectral indoor localization",
+                "doi": "10.1145/3495243.3558253"
+            },
+            {
+                "title": "Anchor-few: an adaptive precise indoor positioning system for low anchor densities based on IoT localization",
+                "doi": "10.1145/3495243.3558254"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Fall detection based on interpretation of important features with wrist-wearable sensors",
+                "doi": "10.1145/3495243.3558250"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "MobiCache: a mobility-aware caching technique in vehicular edge computing",
+                "doi": "10.1145/3495243.3558266"
+            },
+            {
+                "title": "Which uber is mine? identifying target in crowd of objects with RF analysis and AR visual tags",
+                "doi": "10.1145/3495243.3558268"
+            },
+            {
+                "title": "A vision-based indoor positioning systems utilizing computer aided design drawing",
+                "doi": "10.1145/3495243.3558270"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "A GPU-enabled mobile telemedicine training system for graphic rendering",
+                "doi": "10.1145/3495243.3558269"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Mobile IoT-RoadBot: an AI-powered mobile IoT solution for real-time roadside asset management",
+                "doi": "10.1145/3495243.3558271"
+            },
+            {
+                "title": "A real-time edge-AI system for reef surveys",
+                "doi": "10.1145/3495243.3558278"
+            },
+            {
+                "title": "Leveraging public buses to relay UAVs for on-demand applications",
+                "doi": "10.1145/3495243.3558279"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "A wearable ultrasonic bladder monitoring device",
+                "doi": "10.1145/3495243.3558272"
+            },
+            {
+                "title": "MMCamera: an imaging modality for future RF-based physiological sensing",
+                "doi": "10.1145/3495243.3558275"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": []
+    }
+]

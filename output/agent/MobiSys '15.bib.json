@@ -1,0 +1,129 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Invisible Sensing of Vehicle Steering with Smartphones",
+                "doi": "10.1145/2742647.2742659"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Contactless Sleep Apnea Detection on Smartphones",
+                "doi": "10.1145/2742647.2742674"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "RollingLight: Enabling Line-of-Sight Light-to-Camera Communications",
+                "doi": "10.1145/2742647.2742651"
+            },
+            {
+                "title": "InFrame++: Achieve Simultaneous Screen-Human Viewing and Hidden Screen-Camera Communication",
+                "doi": "10.1145/2742647.2742652"
+            },
+            {
+                "title": "Starfish: Efficient Concurrency Support for Computer Vision Applications",
+                "doi": "10.1145/2742647.2742663"
+            },
+            {
+                "title": "Real-Time Screen-Camera Communication Behind Any Scene",
+                "doi": "10.1145/2742647.2742667"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "U-Wear: Software-Defined Ultrasonic Networking for Wearable Devices",
+                "doi": "10.1145/2742647.2742655"
+            },
+            {
+                "title": "LookUp: Enabling Pedestrian Safety Services via Shoe Sensing",
+                "doi": "10.1145/2742647.2742669"
+            },
+            {
+                "title": "ZOE: A Cloud-less Dialog-enabled Continuous Sensing Wearable Exploiting Heterogeneous Computation",
+                "doi": "10.1145/2742647.2742672"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Wearables Can Afford: Light-weight Indoor Positioning with Visible Light",
+                "doi": "10.1145/2742647.2742648"
+            },
+            {
+                "title": "OverLay: Practical Mobile Augmented Reality",
+                "doi": "10.1145/2742647.2742666"
+            },
+            {
+                "title": "Visually Fingerprinting Humans without Face Recognition",
+                "doi": "10.1145/2742647.2742671"
+            },
+            {
+                "title": "Video: LookUp!: Enabling Pedestrian Safety Services via Shoe Sensing",
+                "doi": "10.1145/2742647.2749242"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Video: LookUp!: Enabling Pedestrian Safety Services via Shoe Sensing",
+                "doi": "10.1145/2742647.2749242"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Demo: Breathing-Based Text Input for Mobile Phones",
+                "doi": "10.1145/2742647.2745917"
+            },
+            {
+                "title": "Demo: Continuous Emotional Status in Mobile-Mediated Communications",
+                "doi": "10.1145/2742647.2745919"
+            },
+            {
+                "title": "Demo: Mobile Software Emotions Logging: Towards an Automatic Usability Evaluation",
+                "doi": "10.1145/2742647.2745926"
+            },
+            {
+                "title": "Demo: Using Wearables to Learn from Human Dynamics",
+                "doi": "10.1145/2742647.2745932"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Demo: Lightweight Visible Light Communication forIndoor Positioning",
+                "doi": "10.1145/2742647.2745924"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Demo: Finger and Hand Gesture Recognition using Smartwatch",
+                "doi": "10.1145/2742647.2745922"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster: Swarming Drones Can Connect You to the Network",
+                "doi": "10.1145/2742647.2745914"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster: Location Verification and Recovery for Mobile In-Vehicle Applications",
+                "doi": "10.1145/2742647.2745912"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    }
+]

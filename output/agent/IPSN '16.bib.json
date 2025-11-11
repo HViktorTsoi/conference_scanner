@@ -1,0 +1,118 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Indoor tracking using crowdsourced maps",
+                "doi": "10.5555/2959355.2959360"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Burnout: a wearable system for unobtrusive skeletal muscle fatigue estimation",
+                "doi": "10.5555/2959355.2959363"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Harmonium: asymmetric, bandstitched UWB for fast, accurate, and robust indoor localization",
+                "doi": "10.5555/2959355.2959370"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "HB-phone: a bed-mounted geophone-based heartbeat monitoring system",
+                "doi": "10.5555/2959355.2959377"
+            },
+            {
+                "title": "HeadScan: a wearable system for radio-based sensing of head and mouth-related activities",
+                "doi": "10.5555/2959355.2959376"
+            },
+            {
+                "title": "Human tracking and activity monitoring using 60 GHz mmWave: poster abstract",
+                "doi": "10.5555/2959355.2959380"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Efficient visual positioning with adaptive parameter learning: poster abstract",
+                "doi": "10.5555/2959355.2959389"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Accurate and robust low-cost GNSS localization: Ph.D. forum abstract",
+                "doi": "10.5555/2959355.2959397"
+            },
+            {
+                "title": "Modeling and evaluation of dependable wireless sensor networks: Ph.D. forum abstract",
+                "doi": "10.5555/2959355.2959398"
+            },
+            {
+                "title": "The TWECIS testbed architecture: poster abstract",
+                "doi": "10.5555/2959355.2959399"
+            },
+            {
+                "title": "A scalable testbed infrastructure for embedded industrial wireless sensor and actuator networks: Ph.D. forum abstract",
+                "doi": "10.5555/2959355.2959400"
+            },
+            {
+                "title": "Real-time indoor localization with TDOA and distributed software defined radio: demonstration abstract",
+                "doi": "10.5555/2959355.2959401"
+            },
+            {
+                "title": "Enhanced real-time transmission using time gain in wireless sensor networks: poster abstract",
+                "doi": "10.5555/2959355.2959403"
+            },
+            {
+                "title": "An extremely long standby time wireless sensor system for debris flow monitoring: poster abstract",
+                "doi": "10.5555/2959355.2959404"
+            },
+            {
+                "title": "Exploiting temporal variation of received radio signal strength for indoor human tracking: poster abstract",
+                "doi": "10.5555/2959355.2959405"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Automatic calibration of device attitude in inertial measurement unit based traffic probe vehicles: poster abstract",
+                "doi": "10.5555/2959355.2959409"
+            },
+            {
+                "title": "A novel human tracking and localization system based on pyroelectric infrared sensors: demonstration abstract",
+                "doi": "10.5555/2959355.2959407"
+            },
+            {
+                "title": "LocaLight: a battery-free passive localization system using visible light: poster abstract",
+                "doi": "10.5555/2959355.2959415"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Piezoelectric energy harvesting powered WSN for aircraft structural health monitoring: poster abstract",
+                "doi": "10.5555/2959355.2959421"
+            },
+            {
+                "title": "KinetiSee: a perpetual wearable camera acquisition system with a kinetic harvester: poster abstract",
+                "doi": "10.5555/2959355.2959423"
+            }
+        ]
+    }
+]

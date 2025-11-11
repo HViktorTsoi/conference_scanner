@@ -1,0 +1,148 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Moving target defense for embedded deep visual sensing against adversarial examples",
+                "doi": "10.1145/3356250.3360025"
+            },
+            {
+                "title": "HyperSight: boosting distant 3D vision on a single dual-camera smartphone",
+                "doi": "10.1145/3356250.3360029"
+            },
+            {
+                "title": "ALT: towards automating driver license testing using smartphones",
+                "doi": "10.1145/3356250.3360037"
+            },
+            {
+                "title": "Frugal following: power thrifty object detection and tracking for mobile augmented reality",
+                "doi": "10.1145/3356250.3360044"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing",
+                "doi": "10.1145/3356250.3360020"
+            },
+            {
+                "title": "SenseHAR: a robust virtual activity sensor for smartphones and wearables",
+                "doi": "10.1145/3356250.3360032"
+            },
+            {
+                "title": "SkinnyPower: enabling batteryless wearable sensors via intra-body power transfer",
+                "doi": "10.1145/3356250.3360034"
+            },
+            {
+                "title": "VitaMon: measuring heart rate variability using smartphone front camera",
+                "doi": "10.1145/3356250.3360036"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "WideSee: towards wide-area contactless wireless sensing",
+                "doi": "10.1145/3356250.3360031"
+            },
+            {
+                "title": "Caesar: cross-camera complex activity recognition",
+                "doi": "10.1145/3356250.3360041"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "FerroTag: a paper-based mmWave-scannable tagging infrastructure",
+                "doi": "10.1145/3356250.3360019"
+            },
+            {
+                "title": "Tagtag: material sensing with commodity RFID",
+                "doi": "10.1145/3356250.3360027"
+            },
+            {
+                "title": "FaHo: deep learning enhanced holographic localization for RFID tags",
+                "doi": "10.1145/3356250.3360035"
+            },
+            {
+                "title": "KinPhy: a kinetic in-band channel for millimetre-wave networks",
+                "doi": "10.1145/3356250.3360039"
+            },
+            {
+                "title": "RFID based real-time recognition of ongoing gesture with adversarial learning",
+                "doi": "10.1145/3356250.3360045"
+            },
+            {
+                "title": "Acoustic anomaly detection system: demo abstract",
+                "doi": "10.1145/3356250.3361963"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "U-Verse: a miniaturized platform for end-to-end closed-loop implantable internet of medical things systems",
+                "doi": "10.1145/3356250.3360026"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Smartphone-based driver license testing: demo abstract",
+                "doi": "10.1145/3356250.3361936"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Privacy preserving pregnancy weight gain management: demo abstract",
+                "doi": "10.1145/3356250.3361941"
+            },
+            {
+                "title": "BIGHand - A bilateral, integrated, and gamified handgrip stroke rehabilitation system for independent at-home exercise: demo abstract",
+                "doi": "10.1145/3356250.3361949"
+            },
+            {
+                "title": "ARMove: A smartphone augmented reality exergaming system for upper and lower extremities stroke rehabilitation: demo abstract",
+                "doi": "10.1145/3356250.3361951"
+            },
+            {
+                "title": "Enabling battery-less wearable sensors via intra-body power transfer: demo abstract",
+                "doi": "10.1145/3356250.3361959"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "A swarm of crop spraying drones solution for optimising safe pesticide usage in arable lands: poster abstract",
+                "doi": "10.1145/3356250.3361948"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Patient identification using a smart pill-bottle: poster abstract",
+                "doi": "10.1145/3356250.3361933"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Towards wide-area contactless human sensing: poster abstract",
+                "doi": "10.1145/3356250.3361931"
+            },
+            {
+                "title": "Understanding real-time interaction in heterogeneous vehicular sensing: poster abstract",
+                "doi": "10.1145/3356250.3361958"
+            },
+            {
+                "title": "Vehicular mobility modeling based on heterogeneous sensor networks: poster abstract",
+                "doi": "10.1145/3356250.3361964"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    }
+]

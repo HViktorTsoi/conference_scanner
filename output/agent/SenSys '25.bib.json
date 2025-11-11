@@ -1,0 +1,270 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Ultra-High-Frequency Harmony: mmWave Radar and Event Camera Orchestrate Accurate Drone Landing",
+                "doi": "https://doi.org/10.1145/3715014.3722048"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Improving mmWave based Hand Hygiene Monitoring through Beam Steering and Combining Techniques",
+                "doi": "https://doi.org/10.1145/3715014.3722085"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "RoboTera: Non-Contact Friction Sensing for Robotic Grasping via Wireless Sub-Terahertz Perception",
+                "doi": "https://doi.org/10.1145/3715014.3722072"
+            },
+            {
+                "title": "LiDARMarker: Machine-friendly Road Markers for Smart Driving Systems",
+                "doi": "https://doi.org/10.1145/3715014.3722083"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Membership Inference Against Self-supervised IMU Sensing Applications",
+                "doi": "10.1145/3715014.3722060"
+            },
+            {
+                "title": "Babel: A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Modality Alignment",
+                "doi": "10.1145/3715014.3722068"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Stochastic Differential Equation Networks for Time Series at Edge",
+                "doi": "https://doi.org/10.1145/3715014.3722051"
+            },
+            {
+                "title": "SEE-V2X: C-V2X Direct Communication Dataset: An Application-Centric Approach",
+                "doi": "https://doi.org/10.1145/3715014.3722077"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "SHADE-AD: An LLM-Based Framework for Synthesizing Activity Data of Alzheimer\u2019s Patients",
+                "doi": "10.1145/3715014.3722062"
+            },
+            {
+                "title": "Multi-Modal Dataset Across Exertion Levels: Capturing Post-Exercise Speech, Breathing, and Phonocardiogram",
+                "doi": "10.1145/3715014.3722065"
+            },
+            {
+                "title": "SensorQA: A Question Answering Benchmark for Daily-Life Monitoring",
+                "doi": "https://doi.org/10.1145/3715014.3722074"
+            },
+            {
+                "title": "Eclipse Dataset: Advancing Urban Sensing Research with Hyperlocal Environmental Data from Chicago",
+                "doi": "https://doi.org/10.1145/3715014.3722087"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "FlexiFly: Interfacing the Physical World with Foundation Models Empowered by Reconfigurable Drone Systems",
+                "doi": "https://doi.org/10.1145/3715014.3722081"
+            },
+            {
+                "title": "Mitigating In-Transit Vision Noise for Enhanced Vehicle Safety",
+                "doi": "https://doi.org/10.1145/3715014.3722086"
+            },
+            {
+                "title": "WixUp: A Generic Data Augmentation Framework for Wireless Human Tracking",
+                "doi": "https://doi.org/10.1145/3715014.3722084"
+            },
+            {
+                "title": "MoLoRa: Intelligent Mobile Antenna System for Enhanced LoRa Reception in Urban Environments",
+                "doi": "https://doi.org/10.1145/3715014.3722075"
+            },
+            {
+                "title": "SARLink: Satellite Backscatter Connectivity using Synthetic Aperture Radar",
+                "doi": "10.1145/3715014.3722061"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "WixUp: A Generic Data Augmentation Framework for Wireless Human Tracking",
+                "doi": "https://doi.org/10.1145/3715014.3722084"
+            },
+            {
+                "title": "BioQ: Towards Context-Aware Multi-Device Collaboration with Bio-cues",
+                "doi": "https://doi.org/10.1145/3715014.3722079"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "ThermoHands: A Benchmark for 3D Hand Pose Estimation from Egocentric Thermal Images",
+                "doi": "https://doi.org/10.1145/3715014.3722058"
+            },
+            {
+                "title": "PIPE: Privacy-preserving 6DoF Pose Estimation for Immersive Applications",
+                "doi": "10.1145/3715014.3722069"
+            },
+            {
+                "title": "RetroLiDAR: A Liquid-crystal Fiducial Marker System for High-fidelity Perception of Embodied AI",
+                "doi": "https://doi.org/10.1145/3715014.3722073"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Matching Skeleton-based Activity Representations with Heterogeneous Signals for HAR",
+                "doi": "https://doi.org/10.1145/3715014.3722089"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster Abstract: SEE-V2X: Empirical Evaluation of C-V2X Direct Communication in Real-World Scenarios",
+                "doi": "https://doi.org/10.1145/3715014.3724026"
+            },
+            {
+                "title": "Poster Abstract: Terrain Navigability Assessment of Autonomous Ground Robots Using mmWave Radar",
+                "doi": "https://doi.org/10.1145/3715014.3724029"
+            },
+            {
+                "title": "Poster Abstract: R2R-LPCD: A Real-to-real Lidar Point Cloud Denoising Dataset",
+                "doi": "https://doi.org/10.1145/3715014.3724032"
+            },
+            {
+                "title": "Hierarchical Alignment of Multiple Time Series With Missing Timestamps",
+                "doi": "https://doi.org/10.1145/3715014.3724035"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster Abstract: Fine-grained Contextualized Activity Logs Generation based on Multi-Modal Sensor Data and LLM",
+                "doi": "https://doi.org/10.1145/3715014.3724031"
+            },
+            {
+                "title": "Poster: Beyond the Labels - Transforming Classification Outputs into Continuous Conductivity Maps in Electrical Impedance Tomography",
+                "doi": "https://doi.org/10.1145/3715014.3724033"
+            },
+            {
+                "title": "IMUFace: Real-Time, Low-Power, Continuous 3D Facial Reconstruction Through Earphones",
+                "doi": "https://doi.org/10.1145/3715014.3724034"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster Abstract: Contactless Friction Sensing in Robotic Systems via Fusing Sub-Terahertz Wireless Signals and Vision",
+                "doi": "https://doi.org/10.1145/3715014.3724038"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Detecting Context Shifts in the Human Experience Using Multimodal Foundation Models",
+                "doi": "https://doi.org/10.1145/3715014.3724037"
+            },
+            {
+                "title": "Poster Abstract: Compromising Federated Medical AI-Backdoor Risks in Prompt Learning",
+                "doi": "https://doi.org/10.1145/3715014.3724042"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Occlusion-Resilient UWB Localization Via Ceiling Reflection With Floor Anchor Installation",
+                "doi": "https://doi.org/10.1145/3715014.3724050"
+            },
+            {
+                "title": "Poster Abstract: Mobile Vision Dynamic Layer Dropping against Adversarial Attacks",
+                "doi": "https://doi.org/10.1145/3715014.3724053"
+            },
+            {
+                "title": "Poster: Optimizing Radio Tomography with Edge Computing: A Low-Latency Approach for Human Detection",
+                "doi": "https://doi.org/10.1145/3715014.3724055"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster Abstract: Multiscale Vibration Sensing for Activity and Vital Signs Monitoring in Pig Pens",
+                "doi": "https://doi.org/10.1145/3715014.3724052"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster Abstract: Real-Time Active Identification and Tracking of UAVs Using Millimeter-Wave Radar",
+                "doi": "https://doi.org/10.1145/3715014.3724061"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster Abstract\u202f: A Structural Vibration-based Gait Abnormality Detection system",
+                "doi": "https://doi.org/10.1145/3715014.3724063"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster: Exploring Disruption by Intelligent Reflective Surfaces in mmWave Radar Object Classification",
+                "doi": "https://doi.org/10.1145/3715014.3724070"
+            },
+            {
+                "title": "Poster Abstract: IMU-assisted Image Stitching for Scenes with Obstructions Based on Camera Motion Sensing",
+                "doi": "https://doi.org/10.1145/3715014.3724071"
+            },
+            {
+                "title": "Demo Abstract - SIGAR: Sensor Integration Gateway using Augmented Reality",
+                "doi": "10.1145/3715014.3724364"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Transforming Mental Health Care with Autonomous LLM Agents at the Edge",
+                "doi": "https://doi.org/10.1145/3715014.3724073"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Demo Abstract: Cooperative Multi-modal Sensing",
+                "doi": "https://doi.org/10.1145/3715014.3724372"
+            },
+            {
+                "title": "Demo Abstract: Lightweight Training and Inference for Self-Supervised Depth Estimation on Edge Devices",
+                "doi": "https://doi.org/10.1145/3715014.3724373"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Demo Abstract: Multimodal Bio-Sensing and On-Device Machine Learning: Advancing Health Perception with OmniBuds",
+                "doi": "https://doi.org/10.1145/3715014.3724367"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Demo Abstract: Edge-Cloud Switched Image Segmentation for Autonomous Vehicles",
+                "doi": "https://doi.org/10.1145/3715014.3724378"
+            },
+            {
+                "title": "Demo Abstract: C-Shenron: A Realistic Radar Simulation Framework for CARLA",
+                "doi": "https://doi.org/10.1145/3715014.3724379"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Demo Abstract: An LLM-Powered Multimodal Mobile Sensing System for Personalized and Interactive Health Behavior Analysis",
+                "doi": "https://doi.org/10.1145/3715014.3724376"
+            }
+        ]
+    }
+]

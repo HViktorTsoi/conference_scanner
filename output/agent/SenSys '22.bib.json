@@ -1,0 +1,414 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles",
+                "doi": "10.1145/3560905.3568519"
+            },
+            {
+                "title": "BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference",
+                "doi": "10.1145/3560905.3568520"
+            },
+            {
+                "title": "Breaking Edge Shackles: Infrastructure-Free Collaborative Mobile Augmented Reality",
+                "doi": "10.1145/3560905.3568546"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Quantifying the Physical Separability of RF-Based Multi-Person Respiration Monitoring via SINR",
+                "doi": "10.1145/3560905.3568513"
+            },
+            {
+                "title": "NFCapsule: An Ingestible Sensor Pill for Eosinophilic Esophagitis Detection Based on near-Field Coupling",
+                "doi": "10.1145/3560905.3568523"
+            },
+            {
+                "title": "Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning",
+                "doi": "10.1145/3560905.3568548"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Turbo: Opportunistic Enhancement for Edge Video Analytics",
+                "doi": "10.1145/3560905.3568501"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Hearing Heartbeat from Voice: Towards Next Generation Voice-User Interfaces with Cardiac Sensing Functions",
+                "doi": "10.1145/3560905.3568508"
+            },
+            {
+                "title": "Bracelet+: Harvesting the Leaked RF Energy in VLC with Wearable Bracelet Antenna",
+                "doi": "10.1145/3560905.3568526"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Capricorn: Towards Real-Time Rich Scene Analysis Using RF-Vision Sensor Fusion",
+                "doi": "10.1145/3560905.3568504"
+            },
+            {
+                "title": "Embracing LoRa Sensing with Device Mobility",
+                "doi": "10.1145/3560905.3568524"
+            },
+            {
+                "title": "Enhancing Video Analytics Accuracy via Real-time Automated Camera Parameter Tuning",
+                "doi": "10.1145/3560905.3568527"
+            },
+            {
+                "title": "Wi-Mesh: A WiFi Vision-Based Approach for 3D Human Mesh Construction",
+                "doi": "10.1145/3560905.3568536"
+            },
+            {
+                "title": "Synthesized Millimeter-Waves for Human Motion Sensing",
+                "doi": "10.1145/3560905.3568542"
+            },
+            {
+                "title": "M4esh: mmWave-Based 3D Human Mesh Construction for Multiple Subjects",
+                "doi": "10.1145/3560905.3568545"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Capricorn: Towards Real-Time Rich Scene Analysis Using RF-Vision Sensor Fusion",
+                "doi": "10.1145/3560905.3568504"
+            },
+            {
+                "title": "Embracing LoRa Sensing with Device Mobility",
+                "doi": "10.1145/3560905.3568524"
+            },
+            {
+                "title": "Synthesized Millimeter-Waves for Human Motion Sensing",
+                "doi": "10.1145/3560905.3568542"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "AIM: Acoustic Inertial Measurement for Indoor Drone Localization and Tracking",
+                "doi": "10.1145/3560905.3568499"
+            },
+            {
+                "title": "MicNest: Long-Range Instant Acoustic Localization of Drones in Precise Landing",
+                "doi": "10.1145/3560905.3568515"
+            },
+            {
+                "title": "Indoor Smartphone SLAM with Learned Echoic Location Features",
+                "doi": "10.1145/3560905.3568510"
+            },
+            {
+                "title": "Towards Backdoor Attacks against LiDAR Object Detection in Autonomous Driving",
+                "doi": "10.1145/3560905.3568539"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "SiFall: Practical Online Fall Detection with RF Sensing",
+                "doi": "10.1145/3560905.3568517"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "KITE: Exploring the Practical Threat from Acoustic Transduction Attacks on Inertial Sensors",
+                "doi": "10.1145/3560905.3568532"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "mmBP: Contact-Free Millimetre-Wave Radar Based Approach to Blood Pressure Measurement",
+                "doi": "10.1145/3560905.3568506"
+            },
+            {
+                "title": "SVoice: Enabling Voice Communication in Silence via Acoustic Sensing on Commodity Devices",
+                "doi": "10.1145/3560905.3568530"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Containerized Mobile Sensing Simulation Framework for Smart Agriculture",
+                "doi": "10.1145/3560905.3568087"
+            },
+            {
+                "title": "A Passive Eye-in-Hand \"Camera\" for Miniature Robots",
+                "doi": "10.1145/3560905.3568505"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "AI Therapist for Daily Functioning Assessment and Intervention Using Smart Home Devices",
+                "doi": "10.1145/3560905.3568074"
+            },
+            {
+                "title": "Automated Generation of Tiny Model for Real-Time ECG Classification on Tiny Edge Devices",
+                "doi": "10.1145/3560905.3568081"
+            },
+            {
+                "title": "AI Stethoscope for Home Self-Diagnosis with AR Guidance",
+                "doi": "10.1145/3560905.3568082"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Towards Real-Time Rich Scene Analysis Using Vision-Guided Wireless Vibrometry",
+                "doi": "10.1145/3560905.3568060"
+            },
+            {
+                "title": "Through an AR Lens: Augmented Reality Magnification through Feature Detection and Matching",
+                "doi": "10.1145/3560905.3568067"
+            },
+            {
+                "title": "Live 3D Scene Capture for Virtual Teleportation",
+                "doi": "10.1145/3560905.3568086"
+            },
+            {
+                "title": "Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning",
+                "doi": "10.1145/3560905.3568096"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "IMU Sensing Data-Based Kinetic Tremor Detection in Parkinson's Disease Patients",
+                "doi": "10.1145/3560905.3568052"
+            },
+            {
+                "title": "GUFFLE: A Design of Lightweight Pressure Interface for Near-to-Real-Time Perceptual Tactile Sensation",
+                "doi": "10.1145/3560905.3568066"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Cloves: A Large-Scale Ultra-Wideband Testbed",
+                "doi": "10.1145/3560905.3568072"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "BETS: A Bladder Monitoring System Using Electrical Impedance Tomography: poster",
+                "doi": "10.1145/3560905.3568057"
+            },
+            {
+                "title": "A Millimeter-Wave Wireless Sensing Approach for Sleep Posture Classification",
+                "doi": "10.1145/3560905.3568088"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Exploring Rolling Shutter Effect for Motion Tracking with Objective Identification",
+                "doi": "10.1145/3560905.3568063"
+            },
+            {
+                "title": "Integrated Sensing and Communication between Daily Devices and mmWave Radars",
+                "doi": "10.1145/3560905.3568064"
+            },
+            {
+                "title": "FlexVAA: A Flexible, Passive van Atta Retroreflector for Roadside Infrastructure Tagging and Identification",
+                "doi": "10.1145/3560905.3568089"
+            },
+            {
+                "title": "Fusing Computer Vision and Wireless Signal for Accurate Sensor Localization in AR View",
+                "doi": "10.1145/3560905.3568095"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "HeadFi II: Toward More Resilient Earable Computing Platform",
+                "doi": "10.1145/3560905.3568092"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "An RFID Localization System for Smart Logistics",
+                "doi": "10.1145/3560905.3568078"
+            },
+            {
+                "title": "Scaling Device-Free Indoor Tracking Based on Self Calibration",
+                "doi": "10.1145/3560905.3568080"
+            },
+            {
+                "title": "Room Scale Localization Improvement Utilizing Stay Time Characteristics of Each Room",
+                "doi": "10.1145/3560905.3568098"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Smartphone-Based Blood Perfusion Assessment for Ulcer Care",
+                "doi": "10.1145/3560905.3568090"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Use of a Long Short-Term Memory Network in Radio Tomography to Track People Indoors",
+                "doi": "10.1145/3560905.3568056"
+            },
+            {
+                "title": "Ultra-Wideband Backscatter Towards General Passive IoT Localization",
+                "doi": "10.1145/3560905.3568069"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "UV Index Estimation Leveraging GNSS Sensors on Smartphones",
+                "doi": "10.1145/3560905.3568053"
+            },
+            {
+                "title": "Towards Remote Auscultation with Commodity Earphones",
+                "doi": "10.1145/3560905.3568084"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Old Dog, New Tricks: Seeking Metrics for Energy Harvesters as Sensors",
+                "doi": "10.1145/3560905.3568103"
+            },
+            {
+                "title": "A Tale of Two Intermittencies",
+                "doi": "10.1145/3560905.3568105"
+            },
+            {
+                "title": "Circularity in Energy Harvesting Computational \"Things\"",
+                "doi": "10.1145/3560905.3568106"
+            },
+            {
+                "title": "Leakage-Aware Lifetime Estimation of Battery-Free Sensor Nodes Powered by Supercapacitors",
+                "doi": "10.1145/3560905.3568108"
+            },
+            {
+                "title": "Wireless Identification and Sensing Platform Version 6.0",
+                "doi": "10.1145/3560905.3568109"
+            },
+            {
+                "title": "Hardware to Enable Large-Scale Deployment and Observation of Soil Microbial Fuel Cells",
+                "doi": "10.1145/3560905.3568110"
+            },
+            {
+                "title": "LoRa Based Linear Network Applications, Design Considerations and Open Challenges: A Review",
+                "doi": "10.1145/3560905.3568111"
+            },
+            {
+                "title": "Spreading Factor Detection for Low-Cost Adaptive Data Rate in LoRaWAN Gateways",
+                "doi": "10.1145/3560905.3568112"
+            },
+            {
+                "title": "ElasticAI-Creator: Optimizing Neural Networks for Time-Series-Analysis for on-Device Machine Learning in IoT Systems",
+                "doi": "10.1145/3560905.3568296"
+            },
+            {
+                "title": "Ultra-Low Power DNN Accelerators for IoT: Resource Characterization of the MAX78000",
+                "doi": "10.1145/3560905.3568300"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "An Indoor Smart Traffic Dataset and Data Collection System: Dataset",
+                "doi": "10.1145/3560905.3567772"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "CIPhy: Causal Intervention with Physical Confounder from IoT Sensor Data for Robust Occupant Information Inference",
+                "doi": "10.1145/3560905.3568304"
+            },
+            {
+                "title": "Federated Learning Biases in Heterogeneous Edge-Devices: A Case-Study",
+                "doi": "10.1145/3560905.3568305"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "HoloSet - A Dataset for Visual-Inertial Pose Estimation in Extended Reality: Dataset",
+                "doi": "10.1145/3560905.3567763"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Lessons Learned from Developing Emotion Recognition System for Everyday Life",
+                "doi": "10.1145/3560905.3567759"
+            },
+            {
+                "title": "Non-Acoustic Speech Sensing System Based on Flexible Piezoelectric",
+                "doi": "10.1145/3560905.3567768"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Adaptive Deployment for Autonomous Agricultural UAV Swarms",
+                "doi": "10.1145/3560905.3568414"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "PigV2: Monitoring Pig Vital Signs through Ground Vibrations Induced by Heartbeat and Respiration",
+                "doi": "10.1145/3560905.3568416"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "H-SwarmLoc: Efficient Scheduling for Localization of Heterogeneous MAV Swarm with Deep Reinforcement Learning",
+                "doi": "10.1145/3560905.3568432"
+            },
+            {
+                "title": "Discovering and Understanding Algorithmic Biases in Autonomous Pedestrian Trajectory Predictions",
+                "doi": "10.1145/3560905.3568433"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Riemannian Geometric Instance Filtering for Transfer Learning in Brain-Computer Interfaces",
+                "doi": "10.1145/3560905.3568434"
+            },
+            {
+                "title": "GaitVibe+: Enhancing Structural Vibration-Based Footstep Localization Using Temporary Cameras for in-Home Gait Analysis",
+                "doi": "10.1145/3560905.3568435"
+            },
+            {
+                "title": "Out-Clinic Pulmonary Disease Evaluation via Acoustic Sensing and Multi-Task Learning on Commodity Smartphones",
+                "doi": "10.1145/3560905.3568437"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "A Prototype Design for Gamified Blood Donation App Using Blockchain Technology, IPFS and NFTs",
+                "doi": "10.1145/3560905.3568177"
+            },
+            {
+                "title": "Design of a Secured Medical Data Access Management Using Ethereum Smart Contracts, Truffle Suite and Web3",
+                "doi": "10.1145/3560905.3568180"
+            }
+        ]
+    }
+]

@@ -1,0 +1,171 @@
+[
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "AVR: Augmented Vehicular Reality",
+                "doi": "10.1145/3210240.3210319"
+            },
+            {
+                "title": "My Being to Your Place, Your Being to My Place: Co-present Robotic Avatars Create Illusion of Living Together",
+                "doi": "10.1145/3210240.3210348"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Empath-D: VR-based Empathetic App Design for Accessibility",
+                "doi": "10.1145/3210240.3210331"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "CoReCast: Collision Resilient Broadcasting in Vehicular Networks",
+                "doi": "10.1145/3210240.3210341"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Widar2.0: Passive Human Tracking with a Single Wi-Fi Link",
+                "doi": "10.1145/3210240.3210314"
+            },
+            {
+                "title": "Depth Aware Finger Tapping on Virtual Displays",
+                "doi": "10.1145/3210240.3210315"
+            },
+            {
+                "title": "CrowdEstimator: Approximating Crowd Sizes with Multi-modal Data for Internet-of-Things Services",
+                "doi": "10.1145/3210240.3210320"
+            },
+            {
+                "title": "Augmenting Indoor Inertial Tracking with Polarized Light",
+                "doi": "10.1145/3210240.3210340"
+            },
+            {
+                "title": "Multipath Triangulation: Decimeter-level WiFi Localization and Orientation with a Single Unaided Receiver",
+                "doi": "10.1145/3210240.3210347"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "TYTH-Typing On Your Teeth: Tongue-Teeth Localization for Human-Computer Interface",
+                "doi": "10.1145/3210240.3210322"
+            },
+            {
+                "title": "Brain Password: A Secure and Truly Cancelable Brain Biometrics for Smart Headwear",
+                "doi": "10.1145/3210240.3210344"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "AIM: Acoustic Imaging on a Mobile",
+                "doi": "10.1145/3210240.3210325"
+            },
+            {
+                "title": "WiSh: Towards a Wireless Shape-aware World using Passive RFIDs",
+                "doi": "10.1145/3210240.3210328"
+            },
+            {
+                "title": "Multi-User Gesture Recognition Using WiFi",
+                "doi": "10.1145/3210240.3210335"
+            },
+            {
+                "title": "BARNET: Towards Activity Recognition Using Passive Backscattering Tag-to-Tag Network",
+                "doi": "10.1145/3210240.3210336"
+            },
+            {
+                "title": "LiquID: A Wireless Liquid IDentifier",
+                "doi": "10.1145/3210240.3210345"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "When Autonomous Drones Meet Driverless Cars",
+                "doi": "10.1145/3210240.3210806"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Audio-Kinetic Model for Automatic Dietary Monitoring with Earable Devices",
+                "doi": "10.1145/3210240.3210810"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Design and Implementation of Driving Information Collection System for Driver Behavior Analysis",
+                "doi": "10.1145/3210240.3210818"
+            },
+            {
+                "title": "Reactive Mesh Simplification for Augmented Reality Head Mounted Displays",
+                "doi": "10.1145/3210240.3210820"
+            },
+            {
+                "title": "Spatial Audio for Human-Object Interactions in Small AR Workspaces",
+                "doi": "10.1145/3210240.3210811"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Exploring an Inclusive User Interface through Respiration",
+                "doi": "10.1145/3210240.3210816"
+            },
+            {
+                "title": "On-Wearable AI to Model Human Interruptibility",
+                "doi": "10.1145/3210240.3210814"
+            },
+            {
+                "title": "Speech in Smartwatch based Audio",
+                "doi": "10.1145/3210240.3210817"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Wireless Video Streaming for Ultra-low-power Cameras",
+                "doi": "10.1145/3210240.3211109"
+            },
+            {
+                "title": "VolksFlow: Crowd Mobility Analytics with Multi-modal Data for Internet-of-Things Services",
+                "doi": "10.1145/3210240.3211120"
+            },
+            {
+                "title": "Empowering Cyber-Physical Systems with FADEX",
+                "doi": "10.1145/3210240.3211121"
+            },
+            {
+                "title": "Touchless Wireless Authentication via LocalVLC",
+                "doi": "10.1145/3210240.3211119"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "CAR: The Cleanest Air Routing Algorithm for Path Navigation with Minimal PM2.5 Exposure on the Move",
+                "doi": "10.1145/3210240.3211106"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Distributed Real-Time Generative 3D Hand Tracking using Edge GPGPU Acceleration",
+                "doi": "10.1145/3210240.3211112"
+            },
+            {
+                "title": "HomeMeld: Co-present Robotic Avatar System for Illusion of Living Together",
+                "doi": "10.1145/3210240.3211117"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    }
+]

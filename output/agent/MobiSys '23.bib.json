@@ -1,0 +1,179 @@
+[
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Passive Vital Sign Monitoring via Facial Vibrations Leveraging AR/VR Headsets",
+                "doi": "10.1145/3581791.3596848"
+            },
+            {
+                "title": "PTEase: Objective Airway Examination for Pulmonary Telemedicine using Commodity Smartphones",
+                "doi": "10.1145/3581791.3596854"
+            },
+            {
+                "title": "Wireless earbuds for low-cost hearing screening",
+                "doi": "10.1145/3581791.3596856"
+            },
+            {
+                "title": "DF-Sense: Multi-user Acoustic Sensing for Heartbeat Monitoring with Dualforming",
+                "doi": "10.1145/3581791.3596867"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Mozart: A Mobile ToF System for Sensing in the Dark through Phase Manipulation",
+                "doi": "10.1145/3581791.3596840"
+            },
+            {
+                "title": "Boosting the Long Range Sensing Potential of LoRa",
+                "doi": "10.1145/3581791.3596847"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "BioScatter: Low-Power Sweat Sensing with Backscatter",
+                "doi": "10.1145/3581791.3596834"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Industrial Knee-jerk: In-Network Simultaneous Planning and Control on a TSN Switch",
+                "doi": "10.1145/3581791.3596836"
+            },
+            {
+                "title": "Sirius: A Self-Localization System for Resource-Constrained IoT Sensors",
+                "doi": "10.1145/3581791.3596861"
+            },
+            {
+                "title": "LocRa: Enable Practical Long-Range Backscatter Localization for Low-Cost Tags",
+                "doi": "10.1145/3581791.3596863"
+            },
+            {
+                "title": "Hawkeye: Hectometer-range Subcentimeter Localization for Large-scale mmWave Backscatter",
+                "doi": "10.1145/3581791.3596869"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "EMSAssist: An End-to-End Mobile Voice Assistant at the Edge for Emergency Medical Services",
+                "doi": "10.1145/3581791.3596853"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "mm3DFace: Nonintrusive 3D Facial Reconstruction Leveraging mmWave Signals",
+                "doi": "10.1145/3581791.3596839"
+            },
+            {
+                "title": "Fusang: Graph-inspired Robust and Accurate Object Recognition on Commodity mmWave Devices",
+                "doi": "10.1145/3581791.3596849"
+            },
+            {
+                "title": "Contactless Material Identification with Millimeter Wave Vibrometry",
+                "doi": "10.1145/3581791.3596850"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Harmony: Heterogeneous Multi-Modal Federated Learning through Disentangled Model Training",
+                "doi": "10.1145/3581791.3596844"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster: mmLeaf: Versatile Leaf Wetness Detection via mmWave Sensing",
+                "doi": "10.1145/3581791.3597367"
+            },
+            {
+                "title": "Poster: Enhanced ZigBee Backscatter Communication using Fine-Grained Chip-Level Modulation",
+                "doi": "10.1145/3581791.3597368"
+            },
+            {
+                "title": "poster: Ultra-low-power Angle-of-Arrival Estimation Using a Single Antenna",
+                "doi": "10.1145/3581791.3597370"
+            },
+            {
+                "title": "Poster: Towards Battery-Free Machine Learning Inference and Model Personalization on MCUs",
+                "doi": "10.1145/3581791.3597371"
+            },
+            {
+                "title": "Poster: Image Acquisition and Storage System for Battery-Free WiFi Camera",
+                "doi": "10.1145/3581791.3597372"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Poster: A Privacy-preserving Heart Rate Prediction System for Drivers in Connected Vehicles",
+                "doi": "10.1145/3581791.3597364"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Poster: Submillimeter Localization for mmWave Backscatter Using Commodity 77 GHz Radar",
+                "doi": "10.1145/3581791.3597374"
+            },
+            {
+                "title": "Poster: Radar-CA: Radar-Sensing Multiple Access with Collision Avoidance",
+                "doi": "10.1145/3581791.3597376"
+            },
+            {
+                "title": "Poster: Contactless Material Identification with Millimeter Wave Vibrometry",
+                "doi": "10.1145/3581791.3597378"
+            }
+        ],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Demo: On-device Puff Detection System for Smoking Cessation",
+                "doi": "10.1145/3581791.3597284"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": [
+            {
+                "title": "Demo: EMSAssist \u2013 An End-to-End Mobile Voice Assistant at the Edge for Emergency Medical Services",
+                "doi": "10.1145/3581791.3597290"
+            },
+            {
+                "title": "Design and Deployment of Multi-Modal Federated Learning Systems for Alzheimer's Disease Monitoring",
+                "doi": "10.1145/3581791.3597505"
+            }
+        ]
+    },
+    {
+        "Broadly defined robot systems": [
+            {
+                "title": "Towards Precise, Ubiquitous and Real-Time Positioning",
+                "doi": "10.1145/3581791.3597506"
+            },
+            {
+                "title": "Towards Latency-First Wireless Embedded Networks",
+                "doi": "10.1145/3581791.3597507"
+            },
+            {
+                "title": "Enhancing Time-of-Flight Sensing in Mobile Systems",
+                "doi": "10.1145/3581791.3597508"
+            },
+            {
+                "title": "Algorithmic Sensing: A Joint Sensing and Learning Perspective",
+                "doi": "10.1145/3581791.3597509"
+            },
+            {
+                "title": "Ubiquitous, Secure, and Efficient Mobile Sensing Systems",
+                "doi": "10.1145/3581791.3597511"
+            }
+        ],
+        "Broadly defined systems for health care": []
+    }
+]
