@@ -1,216 +1,174 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Miriam: Exploiting Elastic Kernels for Real-time Multi-DNN Inference on Edge GPU",
-                "doi": "10.1145/3625687.3625789"
-            },
-            {
-                "title": "RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models",
-                "doi": "10.1145/3625687.3625798"
-            },
-            {
-                "title": "XiTuXi: Sealing the Gaps in Cross-Technology Communication by Neural Machine Translation",
-                "doi": "10.1145/3625687.3625802"
-            },
-            {
-                "title": "Physics-Informed Data Denoising for Real-Life Sensing Systems",
-                "doi": "10.1145/3625687.3625811"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels",
-                "doi": "10.1145/3625687.3625782"
-            },
-            {
-                "title": "XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition",
-                "doi": "10.1145/3625687.3625792"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "NeuroRadar: A Neuromorphic Radar Sensor for Low-Power IoT Systems",
-                "doi": "10.1145/3625687.3625788"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "PDAssess: A Privacy-preserving Free-speech based Parkinson's Disease Daily Assessment System",
-                "doi": "10.1145/3625687.3625805"
-            },
-            {
-                "title": "Testing Masks and Air Filters With Your Smartphones",
-                "doi": "10.1145/3625687.3625807"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "BIFROST: Reinventing WiFi Signals Based on Dispersion Effect for Accurate Indoor Localization",
-                "doi": "10.1145/3625687.3625786"
-            },
-            {
-                "title": "CurtainNet: Enabling precise beamforming with a deformable antenna array on a fabric substrate",
-                "doi": "10.1145/3625687.3625787"
-            },
-            {
-                "title": "Ghost-Probe: NLOS Pedestrian Rushing Detection with Monocular Camera for Automated Driving",
-                "doi": "10.1145/3625687.3625791"
-            },
-            {
-                "title": "Global Localization of Energy-Constrained Miniature RF Emitters using Low Earth Orbit Satellites",
-                "doi": "10.1145/3625687.3625794"
-            },
-            {
-                "title": "Citywide LoRa Network Deployment and Operation: Measurements, Analysis, and Implications",
-                "doi": "10.1145/3625687.3625796"
-            },
-            {
-                "title": "Metasight: High-Resolution NLoS Radar with Efficient Metasurface Encoding",
-                "doi": "10.1145/3625687.3625803"
-            },
-            {
-                "title": "METRO: Magnetic Road Markings for All-weather, Smart Roads",
-                "doi": "10.1145/3625687.3625809"
-            },
-            {
-                "title": "Construct 3D Hand Skeleton with Commercial WiFi",
-                "doi": "10.1145/3625687.3625812"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Construct 3D Hand Skeleton with Commercial WiFi",
-                "doi": "10.1145/3625687.3625812"
-            },
-            {
-                "title": "AquaHelper: Underwater SOS Transmission and Detection in Swimming Pools",
-                "doi": "10.1145/3625687.3625816"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV",
-                "doi": "10.1145/3625687.3625795"
-            },
-            {
-                "title": "Egocentric Human Pose Estimation using Head-mounted mmWave Radar",
-                "doi": "10.1145/3625687.3625799"
-            },
-            {
-                "title": "RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi",
-                "doi": "10.1145/3625687.3625806"
-            },
-            {
-                "title": "XRLoc: Accurate UWB Localization to Realize XR Deployments",
-                "doi": "10.1145/3625687.3625810"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Demo Abstract: PA-Pill\u202f: Physical Augmented Pill bottle for Vibration-Based Medication Intake Monitoring",
-                "doi": "10.1145/3625687.3628388"
-            },
-            {
-                "title": "Demo Abstract: Lightweight Attention Network for Time Series Classification on Edge",
-                "doi": "10.1145/3625687.3628393"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Demo Abstract: FreeBot, a Battery-Free Swarm Robotics Platform",
-                "doi": "10.1145/3625687.3628401"
-            },
-            {
-                "title": "Demo Abstract: Real-Time 3D Indoor Localization with Multi-Dimensional RSSI on Mobile Robot",
-                "doi": "10.1145/3625687.3628405"
-            },
-            {
-                "title": "Demo Abstract: VGGlass - Demonstrating Visual Grounding and Localization Synergy with a LiDAR-enabled Smart-Glass",
-                "doi": "10.1145/3625687.3628407"
-            },
-            {
-                "title": "Demo Abstract: Navigating Indoors: A Cost-effective Drone-based Solution",
-                "doi": "10.1145/3625687.3628412"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Demo Abstract: A Smart Ring Monitoring Your Health using Hand-grip Strength",
-                "doi": "10.1145/3625687.3628395"
-            },
-            {
-                "title": "Demo Abstract: Atrial Fibrillation Burden Computation from Single-Lead ECG on Device",
-                "doi": "10.1145/3625687.3628410"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Poster Abstract: The Concept of a Lightweight Ultrasound Tomograph for Brain Scanning Using a Heterogeneous Neural Model",
-                "doi": "10.1145/3625687.3628380"
-            },
-            {
-                "title": "Poster Abstract: A Wearable for Non-Invasive Monitoring and Diagnosing Functional Disorders of the Lower Urinary Tract",
-                "doi": "10.1145/3625687.3628382"
-            },
-            {
-                "title": "Poster Abstract: LEVO: LEGO\u00ae Bricks Enhanced Single-Point Vibration Sensing for Occupant Monitoring",
-                "doi": "10.1145/3625687.3628385"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Poster Abstract: Link-adaptive and Real-time Object Detection in Dynamic Edge Networks",
-                "doi": "10.1145/3625687.3628396"
-            },
-            {
-                "title": "Poster Abstract: Multimodal Indoor Localization Using Crowdsourced Radio Maps",
-                "doi": "10.1145/3625687.3628398"
-            },
-            {
-                "title": "Poster Abstract: Person Identification Under Heavy Occlusions Using mmWave Radar",
-                "doi": "10.1145/3625687.3628404"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Poster Abstract: Mobile Context Logger: Recognizing User's Auditory Environments and Activities using Smartwatch",
-                "doi": "10.1145/3625687.3628397"
-            },
-            {
-                "title": "Poster Abstract: Multi-User Privacy-Preserving Mechanism for Extended Reality in Healthcare",
-                "doi": "10.1145/3625687.3628402"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Poster Abstract: Preliminary Study of Gamified 3D Mobile Sensing Using LiDAR-equipped Mobile Devices",
-                "doi": "10.1145/3625687.3628414"
-            },
-            {
-                "title": "Poster Abstract: Towards a Tiny Digital Displacement Sensor Utilizing Bit-Error Characteristics of Inter-Chip Wireless Bus",
-                "doi": "10.1145/3625687.3628416"
-            },
-            {
-                "title": "Poster Abstract: Enhancing Fingerprint-based Smartphone Localization Using Acoustic Time-of-Flight for Complex Indoors",
-                "doi": "10.1145/3625687.3629535"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "Miriam: Exploiting Elastic Kernels for Real-time Multi-DNN Inference on Edge GPU",
+            "doi": "10.1145/3625687.3625789"
+        },
+        {
+            "title": "RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models",
+            "doi": "10.1145/3625687.3625798"
+        },
+        {
+            "title": "XiTuXi: Sealing the Gaps in Cross-Technology Communication by Neural Machine Translation",
+            "doi": "10.1145/3625687.3625802"
+        },
+        {
+            "title": "Physics-Informed Data Denoising for Real-Life Sensing Systems",
+            "doi": "10.1145/3625687.3625811"
+        },
+        {
+            "title": "NeuroRadar: A Neuromorphic Radar Sensor for Low-Power IoT Systems",
+            "doi": "10.1145/3625687.3625788"
+        },
+        {
+            "title": "BIFROST: Reinventing WiFi Signals Based on Dispersion Effect for Accurate Indoor Localization",
+            "doi": "10.1145/3625687.3625786"
+        },
+        {
+            "title": "CurtainNet: Enabling precise beamforming with a deformable antenna array on a fabric substrate",
+            "doi": "10.1145/3625687.3625787"
+        },
+        {
+            "title": "Ghost-Probe: NLOS Pedestrian Rushing Detection with Monocular Camera for Automated Driving",
+            "doi": "10.1145/3625687.3625791"
+        },
+        {
+            "title": "Global Localization of Energy-Constrained Miniature RF Emitters using Low Earth Orbit Satellites",
+            "doi": "10.1145/3625687.3625794"
+        },
+        {
+            "title": "Citywide LoRa Network Deployment and Operation: Measurements, Analysis, and Implications",
+            "doi": "10.1145/3625687.3625796"
+        },
+        {
+            "title": "Metasight: High-Resolution NLoS Radar with Efficient Metasurface Encoding",
+            "doi": "10.1145/3625687.3625803"
+        },
+        {
+            "title": "METRO: Magnetic Road Markings for All-weather, Smart Roads",
+            "doi": "10.1145/3625687.3625809"
+        },
+        {
+            "title": "Construct 3D Hand Skeleton with Commercial WiFi",
+            "doi": "10.1145/3625687.3625812"
+        },
+        {
+            "title": "Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV",
+            "doi": "10.1145/3625687.3625795"
+        },
+        {
+            "title": "Egocentric Human Pose Estimation using Head-mounted mmWave Radar",
+            "doi": "10.1145/3625687.3625799"
+        },
+        {
+            "title": "RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi",
+            "doi": "10.1145/3625687.3625806"
+        },
+        {
+            "title": "XRLoc: Accurate UWB Localization to Realize XR Deployments",
+            "doi": "10.1145/3625687.3625810"
+        },
+        {
+            "title": "Demo Abstract: FreeBot, a Battery-Free Swarm Robotics Platform",
+            "doi": "10.1145/3625687.3628401"
+        },
+        {
+            "title": "Demo Abstract: Real-Time 3D Indoor Localization with Multi-Dimensional RSSI on Mobile Robot",
+            "doi": "10.1145/3625687.3628405"
+        },
+        {
+            "title": "Demo Abstract: VGGlass - Demonstrating Visual Grounding and Localization Synergy with a LiDAR-enabled Smart-Glass",
+            "doi": "10.1145/3625687.3628407"
+        },
+        {
+            "title": "Demo Abstract: Navigating Indoors: A Cost-effective Drone-based Solution",
+            "doi": "10.1145/3625687.3628412"
+        },
+        {
+            "title": "Poster Abstract: Link-adaptive and Real-time Object Detection in Dynamic Edge Networks",
+            "doi": "10.1145/3625687.3628396"
+        },
+        {
+            "title": "Poster Abstract: Multimodal Indoor Localization Using Crowdsourced Radio Maps",
+            "doi": "10.1145/3625687.3628398"
+        },
+        {
+            "title": "Poster Abstract: Person Identification Under Heavy Occlusions Using mmWave Radar",
+            "doi": "10.1145/3625687.3628404"
+        },
+        {
+            "title": "Poster Abstract: Preliminary Study of Gamified 3D Mobile Sensing Using LiDAR-equipped Mobile Devices",
+            "doi": "10.1145/3625687.3628414"
+        },
+        {
+            "title": "Poster Abstract: Towards a Tiny Digital Displacement Sensor Utilizing Bit-Error Characteristics of Inter-Chip Wireless Bus",
+            "doi": "10.1145/3625687.3628416"
+        },
+        {
+            "title": "Poster Abstract: Enhancing Fingerprint-based Smartphone Localization Using Acoustic Time-of-Flight for Complex Indoors",
+            "doi": "10.1145/3625687.3629535"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels",
+            "doi": "10.1145/3625687.3625782"
+        },
+        {
+            "title": "XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition",
+            "doi": "10.1145/3625687.3625792"
+        },
+        {
+            "title": "PDAssess: A Privacy-preserving Free-speech based Parkinson's Disease Daily Assessment System",
+            "doi": "10.1145/3625687.3625805"
+        },
+        {
+            "title": "Testing Masks and Air Filters With Your Smartphones",
+            "doi": "10.1145/3625687.3625807"
+        },
+        {
+            "title": "Construct 3D Hand Skeleton with Commercial WiFi",
+            "doi": "10.1145/3625687.3625812"
+        },
+        {
+            "title": "AquaHelper: Underwater SOS Transmission and Detection in Swimming Pools",
+            "doi": "10.1145/3625687.3625816"
+        },
+        {
+            "title": "Demo Abstract: PA-Pill\u202f: Physical Augmented Pill bottle for Vibration-Based Medication Intake Monitoring",
+            "doi": "10.1145/3625687.3628388"
+        },
+        {
+            "title": "Demo Abstract: Lightweight Attention Network for Time Series Classification on Edge",
+            "doi": "10.1145/3625687.3628393"
+        },
+        {
+            "title": "Demo Abstract: A Smart Ring Monitoring Your Health using Hand-grip Strength",
+            "doi": "10.1145/3625687.3628395"
+        },
+        {
+            "title": "Demo Abstract: Atrial Fibrillation Burden Computation from Single-Lead ECG on Device",
+            "doi": "10.1145/3625687.3628410"
+        },
+        {
+            "title": "Poster Abstract: The Concept of a Lightweight Ultrasound Tomograph for Brain Scanning Using a Heterogeneous Neural Model",
+            "doi": "10.1145/3625687.3628380"
+        },
+        {
+            "title": "Poster Abstract: A Wearable for Non-Invasive Monitoring and Diagnosing Functional Disorders of the Lower Urinary Tract",
+            "doi": "10.1145/3625687.3628382"
+        },
+        {
+            "title": "Poster Abstract: LEVO: LEGO\u00ae Bricks Enhanced Single-Point Vibration Sensing for Occupant Monitoring",
+            "doi": "10.1145/3625687.3628385"
+        },
+        {
+            "title": "Poster Abstract: Mobile Context Logger: Recognizing User's Auditory Environments and Activities using Smartwatch",
+            "doi": "10.1145/3625687.3628397"
+        },
+        {
+            "title": "Poster Abstract: Multi-User Privacy-Preserving Mechanism for Extended Reality in Healthcare",
+            "doi": "10.1145/3625687.3628402"
+        }
+    ]
+}

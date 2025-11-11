@@ -1,288 +1,218 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Enhancing mmWave Radar Sensing Using a Phased-MIMO Architecture",
-                "doi": "10.1145/3643832.3661865"
-            },
-            {
-                "title": "Practical Optical Camera Communication Behind Unseen and Complex Backgrounds",
-                "doi": "10.1145/3643832.3661866"
-            },
-            {
-                "title": "Enabling 6D Pose Tracking on Your Acoustic Devices",
-                "doi": "10.1145/3643832.3661875"
-            },
-            {
-                "title": "UWB-Fi: Pushing Wi-Fi towards Ultra-wideband for Fine-Granularity Sensing",
-                "doi": "10.1145/3643832.3661889"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "CW-AcousLen: A Configurable Wideband Acoustic Metasurface",
-                "doi": "10.1145/3643832.3661882"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Willow: Practical WiFi Backscatter Localization with Parallel Tags",
-                "doi": "10.1145/3643832.3661853"
-            },
-            {
-                "title": "Frequency-agile OFDM Backscatter",
-                "doi": "10.1145/3643832.3661873"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Joey: Supporting Kangaroo Mother Care with Computational Fabrics",
-                "doi": "10.1145/3643832.3661867"
-            },
-            {
-                "title": "PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone",
-                "doi": "10.1145/3643832.3661877"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "SuperSight: Sub-cm NLOS Localization for mmWave Backscatter",
-                "doi": "10.1145/3643832.3661857"
-            },
-            {
-                "title": "Understanding Localization by a Tailored GPT",
-                "doi": "10.1145/3643832.3661869"
-            },
-            {
-                "title": "Radarize: Enhancing Radar SLAM with Generalizable Doppler-Based Odometry",
-                "doi": "10.1145/3643832.3661871"
-            },
-            {
-                "title": "OrchLoc: In-Orchard Localization via a Single LoRa Gateway and Generative Diffusion Model-based Fingerprinting",
-                "doi": "10.1145/3643832.3661876"
-            },
-            {
-                "title": "UTrack3D: 3D Tracking Using Ultra-wideband (UWB) Radios",
-                "doi": "10.1145/3643832.3661881"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Invisible Optical Adversarial Stripes on Traffic Sign against Autonomous Vehicles",
-                "doi": "10.1145/3643832.3661854"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Demo: Automated Parking Enforcement with Fine-Grained RF Position Recognition",
-                "doi": "10.1145/3643832.3661834"
-            },
-            {
-                "title": "Demo: \"MiRRoR\": Mixed-Reality of Robust Rendering",
-                "doi": "10.1145/3643832.3661835"
-            },
-            {
-                "title": "Demo: Image-based Indoor Localization using Object Detection and LSTM",
-                "doi": "10.1145/3643832.3661836"
-            },
-            {
-                "title": "Demo: SolarSense: A Self-powered Ubiquitous Gesture Recognition System for Industrial Human-Computer Interaction",
-                "doi": "10.1145/3643832.3661838"
-            },
-            {
-                "title": "Optimizing Profitability of E-Scooter Sharing System via Battery-aware Recommendation",
-                "doi": "10.1145/3643832.3661859"
-            },
-            {
-                "title": "VRF: Vehicle Road-side Point Cloud Fusion",
-                "doi": "10.1145/3643832.3661874"
-            },
-            {
-                "title": "WAIS: Leveraging WiFi for Resource-Efficient SLAM",
-                "doi": "10.1145/3643832.3661895"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Demo: Preventing Phone Fraud by Victim Training Using Personalized Feedback for Behavioral Change",
-                "doi": "10.1145/3643832.3661833"
-            },
-            {
-                "title": "Demo: Stress Detection on Tiny Edge Device with GSR Sensor",
-                "doi": "10.1145/3643832.3661837"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Demo: UWB localization and Tracking for XR Applications",
-                "doi": "10.1145/3643832.3661840"
-            },
-            {
-                "title": "Demo: MuRa: A Scalable Mobile Ultra-wideband Testbed for Multi-node Ranging",
-                "doi": "10.1145/3643832.3661845"
-            },
-            {
-                "title": "Demo: Assisting System for Creating Ceiling Plan Using a Video from a Smatrphone",
-                "doi": "10.1145/3643832.3661847"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Demo: Supporting Kangaroo Mother Care with Computational Fabrics",
-                "doi": "10.1145/3643832.3661839"
-            },
-            {
-                "title": "Demo: EmoMarker: A Privacy-Preserving, Multi-Modal Sensing System for Dyadic Digital Biomarkers of Expressed Emotions for Patients with Dementia",
-                "doi": "10.1145/3643832.3661844"
-            },
-            {
-                "title": "Demo: Statistical Acoustic Sensing For Real-Time Respiration Monitoring and Presence Detection",
-                "doi": "10.1145/3643832.3661846"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Poster: Towards Estimating UV Index with a Smartphone Utilizing GNSS Signals as a Point Cloud",
-                "doi": "10.1145/3643832.3661391"
-            },
-            {
-                "title": "Poster: Load and Bandwidth aware Forwarding in Information-Centric Networks",
-                "doi": "10.1145/3643832.3661392"
-            },
-            {
-                "title": "Poster: Activity Recognition Using CSI Backscatter with Commodity Wi-Fi",
-                "doi": "10.1145/3643832.3661396"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Poster: City-Scale Simulation of Connected Mobility",
-                "doi": "10.1145/3643832.3661405"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Poster: Heatstroke Risk Estimation by Environmental Sensing and Vital Data Analysis",
-                "doi": "10.1145/3643832.3661399"
-            },
-            {
-                "title": "Poster: Location Awareness in AED Retrieval: An Simulation-Based Investigation",
-                "doi": "10.1145/3643832.3661401"
-            },
-            {
-                "title": "Poster: Indoor Inertial-Based Fall Prediction and Pedestrian Tracking For The Elderly",
-                "doi": "10.1145/3643832.3661409"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Poster: Profiling Event Vision Processing on Edge Devices",
-                "doi": "10.1145/3643832.3661415"
-            },
-            {
-                "title": "Poster: AutoSense: Reliable 3D Bounding Box Prediction for Vehicles",
-                "doi": "10.1145/3643832.3661416"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Poster: An Automated Method to Detect Tooth Brushing Activity with Smartwatch Sensors",
-                "doi": "10.1145/3643832.3661417"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Poster: Fast Field-of-View Expansion for Collaborative Object Detection",
-                "doi": "10.1145/3643832.3661420"
-            },
-            {
-                "title": "Poster: Dynamic Ego-Velocity Estimation Using Moving mmWave Radar: A Phase-Based Approach",
-                "doi": "10.1145/3643832.3661425"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Poster: Drive-by City Wide Trash Sensing for Neighborhood Sanitation Need",
-                "doi": "10.1145/3643832.3661431"
-            },
-            {
-                "title": "Poster: Stochastic Scheduling on Object-sparse Video Data",
-                "doi": "10.1145/3643832.3663521"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Poster: Home-based, On-Device Non-invasive Obstructive Sleep Apnea Monitoring with Infrared Video",
-                "doi": "10.1145/3643832.3661433"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Poster: Translating Vision into Words: Advancing Object Recognition with Visual-Language Models",
-                "doi": "10.1145/3643832.3661407"
-            },
-            {
-                "title": "Poster: Generating Scarce Realities for Traffic Light Violation Detection",
-                "doi": "10.1145/3643832.3661440"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Poster: Spinal Curvature Detection with WiFi Sensing",
-                "doi": "10.1145/3643832.3661446"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Criticality Aware Canvas-based Visual Perception at the Edge",
-                "doi": "10.1145/3643832.3661386"
-            },
-            {
-                "title": "Poster: Listening to Earth's Voice: Advanced Vehicle Recognition through Seismic Sensing",
-                "doi": "10.1145/3643832.3661430"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Weaving Physical and Physiological Sensing with Computational Fabrics",
-                "doi": "10.1145/3643832.3661385"
-            },
-            {
-                "title": "[Poster] You Only Sense Once: Unified Localization and Activity Recognition of Multiple Persons",
-                "doi": "10.1145/3643832.3661447"
-            },
-            {
-                "title": "Poster: Adaptive Push Notification for Behavioral Change in Lifelogging Services",
-                "doi": "10.1145/3643832.3661448"
-            }
-        ]
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "Enhancing mmWave Radar Sensing Using a Phased-MIMO Architecture",
+            "doi": "10.1145/3643832.3661865"
+        },
+        {
+            "title": "Practical Optical Camera Communication Behind Unseen and Complex Backgrounds",
+            "doi": "10.1145/3643832.3661866"
+        },
+        {
+            "title": "Enabling 6D Pose Tracking on Your Acoustic Devices",
+            "doi": "10.1145/3643832.3661875"
+        },
+        {
+            "title": "UWB-Fi: Pushing Wi-Fi towards Ultra-wideband for Fine-Granularity Sensing",
+            "doi": "10.1145/3643832.3661889"
+        },
+        {
+            "title": "Willow: Practical WiFi Backscatter Localization with Parallel Tags",
+            "doi": "10.1145/3643832.3661853"
+        },
+        {
+            "title": "Frequency-agile OFDM Backscatter",
+            "doi": "10.1145/3643832.3661873"
+        },
+        {
+            "title": "SuperSight: Sub-cm NLOS Localization for mmWave Backscatter",
+            "doi": "10.1145/3643832.3661857"
+        },
+        {
+            "title": "Understanding Localization by a Tailored GPT",
+            "doi": "10.1145/3643832.3661869"
+        },
+        {
+            "title": "Radarize: Enhancing Radar SLAM with Generalizable Doppler-Based Odometry",
+            "doi": "10.1145/3643832.3661871"
+        },
+        {
+            "title": "OrchLoc: In-Orchard Localization via a Single LoRa Gateway and Generative Diffusion Model-based Fingerprinting",
+            "doi": "10.1145/3643832.3661876"
+        },
+        {
+            "title": "UTrack3D: 3D Tracking Using Ultra-wideband (UWB) Radios",
+            "doi": "10.1145/3643832.3661881"
+        },
+        {
+            "title": "Invisible Optical Adversarial Stripes on Traffic Sign against Autonomous Vehicles",
+            "doi": "10.1145/3643832.3661854"
+        },
+        {
+            "title": "Demo: Automated Parking Enforcement with Fine-Grained RF Position Recognition",
+            "doi": "10.1145/3643832.3661834"
+        },
+        {
+            "title": "Demo: \"MiRRoR\": Mixed-Reality of Robust Rendering",
+            "doi": "10.1145/3643832.3661835"
+        },
+        {
+            "title": "Demo: Image-based Indoor Localization using Object Detection and LSTM",
+            "doi": "10.1145/3643832.3661836"
+        },
+        {
+            "title": "Demo: SolarSense: A Self-powered Ubiquitous Gesture Recognition System for Industrial Human-Computer Interaction",
+            "doi": "10.1145/3643832.3661838"
+        },
+        {
+            "title": "Optimizing Profitability of E-Scooter Sharing System via Battery-aware Recommendation",
+            "doi": "10.1145/3643832.3661859"
+        },
+        {
+            "title": "VRF: Vehicle Road-side Point Cloud Fusion",
+            "doi": "10.1145/3643832.3661874"
+        },
+        {
+            "title": "WAIS: Leveraging WiFi for Resource-Efficient SLAM",
+            "doi": "10.1145/3643832.3661895"
+        },
+        {
+            "title": "Demo: UWB localization and Tracking for XR Applications",
+            "doi": "10.1145/3643832.3661840"
+        },
+        {
+            "title": "Demo: MuRa: A Scalable Mobile Ultra-wideband Testbed for Multi-node Ranging",
+            "doi": "10.1145/3643832.3661845"
+        },
+        {
+            "title": "Demo: Assisting System for Creating Ceiling Plan Using a Video from a Smatrphone",
+            "doi": "10.1145/3643832.3661847"
+        },
+        {
+            "title": "Poster: City-Scale Simulation of Connected Mobility",
+            "doi": "10.1145/3643832.3661405"
+        },
+        {
+            "title": "Poster: Profiling Event Vision Processing on Edge Devices",
+            "doi": "10.1145/3643832.3661415"
+        },
+        {
+            "title": "Poster: AutoSense: Reliable 3D Bounding Box Prediction for Vehicles",
+            "doi": "10.1145/3643832.3661416"
+        },
+        {
+            "title": "Poster: Fast Field-of-View Expansion for Collaborative Object Detection",
+            "doi": "10.1145/3643832.3661420"
+        },
+        {
+            "title": "Poster: Dynamic Ego-Velocity Estimation Using Moving mmWave Radar: A Phase-Based Approach",
+            "doi": "10.1145/3643832.3661425"
+        },
+        {
+            "title": "Poster: Drive-by City Wide Trash Sensing for Neighborhood Sanitation Need",
+            "doi": "10.1145/3643832.3661431"
+        },
+        {
+            "title": "Poster: Stochastic Scheduling on Object-sparse Video Data",
+            "doi": "10.1145/3643832.3663521"
+        },
+        {
+            "title": "Poster: Translating Vision into Words: Advancing Object Recognition with Visual-Language Models",
+            "doi": "10.1145/3643832.3661407"
+        },
+        {
+            "title": "Poster: Generating Scarce Realities for Traffic Light Violation Detection",
+            "doi": "10.1145/3643832.3661440"
+        },
+        {
+            "title": "Criticality Aware Canvas-based Visual Perception at the Edge",
+            "doi": "10.1145/3643832.3661386"
+        },
+        {
+            "title": "Poster: Listening to Earth's Voice: Advanced Vehicle Recognition through Seismic Sensing",
+            "doi": "10.1145/3643832.3661430"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "CW-AcousLen: A Configurable Wideband Acoustic Metasurface",
+            "doi": "10.1145/3643832.3661882"
+        },
+        {
+            "title": "Joey: Supporting Kangaroo Mother Care with Computational Fabrics",
+            "doi": "10.1145/3643832.3661867"
+        },
+        {
+            "title": "PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone",
+            "doi": "10.1145/3643832.3661877"
+        },
+        {
+            "title": "Demo: Preventing Phone Fraud by Victim Training Using Personalized Feedback for Behavioral Change",
+            "doi": "10.1145/3643832.3661833"
+        },
+        {
+            "title": "Demo: Stress Detection on Tiny Edge Device with GSR Sensor",
+            "doi": "10.1145/3643832.3661837"
+        },
+        {
+            "title": "Demo: Supporting Kangaroo Mother Care with Computational Fabrics",
+            "doi": "10.1145/3643832.3661839"
+        },
+        {
+            "title": "Demo: EmoMarker: A Privacy-Preserving, Multi-Modal Sensing System for Dyadic Digital Biomarkers of Expressed Emotions for Patients with Dementia",
+            "doi": "10.1145/3643832.3661844"
+        },
+        {
+            "title": "Demo: Statistical Acoustic Sensing For Real-Time Respiration Monitoring and Presence Detection",
+            "doi": "10.1145/3643832.3661846"
+        },
+        {
+            "title": "Poster: Towards Estimating UV Index with a Smartphone Utilizing GNSS Signals as a Point Cloud",
+            "doi": "10.1145/3643832.3661391"
+        },
+        {
+            "title": "Poster: Load and Bandwidth aware Forwarding in Information-Centric Networks",
+            "doi": "10.1145/3643832.3661392"
+        },
+        {
+            "title": "Poster: Activity Recognition Using CSI Backscatter with Commodity Wi-Fi",
+            "doi": "10.1145/3643832.3661396"
+        },
+        {
+            "title": "Poster: Heatstroke Risk Estimation by Environmental Sensing and Vital Data Analysis",
+            "doi": "10.1145/3643832.3661399"
+        },
+        {
+            "title": "Poster: Location Awareness in AED Retrieval: An Simulation-Based Investigation",
+            "doi": "10.1145/3643832.3661401"
+        },
+        {
+            "title": "Poster: Indoor Inertial-Based Fall Prediction and Pedestrian Tracking For The Elderly",
+            "doi": "10.1145/3643832.3661409"
+        },
+        {
+            "title": "Poster: An Automated Method to Detect Tooth Brushing Activity with Smartwatch Sensors",
+            "doi": "10.1145/3643832.3661417"
+        },
+        {
+            "title": "Poster: Home-based, On-Device Non-invasive Obstructive Sleep Apnea Monitoring with Infrared Video",
+            "doi": "10.1145/3643832.3661433"
+        },
+        {
+            "title": "Poster: Spinal Curvature Detection with WiFi Sensing",
+            "doi": "10.1145/3643832.3661446"
+        },
+        {
+            "title": "Weaving Physical and Physiological Sensing with Computational Fabrics",
+            "doi": "10.1145/3643832.3661385"
+        },
+        {
+            "title": "[Poster] You Only Sense Once: Unified Localization and Activity Recognition of Multiple Persons",
+            "doi": "10.1145/3643832.3661447"
+        },
+        {
+            "title": "Poster: Adaptive Push Notification for Behavioral Change in Lifelogging Services",
+            "doi": "10.1145/3643832.3661448"
+        }
+    ]
+}

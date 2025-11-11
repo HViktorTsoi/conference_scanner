@@ -1,156 +1,114 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Network-wide Consensus Utilizing the Capture Effect in Low-power Wireless Networks",
-                "doi": "10.1145/3131672.3131685"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Monitoring a Person's Heart Rate and Respiratory Rate on a Shared Bed Using Geophones",
-                "doi": "10.1145/3131672.3131679"
-            },
-            {
-                "title": "Glasses for the Third Eye: Improving the Quality of Clinical Data Analysis with Motion Sensor-based Data Filtering",
-                "doi": "10.1145/3131672.3131690"
-            },
-            {
-                "title": "DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation",
-                "doi": "10.1145/3131672.3131693"
-            },
-            {
-                "title": "mCerebrum: A Mobile Sensing Software Platform for Development and Validation of Digital Biomarkers and Interventions",
-                "doi": "10.1145/3131672.3131694"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp",
-                "doi": "10.1145/3131672.3131677"
-            },
-            {
-                "title": "BatTracker: High Precision Infrastructure-free Mobile Device Tracking in Indoor Environments",
-                "doi": "10.1145/3131672.3131689"
-            },
-            {
-                "title": "Indoor Localization with Aircraft Signals",
-                "doi": "10.1145/3131672.3131698"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "WiFi-Enabled Smart Human Dynamics Monitoring",
-                "doi": "10.1145/3131672.3131692"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Wireless Robotic Materials",
-                "doi": "10.1145/3131672.3131702"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "PhO2: Smartphone based Blood Oxygen Level Measurement Systems using Near-IR and RED Wave-guided Light",
-                "doi": "10.1145/3131672.3131696"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "UWB-based Single-anchor Low-cost Indoor Localization System",
-                "doi": "10.1145/3131672.3136961"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "A New Sensor for Gait Analysis: Demonstration of the IEE's Smart Insole",
-                "doi": "10.1145/3131672.3136955"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "A Low-Complexity Eyewear System for Direction-based Augmented Reality Applications",
-                "doi": "10.1145/3131672.3136979"
-            },
-            {
-                "title": "Ultra-Low Power Gaze Tracking for Virtual Reality",
-                "doi": "10.1145/3131672.3136989"
-            },
-            {
-                "title": "Indoor Navigation Leveraging Gradient WiFi Signals",
-                "doi": "10.1145/3131672.3136993"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Standardized Localization Service",
-                "doi": "10.1145/3131672.3136959"
-            },
-            {
-                "title": "Stalwart: a Predictable Reliable Adaptive and Low-latency Real-time Wireless Protocol",
-                "doi": "10.1145/3131672.3136969"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Judging Dynamic Co-Existence with Smartphone Magnetometer Traces",
-                "doi": "10.1145/3131672.3136963"
-            },
-            {
-                "title": "Predicting Blood Glucose Dynamics with Multi-time-series Deep Learning",
-                "doi": "10.1145/3131672.3136965"
-            },
-            {
-                "title": "HeartBeat the Odds: A Novel Digital Ballistocardiographic Sensor System",
-                "doi": "10.1145/3131672.3136973"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "A Machine Learning Approach for Identifying Mosquito Breeding Sites via Drone Images",
-                "doi": "10.1145/3131672.3136986"
-            },
-            {
-                "title": "Hierarchical Subchannel Allocation for Mode-3 Vehicle-to-Vehicle Sidelink Communications",
-                "doi": "10.1145/3131672.3136987"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "A Versatile Annotated Dataset for Multimodal Locomotion Analytics with Mobile Devices",
-                "doi": "10.1145/3131672.3136976"
-            },
-            {
-                "title": "High reliability Android application for multidevice multimodal mobile data acquisition and annotation",
-                "doi": "10.1145/3131672.3136977"
-            },
-            {
-                "title": "A Machine Learning Approach for Identifying Mosquito Breeding Sites via Drone Images",
-                "doi": "10.1145/3131672.3136986"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Real-time and Nearly Ideal Hologram for RFID-based Indoor Localization",
-                "doi": "10.1145/3131672.3136994"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "Network-wide Consensus Utilizing the Capture Effect in Low-power Wireless Networks",
+            "doi": "10.1145/3131672.3131685"
+        },
+        {
+            "title": "SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp",
+            "doi": "10.1145/3131672.3131677"
+        },
+        {
+            "title": "BatTracker: High Precision Infrastructure-free Mobile Device Tracking in Indoor Environments",
+            "doi": "10.1145/3131672.3131689"
+        },
+        {
+            "title": "Indoor Localization with Aircraft Signals",
+            "doi": "10.1145/3131672.3131698"
+        },
+        {
+            "title": "Wireless Robotic Materials",
+            "doi": "10.1145/3131672.3131702"
+        },
+        {
+            "title": "UWB-based Single-anchor Low-cost Indoor Localization System",
+            "doi": "10.1145/3131672.3136961"
+        },
+        {
+            "title": "A Low-Complexity Eyewear System for Direction-based Augmented Reality Applications",
+            "doi": "10.1145/3131672.3136979"
+        },
+        {
+            "title": "Ultra-Low Power Gaze Tracking for Virtual Reality",
+            "doi": "10.1145/3131672.3136989"
+        },
+        {
+            "title": "Indoor Navigation Leveraging Gradient WiFi Signals",
+            "doi": "10.1145/3131672.3136993"
+        },
+        {
+            "title": "Standardized Localization Service",
+            "doi": "10.1145/3131672.3136959"
+        },
+        {
+            "title": "Stalwart: a Predictable Reliable Adaptive and Low-latency Real-time Wireless Protocol",
+            "doi": "10.1145/3131672.3136969"
+        },
+        {
+            "title": "A Machine Learning Approach for Identifying Mosquito Breeding Sites via Drone Images",
+            "doi": "10.1145/3131672.3136986"
+        },
+        {
+            "title": "Hierarchical Subchannel Allocation for Mode-3 Vehicle-to-Vehicle Sidelink Communications",
+            "doi": "10.1145/3131672.3136987"
+        },
+        {
+            "title": "Real-time and Nearly Ideal Hologram for RFID-based Indoor Localization",
+            "doi": "10.1145/3131672.3136994"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "Monitoring a Person's Heart Rate and Respiratory Rate on a Shared Bed Using Geophones",
+            "doi": "10.1145/3131672.3131679"
+        },
+        {
+            "title": "Glasses for the Third Eye: Improving the Quality of Clinical Data Analysis with Motion Sensor-based Data Filtering",
+            "doi": "10.1145/3131672.3131690"
+        },
+        {
+            "title": "DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation",
+            "doi": "10.1145/3131672.3131693"
+        },
+        {
+            "title": "mCerebrum: A Mobile Sensing Software Platform for Development and Validation of Digital Biomarkers and Interventions",
+            "doi": "10.1145/3131672.3131694"
+        },
+        {
+            "title": "WiFi-Enabled Smart Human Dynamics Monitoring",
+            "doi": "10.1145/3131672.3131692"
+        },
+        {
+            "title": "PhO2: Smartphone based Blood Oxygen Level Measurement Systems using Near-IR and RED Wave-guided Light",
+            "doi": "10.1145/3131672.3131696"
+        },
+        {
+            "title": "A New Sensor for Gait Analysis: Demonstration of the IEE's Smart Insole",
+            "doi": "10.1145/3131672.3136955"
+        },
+        {
+            "title": "Judging Dynamic Co-Existence with Smartphone Magnetometer Traces",
+            "doi": "10.1145/3131672.3136963"
+        },
+        {
+            "title": "Predicting Blood Glucose Dynamics with Multi-time-series Deep Learning",
+            "doi": "10.1145/3131672.3136965"
+        },
+        {
+            "title": "HeartBeat the Odds: A Novel Digital Ballistocardiographic Sensor System",
+            "doi": "10.1145/3131672.3136973"
+        },
+        {
+            "title": "A Versatile Annotated Dataset for Multimodal Locomotion Analytics with Mobile Devices",
+            "doi": "10.1145/3131672.3136976"
+        },
+        {
+            "title": "High reliability Android application for multidevice multimodal mobile data acquisition and annotation",
+            "doi": "10.1145/3131672.3136977"
+        },
+        {
+            "title": "A Machine Learning Approach for Identifying Mosquito Breeding Sites via Drone Images",
+            "doi": "10.1145/3131672.3136986"
+        }
+    ]
+}

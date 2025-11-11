@@ -1,158 +1,114 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "CAT: high-precision acoustic motion tracking",
-                "doi": "10.1145/2973750.2973755"
-            },
-            {
-                "title": "Making sense of mechanical vibration period with sub-millisecond accuracy using backscatter signals",
-                "doi": "10.1145/2973750.2973759"
-            },
-            {
-                "title": "Gyro in the air: tracking 3D orientation of batteryless internet-of-things",
-                "doi": "10.1145/2973750.2973761"
-            },
-            {
-                "title": "Device-free gesture tracking using acoustic signals",
-                "doi": "10.1145/2973750.2973764"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Emotion recognition using wireless signals",
-                "doi": "10.1145/2973750.2973762"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "3D real-time indoor localization via broadband nonlinear backscatter in passive devices with centimeter precision",
-                "doi": "10.1145/2973750.2973754"
-            },
-            {
-                "title": "OpenMili: a 60 GHz software radio platform with a reconfigurable phased-array antenna",
-                "doi": "10.1145/2973750.2973760"
-            },
-            {
-                "title": "LiTell: robust indoor localization using unmodified light fixtures",
-                "doi": "10.1145/2973750.2973767"
-            },
-            {
-                "title": "LiFS: low human-effort, device-free localization with fine-grained subcarrier information",
-                "doi": "10.1145/2973750.2973776"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "SPREE: a spoofing resistant GPS receiver",
-                "doi": "10.1145/2973750.2973753"
-            },
-            {
-                "title": "Investigation of multi-device location spoofing attacks on air traffic control and possible countermeasures",
-                "doi": "10.1145/2973750.2973763"
-            },
-            {
-                "title": "Tracking drone orientation with multiple GPS receivers",
-                "doi": "10.1145/2973750.2973768"
-            },
-            {
-                "title": "Experience: accurate simulation of dense scenarios with hundreds of vehicular transmitters",
-                "doi": "10.1145/2973750.2973779"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Lasagna: towards deep hierarchical understanding and searching over mobile sensing data",
-                "doi": "10.1145/2973750.2973752"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Assessing header impacts in soccer with smartball: poster",
-                "doi": "10.1145/2973750.2985262"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "An infrastructureless and self-deployable indoor navigation approach using semantic signatures: poster",
-                "doi": "10.1145/2973750.2985270"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Automatic personal fitness assistance through wearable mobile devices: poster",
-                "doi": "10.1145/2973750.2985266"
-            },
-            {
-                "title": "GonioSense: a wearable-based range of motion sensing and measurement system for body joints: poster",
-                "doi": "10.1145/2973750.2985268"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Cell tower extension through drones: poster",
-                "doi": "10.1145/2973750.2985275"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Robust respiration monitoring using low-cost doppler sensor and wireless network: poster",
-                "doi": "10.1145/2973750.2985282"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "LiTell: indoor localization using unmodified light fixtures: demo",
-                "doi": "10.1145/2973750.2985612"
-            },
-            {
-                "title": "Tracking orientation of batteryless internet-of-things using RFID tags: demo",
-                "doi": "10.1145/2973750.2985613"
-            },
-            {
-                "title": "OpenMili: a 60 GHz software radio with a programmable phased-array antenna: demo",
-                "doi": "10.1145/2973750.2985614"
-            },
-            {
-                "title": "Making sense of mechanical vibration with COTS RFID systems: demo",
-                "doi": "10.1145/2973750.2985615"
-            },
-            {
-                "title": "High-precision acoustic motion tracking: demo",
-                "doi": "10.1145/2973750.2985617"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "The darklight rises: visible light communication in the dark: demo",
-                "doi": "10.1145/2973750.2987384"
-            },
-            {
-                "title": "Device-free gesture tracking using acoustic signals: demo",
-                "doi": "10.1145/2973750.2987385"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": []
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "CAT: high-precision acoustic motion tracking",
+            "doi": "10.1145/2973750.2973755"
+        },
+        {
+            "title": "Making sense of mechanical vibration period with sub-millisecond accuracy using backscatter signals",
+            "doi": "10.1145/2973750.2973759"
+        },
+        {
+            "title": "Gyro in the air: tracking 3D orientation of batteryless internet-of-things",
+            "doi": "10.1145/2973750.2973761"
+        },
+        {
+            "title": "Device-free gesture tracking using acoustic signals",
+            "doi": "10.1145/2973750.2973764"
+        },
+        {
+            "title": "3D real-time indoor localization via broadband nonlinear backscatter in passive devices with centimeter precision",
+            "doi": "10.1145/2973750.2973754"
+        },
+        {
+            "title": "OpenMili: a 60 GHz software radio platform with a reconfigurable phased-array antenna",
+            "doi": "10.1145/2973750.2973760"
+        },
+        {
+            "title": "LiTell: robust indoor localization using unmodified light fixtures",
+            "doi": "10.1145/2973750.2973767"
+        },
+        {
+            "title": "LiFS: low human-effort, device-free localization with fine-grained subcarrier information",
+            "doi": "10.1145/2973750.2973776"
+        },
+        {
+            "title": "SPREE: a spoofing resistant GPS receiver",
+            "doi": "10.1145/2973750.2973753"
+        },
+        {
+            "title": "Investigation of multi-device location spoofing attacks on air traffic control and possible countermeasures",
+            "doi": "10.1145/2973750.2973763"
+        },
+        {
+            "title": "Tracking drone orientation with multiple GPS receivers",
+            "doi": "10.1145/2973750.2973768"
+        },
+        {
+            "title": "Experience: accurate simulation of dense scenarios with hundreds of vehicular transmitters",
+            "doi": "10.1145/2973750.2973779"
+        },
+        {
+            "title": "An infrastructureless and self-deployable indoor navigation approach using semantic signatures: poster",
+            "doi": "10.1145/2973750.2985270"
+        },
+        {
+            "title": "Cell tower extension through drones: poster",
+            "doi": "10.1145/2973750.2985275"
+        },
+        {
+            "title": "LiTell: indoor localization using unmodified light fixtures: demo",
+            "doi": "10.1145/2973750.2985612"
+        },
+        {
+            "title": "Tracking orientation of batteryless internet-of-things using RFID tags: demo",
+            "doi": "10.1145/2973750.2985613"
+        },
+        {
+            "title": "OpenMili: a 60 GHz software radio with a programmable phased-array antenna: demo",
+            "doi": "10.1145/2973750.2985614"
+        },
+        {
+            "title": "Making sense of mechanical vibration with COTS RFID systems: demo",
+            "doi": "10.1145/2973750.2985615"
+        },
+        {
+            "title": "High-precision acoustic motion tracking: demo",
+            "doi": "10.1145/2973750.2985617"
+        },
+        {
+            "title": "The darklight rises: visible light communication in the dark: demo",
+            "doi": "10.1145/2973750.2987384"
+        },
+        {
+            "title": "Device-free gesture tracking using acoustic signals: demo",
+            "doi": "10.1145/2973750.2987385"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "Emotion recognition using wireless signals",
+            "doi": "10.1145/2973750.2973762"
+        },
+        {
+            "title": "Lasagna: towards deep hierarchical understanding and searching over mobile sensing data",
+            "doi": "10.1145/2973750.2973752"
+        },
+        {
+            "title": "Assessing header impacts in soccer with smartball: poster",
+            "doi": "10.1145/2973750.2985262"
+        },
+        {
+            "title": "Automatic personal fitness assistance through wearable mobile devices: poster",
+            "doi": "10.1145/2973750.2985266"
+        },
+        {
+            "title": "GonioSense: a wearable-based range of motion sensing and measurement system for body joints: poster",
+            "doi": "10.1145/2973750.2985268"
+        },
+        {
+            "title": "Robust respiration monitoring using low-cost doppler sensor and wireless network: poster",
+            "doi": "10.1145/2973750.2985282"
+        }
+    ]
+}

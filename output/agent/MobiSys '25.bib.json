@@ -1,252 +1,190 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "TerraSLAM: Towards GPS-Denied Localization",
-                "doi": "https://doi.org/10.1145/3711875.3729144"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "PIT: A Novel Toothbrush Providing Real-Time and Robust Plaque Indication During Brushing",
-                "doi": "https://doi.org/10.1145/3711875.3729124"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "ARIA: Optimizing Vision Foundation Model Inference on Heterogeneous Mobile Processors for Augmented Reality",
-                "doi": "10.1145/3711875.3729161"
-            },
-            {
-                "title": "You Only Render Once: Enhancing Energy and Computation Efficiency of Mobile Virtual Reality",
-                "doi": "https://doi.org/10.1145/3711875.3729133"
-            },
-            {
-                "title": "WhisperFlow: speech foundation models in real time",
-                "doi": "https://doi.org/10.1145/3711875.3729151"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "DeltaStream: 2D-Inferred Delta Encoding for Live Volumetric Video Streaming",
-                "doi": "https://doi.org/10.1145/3711875.3729131"
-            },
-            {
-                "title": "Towards End-to-End Latency Guarantee in MEC Live Video Analytics with App-RAN Mutual Awareness",
-                "doi": "https://doi.org/10.1145/3711875.3729139"
-            },
-            {
-                "title": "Empilo: Realizing Immersive Mobile 3D Video Conferencing through Parameterized Communication",
-                "doi": "https://doi.org/10.1145/3711875.3729140"
-            },
-            {
-                "title": "PointPresence: An Online Habitat for Multi-User Mixed Reality Telepresence",
-                "doi": "https://doi.org/10.1145/3711875.3729148"
-            },
-            {
-                "title": "HELIX: High-speed Real-Time Experimentation Platform for 6G Wireless Networks",
-                "doi": "https://doi.org/10.1145/3711875.3729152"
-            },
-            {
-                "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
-                "doi": "https://doi.org/10.1145/3711875.3729154"
-            },
-            {
-                "title": "NeRFlow: Towards Adaptive Streaming for NeRF Videos",
-                "doi": "10.1145/3711875.3729160"
-            },
-            {
-                "title": "High-resolution mmWave Imaging using Metasurface and Diffusion",
-                "doi": "10.1145/3711875.3729162"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Tracking Blink Dynamics and Mental States on Glasses",
-                "doi": "https://doi.org/10.1145/3711875.3729150"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "EAR-Mapping: Edge-Assisted Real-Time Dense Mapping with Low Bandwidth Requirements",
-                "doi": "https://doi.org/10.1145/3711875.3729127"
-            },
-            {
-                "title": "UniSense: Spatial-Uncertainty-Aware Collaborative Sensing for Autonomous Driving",
-                "doi": "https://doi.org/10.1145/3711875.3729130"
-            },
-            {
-                "title": "Non-Line-of-Sight 3D Object Reconstruction via mmWave Surface Normal Estimation",
-                "doi": "https://doi.org/10.1145/3711875.3729138"
-            },
-            {
-                "title": "Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs",
-                "doi": "https://doi.org/10.1145/3711875.3729147"
-            },
-            {
-                "title": "Toward Spoofing-Resilient and Communication-Integrated MmWave Radar Sensing",
-                "doi": "https://doi.org/10.1145/3711875.3729155"
-            },
-            {
-                "title": "Detection and Tracking of Drone Swarms using LiDAR",
-                "doi": "https://doi.org/10.1145/3711875.3729156"
-            },
-            {
-                "title": "Dynamic Defense for Car-Borne LiDAR Vehicle Detection",
-                "doi": "https://doi.org/10.1145/3711875.3729157"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Hopter: a Safe, Robust, and Responsive Embedded Operating System",
-                "doi": "https://doi.org/10.1145/3711875.3729149"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Poster: Mobile Menstrual Health Advising with Multimodal Feature Engineering",
-                "doi": "https://doi.org/10.1145/3711875.3734548"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Poster: Towards Federated Embodied AI with FEAI",
-                "doi": "https://doi.org/10.1145/3711875.3734561"
-            },
-            {
-                "title": "Poster: Joint RF-Gas Sensing for Victim Localization using UAV Networks",
-                "doi": "https://doi.org/10.1145/3711875.3734566"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Poster: IoT-Based Indoor Air Quality Monitoring for Health Risk Assessment and Well-Being",
-                "doi": "https://doi.org/10.1145/3711875.3734564"
-            },
-            {
-                "title": "Poster: SiHear (Sign-to-Hear): Empowering Seemless Sign-Speech Interactions over Smart Glasses",
-                "doi": "https://doi.org/10.1145/3711875.3734568"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Demo: WiMU: Real-time Indoor Localization via Wi-Fi/IMU Fusion with Minimal Site Survey",
-                "doi": "https://doi.org/10.1145/3711875.3734375"
-            },
-            {
-                "title": "Demo: Liquid Identification via Vision-Guided mmWave Imaging and LLM Reasoning",
-                "doi": "https://doi.org/10.1145/3711875.3734376"
-            },
-            {
-                "title": "Demo: ROARQuad: Robust, Open Academic Research Quadcopter",
-                "doi": "https://doi.org/10.1145/3711875.3734378"
-            },
-            {
-                "title": "Demo: InvisibleFence: Non-Lethal Edge-Optimized AI for Human Wildlife Coexistence and Crop Protection",
-                "doi": "https://doi.org/10.1145/3711875.3734379"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Time-Resolved Designs for Narrowband Radio Localization and Vehicular Visual Sensing Compromise",
-                "doi": "10.1145/3711875.3736660"
-            },
-            {
-                "title": "Exploiting and Securing WiFi for Pervasive Human Sensing",
-                "doi": "10.1145/3711875.3736658"
-            },
-            {
-                "title": "mmWave Communications, Sensing, and Interference Mitigation",
-                "doi": "10.1145/3711875.3736659"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Time-sensitive AI System for Physical Agents",
-                "doi": "https://doi.org/10.1145/3711875.3736671"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Assistive AR System for Enhancing Human-Human and Human-Environment Interactions",
-                "doi": "10.1145/3711875.3736666"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Ultra-Lightweight Edge Intelligence Using Vector Symbolic Architecture",
-                "doi": "https://doi.org/10.1145/3711875.3736678"
-            },
-            {
-                "title": "\u03b4-ATP: Towards Fast and Reliable Aerial Traffic Patrol",
-                "doi": "https://doi.org/10.1145/3711875.3737658"
-            },
-            {
-                "title": "GazeboNS3: A Digital Twin System for UAV Swarms",
-                "doi": "https://doi.org/10.1145/3711875.3737659"
-            },
-            {
-                "title": "Rolling in the Deep: Exploiting Rolling Shutter Effect Against Stereo Depth Estimation in Drones",
-                "doi": "https://doi.org/10.1145/3711875.3737660"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Privacy-Aware Ambient Audio Sensing for Healthy Indoor Spaces",
-                "doi": "https://doi.org/10.1145/3711875.3736681"
-            },
-            {
-                "title": "Rethinking Inexpensive Wearables in the Era of AI: From Motion Analytics to Mobile Health",
-                "doi": "https://doi.org/10.1145/3711875.3736682"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Continuous Marine Monitoring via Autonomous UAV Handoff",
-                "doi": "https://doi.org/10.1145/3711875.3737661"
-            },
-            {
-                "title": "Drones in the Sky: Air Quality Monitoring at Heights",
-                "doi": "https://doi.org/10.1145/3711875.3737662"
-            },
-            {
-                "title": "Real-time Adaptive Planning for Intelligent Distributed TSP-inspired Drone Swarming (RAPID-TSP)",
-                "doi": "https://doi.org/10.1145/3711875.3737663"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "SPATIUM: A Context-Aware Machine Learning Framework for Immersive Spatiotemporal Health Understanding",
-                "doi": "https://doi.org/10.1145/3711875.3736686"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": []
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "TerraSLAM: Towards GPS-Denied Localization",
+            "doi": "https://doi.org/10.1145/3711875.3729144"
+        },
+        {
+            "title": "ARIA: Optimizing Vision Foundation Model Inference on Heterogeneous Mobile Processors for Augmented Reality",
+            "doi": "10.1145/3711875.3729161"
+        },
+        {
+            "title": "You Only Render Once: Enhancing Energy and Computation Efficiency of Mobile Virtual Reality",
+            "doi": "https://doi.org/10.1145/3711875.3729133"
+        },
+        {
+            "title": "WhisperFlow: speech foundation models in real time",
+            "doi": "https://doi.org/10.1145/3711875.3729151"
+        },
+        {
+            "title": "DeltaStream: 2D-Inferred Delta Encoding for Live Volumetric Video Streaming",
+            "doi": "https://doi.org/10.1145/3711875.3729131"
+        },
+        {
+            "title": "Towards End-to-End Latency Guarantee in MEC Live Video Analytics with App-RAN Mutual Awareness",
+            "doi": "https://doi.org/10.1145/3711875.3729139"
+        },
+        {
+            "title": "Empilo: Realizing Immersive Mobile 3D Video Conferencing through Parameterized Communication",
+            "doi": "https://doi.org/10.1145/3711875.3729140"
+        },
+        {
+            "title": "PointPresence: An Online Habitat for Multi-User Mixed Reality Telepresence",
+            "doi": "https://doi.org/10.1145/3711875.3729148"
+        },
+        {
+            "title": "HELIX: High-speed Real-Time Experimentation Platform for 6G Wireless Networks",
+            "doi": "https://doi.org/10.1145/3711875.3729152"
+        },
+        {
+            "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
+            "doi": "https://doi.org/10.1145/3711875.3729154"
+        },
+        {
+            "title": "NeRFlow: Towards Adaptive Streaming for NeRF Videos",
+            "doi": "10.1145/3711875.3729160"
+        },
+        {
+            "title": "High-resolution mmWave Imaging using Metasurface and Diffusion",
+            "doi": "10.1145/3711875.3729162"
+        },
+        {
+            "title": "EAR-Mapping: Edge-Assisted Real-Time Dense Mapping with Low Bandwidth Requirements",
+            "doi": "https://doi.org/10.1145/3711875.3729127"
+        },
+        {
+            "title": "UniSense: Spatial-Uncertainty-Aware Collaborative Sensing for Autonomous Driving",
+            "doi": "https://doi.org/10.1145/3711875.3729130"
+        },
+        {
+            "title": "Non-Line-of-Sight 3D Object Reconstruction via mmWave Surface Normal Estimation",
+            "doi": "https://doi.org/10.1145/3711875.3729138"
+        },
+        {
+            "title": "Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs",
+            "doi": "https://doi.org/10.1145/3711875.3729147"
+        },
+        {
+            "title": "Toward Spoofing-Resilient and Communication-Integrated MmWave Radar Sensing",
+            "doi": "https://doi.org/10.1145/3711875.3729155"
+        },
+        {
+            "title": "Detection and Tracking of Drone Swarms using LiDAR",
+            "doi": "https://doi.org/10.1145/3711875.3729156"
+        },
+        {
+            "title": "Dynamic Defense for Car-Borne LiDAR Vehicle Detection",
+            "doi": "https://doi.org/10.1145/3711875.3729157"
+        },
+        {
+            "title": "Hopter: a Safe, Robust, and Responsive Embedded Operating System",
+            "doi": "https://doi.org/10.1145/3711875.3729149"
+        },
+        {
+            "title": "Poster: Towards Federated Embodied AI with FEAI",
+            "doi": "https://doi.org/10.1145/3711875.3734561"
+        },
+        {
+            "title": "Poster: Joint RF-Gas Sensing for Victim Localization using UAV Networks",
+            "doi": "https://doi.org/10.1145/3711875.3734566"
+        },
+        {
+            "title": "Demo: WiMU: Real-time Indoor Localization via Wi-Fi/IMU Fusion with Minimal Site Survey",
+            "doi": "https://doi.org/10.1145/3711875.3734375"
+        },
+        {
+            "title": "Demo: Liquid Identification via Vision-Guided mmWave Imaging and LLM Reasoning",
+            "doi": "https://doi.org/10.1145/3711875.3734376"
+        },
+        {
+            "title": "Demo: ROARQuad: Robust, Open Academic Research Quadcopter",
+            "doi": "https://doi.org/10.1145/3711875.3734378"
+        },
+        {
+            "title": "Demo: InvisibleFence: Non-Lethal Edge-Optimized AI for Human Wildlife Coexistence and Crop Protection",
+            "doi": "https://doi.org/10.1145/3711875.3734379"
+        },
+        {
+            "title": "Time-Resolved Designs for Narrowband Radio Localization and Vehicular Visual Sensing Compromise",
+            "doi": "10.1145/3711875.3736660"
+        },
+        {
+            "title": "Exploiting and Securing WiFi for Pervasive Human Sensing",
+            "doi": "10.1145/3711875.3736658"
+        },
+        {
+            "title": "mmWave Communications, Sensing, and Interference Mitigation",
+            "doi": "10.1145/3711875.3736659"
+        },
+        {
+            "title": "Time-sensitive AI System for Physical Agents",
+            "doi": "https://doi.org/10.1145/3711875.3736671"
+        },
+        {
+            "title": "Ultra-Lightweight Edge Intelligence Using Vector Symbolic Architecture",
+            "doi": "https://doi.org/10.1145/3711875.3736678"
+        },
+        {
+            "title": "\u03b4-ATP: Towards Fast and Reliable Aerial Traffic Patrol",
+            "doi": "https://doi.org/10.1145/3711875.3737658"
+        },
+        {
+            "title": "GazeboNS3: A Digital Twin System for UAV Swarms",
+            "doi": "https://doi.org/10.1145/3711875.3737659"
+        },
+        {
+            "title": "Rolling in the Deep: Exploiting Rolling Shutter Effect Against Stereo Depth Estimation in Drones",
+            "doi": "https://doi.org/10.1145/3711875.3737660"
+        },
+        {
+            "title": "Continuous Marine Monitoring via Autonomous UAV Handoff",
+            "doi": "https://doi.org/10.1145/3711875.3737661"
+        },
+        {
+            "title": "Drones in the Sky: Air Quality Monitoring at Heights",
+            "doi": "https://doi.org/10.1145/3711875.3737662"
+        },
+        {
+            "title": "Real-time Adaptive Planning for Intelligent Distributed TSP-inspired Drone Swarming (RAPID-TSP)",
+            "doi": "https://doi.org/10.1145/3711875.3737663"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "PIT: A Novel Toothbrush Providing Real-Time and Robust Plaque Indication During Brushing",
+            "doi": "https://doi.org/10.1145/3711875.3729124"
+        },
+        {
+            "title": "Tracking Blink Dynamics and Mental States on Glasses",
+            "doi": "https://doi.org/10.1145/3711875.3729150"
+        },
+        {
+            "title": "Poster: Mobile Menstrual Health Advising with Multimodal Feature Engineering",
+            "doi": "https://doi.org/10.1145/3711875.3734548"
+        },
+        {
+            "title": "Poster: IoT-Based Indoor Air Quality Monitoring for Health Risk Assessment and Well-Being",
+            "doi": "https://doi.org/10.1145/3711875.3734564"
+        },
+        {
+            "title": "Poster: SiHear (Sign-to-Hear): Empowering Seemless Sign-Speech Interactions over Smart Glasses",
+            "doi": "https://doi.org/10.1145/3711875.3734568"
+        },
+        {
+            "title": "Assistive AR System for Enhancing Human-Human and Human-Environment Interactions",
+            "doi": "10.1145/3711875.3736666"
+        },
+        {
+            "title": "Privacy-Aware Ambient Audio Sensing for Healthy Indoor Spaces",
+            "doi": "https://doi.org/10.1145/3711875.3736681"
+        },
+        {
+            "title": "Rethinking Inexpensive Wearables in the Era of AI: From Motion Analytics to Mobile Health",
+            "doi": "https://doi.org/10.1145/3711875.3736682"
+        },
+        {
+            "title": "SPATIUM: A Context-Aware Machine Learning Framework for Immersive Spatiotemporal Health Understanding",
+            "doi": "https://doi.org/10.1145/3711875.3736686"
+        }
+    ]
+}

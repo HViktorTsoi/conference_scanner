@@ -1,162 +1,126 @@
-[
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Secret from Muscle: Enabling Secure Pairing with Electromyography",
-                "doi": "10.1145/2994551.2994556"
-            },
-            {
-                "title": "Nutrilyzer: A Mobile System for Characterizing Liquid Food with Photoacoustic Effect",
-                "doi": "10.1145/2994551.2994572"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "SurePoint: Exploiting Ultra Wideband Flooding and Diversity to Provide Robust, Scalable, High-Fidelity Indoor Localization",
-                "doi": "10.1145/2994551.2994570"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Amulet: An Energy-Efficient, Multi-Application Wearable Platform",
-                "doi": "10.1145/2994551.2994554"
-            },
-            {
-                "title": "A Lightweight and Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring",
-                "doi": "10.1145/2994551.2994562"
-            },
-            {
-                "title": "Toothbrushing Monitoring using Wrist Watch",
-                "doi": "10.1145/2994551.2994563"
-            },
-            {
-                "title": "Deep Learning for RFID-Based Activity Recognition",
-                "doi": "10.1145/2994551.2994569"
-            },
-            {
-                "title": "Monoxalyze: Verifying Smoking Cessation with a Keychain-sized Carbon Monoxide Breathalyzer",
-                "doi": "10.1145/2994551.2994571"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Gondola: a Parametric Robot Infrastructure for Repeatable Mobile Experiments: Demo Abstract",
-                "doi": "10.1145/2994551.2996531"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "The Amulet Wearable Platform: Demo Abstract",
-                "doi": "10.1145/2994551.2996527"
-            },
-            {
-                "title": "3S: Sensing Sensor Signal: Demo Abstract",
-                "doi": "10.1145/2994551.2996533"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Visible Light Localization Using Incumbent Light Fixtures: Demo Abstract",
-                "doi": "10.1145/2994551.2996534"
-            },
-            {
-                "title": "Telepresence Robot with Autonomous Navigation and Virtual Reality: Demo Abstract",
-                "doi": "10.1145/2994551.2996540"
-            },
-            {
-                "title": "SurePoint: Exploiting Ultra Wideband Flooding and Diversity to Provide Robust, Scalable, High-Fidelity Indoor Localization: Demo Abstract",
-                "doi": "10.1145/2994551.2996541"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "FindIt: Real-time Through-Wall Human Motion Detection Using Narrow Band SDR: Demo Abstract",
-                "doi": "10.1145/2994551.2996537"
-            },
-            {
-                "title": "Occupancy and Activity Monitoring with Doppler Sensing and Edge Analytics: Demo Abstract",
-                "doi": "10.1145/2994551.2996543"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Collaborative Localization and Navigation in Heterogeneous UAV swarms: Demo Abstract",
-                "doi": "10.1145/2994551.2996544"
-            },
-            {
-                "title": "Aerial Drones with Ears: Poster Abstract",
-                "doi": "10.1145/2994551.2996695"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "SEUS: A Wearable Multi-Channel Acoustic Headset Platform to Improve Pedestrian Safety: Demo Abstract",
-                "doi": "10.1145/2994551.2996547"
-            },
-            {
-                "title": "Emotion Analysis from Context Understanding: Poster Abstract",
-                "doi": "10.1145/2994551.2996697"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "WiTraffic: Non-intrusive Vehicle Classification Using WiFi: Poster Abstract",
-                "doi": "10.1145/2994551.2996705"
-            },
-            {
-                "title": "All-to-all Communication in Multi-hop Wireless Networks with Mixer: Poster Abstract",
-                "doi": "10.1145/2994551.2996706"
-            },
-            {
-                "title": "Deploying a 6LoWPAN, CoAP, low power, wireless sensor network: Poster Abstract",
-                "doi": "10.1145/2994551.2996707"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "LifeMaps: An Automated Diary System Based on the Structure of Lives: Poster Abstract",
-                "doi": "10.1145/2994551.2996700"
-            },
-            {
-                "title": "M2FED: Monitoring and Modeling Family Eating Dynamics: Poster Abstract",
-                "doi": "10.1145/2994551.2996702"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Multiple Pedestrian Tracking through Ambient Structural Vibration Sensing: Poster Abstract",
-                "doi": "10.1145/2994551.2996709"
-            },
-            {
-                "title": "dBHound: Privacy Sensitive Acoustic Perception in Home Settings: Poster Abstract",
-                "doi": "10.1145/2994551.2996711"
-            },
-            {
-                "title": "Constructing a Bio-Signal Repository from an Intensive Care Unit for Effective Big-data Analysis: Poster Abstract",
-                "doi": "10.1145/2994551.2996712"
-            },
-            {
-                "title": "Non-intrusive Occupant Localization Using Floor Vibrations in Dispersive Structure: Poster Abstract",
-                "doi": "10.1145/2994551.2996715"
-            },
-            {
-                "title": "Accurately Measuring Heart Rate Using Smart Watch: Poster Abstract",
-                "doi": "10.1145/2994551.2996716"
-            }
-        ]
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "SurePoint: Exploiting Ultra Wideband Flooding and Diversity to Provide Robust, Scalable, High-Fidelity Indoor Localization",
+            "doi": "10.1145/2994551.2994570"
+        },
+        {
+            "title": "Gondola: a Parametric Robot Infrastructure for Repeatable Mobile Experiments: Demo Abstract",
+            "doi": "10.1145/2994551.2996531"
+        },
+        {
+            "title": "Visible Light Localization Using Incumbent Light Fixtures: Demo Abstract",
+            "doi": "10.1145/2994551.2996534"
+        },
+        {
+            "title": "Telepresence Robot with Autonomous Navigation and Virtual Reality: Demo Abstract",
+            "doi": "10.1145/2994551.2996540"
+        },
+        {
+            "title": "SurePoint: Exploiting Ultra Wideband Flooding and Diversity to Provide Robust, Scalable, High-Fidelity Indoor Localization: Demo Abstract",
+            "doi": "10.1145/2994551.2996541"
+        },
+        {
+            "title": "Collaborative Localization and Navigation in Heterogeneous UAV swarms: Demo Abstract",
+            "doi": "10.1145/2994551.2996544"
+        },
+        {
+            "title": "Aerial Drones with Ears: Poster Abstract",
+            "doi": "10.1145/2994551.2996695"
+        },
+        {
+            "title": "WiTraffic: Non-intrusive Vehicle Classification Using WiFi: Poster Abstract",
+            "doi": "10.1145/2994551.2996705"
+        },
+        {
+            "title": "All-to-all Communication in Multi-hop Wireless Networks with Mixer: Poster Abstract",
+            "doi": "10.1145/2994551.2996706"
+        },
+        {
+            "title": "Deploying a 6LoWPAN, CoAP, low power, wireless sensor network: Poster Abstract",
+            "doi": "10.1145/2994551.2996707"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "Secret from Muscle: Enabling Secure Pairing with Electromyography",
+            "doi": "10.1145/2994551.2994556"
+        },
+        {
+            "title": "Nutrilyzer: A Mobile System for Characterizing Liquid Food with Photoacoustic Effect",
+            "doi": "10.1145/2994551.2994572"
+        },
+        {
+            "title": "Amulet: An Energy-Efficient, Multi-Application Wearable Platform",
+            "doi": "10.1145/2994551.2994554"
+        },
+        {
+            "title": "A Lightweight and Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring",
+            "doi": "10.1145/2994551.2994562"
+        },
+        {
+            "title": "Toothbrushing Monitoring using Wrist Watch",
+            "doi": "10.1145/2994551.2994563"
+        },
+        {
+            "title": "Deep Learning for RFID-Based Activity Recognition",
+            "doi": "10.1145/2994551.2994569"
+        },
+        {
+            "title": "Monoxalyze: Verifying Smoking Cessation with a Keychain-sized Carbon Monoxide Breathalyzer",
+            "doi": "10.1145/2994551.2994571"
+        },
+        {
+            "title": "The Amulet Wearable Platform: Demo Abstract",
+            "doi": "10.1145/2994551.2996527"
+        },
+        {
+            "title": "3S: Sensing Sensor Signal: Demo Abstract",
+            "doi": "10.1145/2994551.2996533"
+        },
+        {
+            "title": "FindIt: Real-time Through-Wall Human Motion Detection Using Narrow Band SDR: Demo Abstract",
+            "doi": "10.1145/2994551.2996537"
+        },
+        {
+            "title": "Occupancy and Activity Monitoring with Doppler Sensing and Edge Analytics: Demo Abstract",
+            "doi": "10.1145/2994551.2996543"
+        },
+        {
+            "title": "SEUS: A Wearable Multi-Channel Acoustic Headset Platform to Improve Pedestrian Safety: Demo Abstract",
+            "doi": "10.1145/2994551.2996547"
+        },
+        {
+            "title": "Emotion Analysis from Context Understanding: Poster Abstract",
+            "doi": "10.1145/2994551.2996697"
+        },
+        {
+            "title": "LifeMaps: An Automated Diary System Based on the Structure of Lives: Poster Abstract",
+            "doi": "10.1145/2994551.2996700"
+        },
+        {
+            "title": "M2FED: Monitoring and Modeling Family Eating Dynamics: Poster Abstract",
+            "doi": "10.1145/2994551.2996702"
+        },
+        {
+            "title": "Multiple Pedestrian Tracking through Ambient Structural Vibration Sensing: Poster Abstract",
+            "doi": "10.1145/2994551.2996709"
+        },
+        {
+            "title": "dBHound: Privacy Sensitive Acoustic Perception in Home Settings: Poster Abstract",
+            "doi": "10.1145/2994551.2996711"
+        },
+        {
+            "title": "Constructing a Bio-Signal Repository from an Intensive Care Unit for Effective Big-data Analysis: Poster Abstract",
+            "doi": "10.1145/2994551.2996712"
+        },
+        {
+            "title": "Non-intrusive Occupant Localization Using Floor Vibrations in Dispersive Structure: Poster Abstract",
+            "doi": "10.1145/2994551.2996715"
+        },
+        {
+            "title": "Accurately Measuring Heart Rate Using Smart Watch: Poster Abstract",
+            "doi": "10.1145/2994551.2996716"
+        }
+    ]
+}

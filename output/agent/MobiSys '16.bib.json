@@ -1,46 +1,30 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "The Design and Implementation of a Mobile RFID Tag Sorting Robot",
-                "doi": "10.1145/2906388.2906417"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Idea: A System for Efficient Failure Management in Smart IoT Environments",
-                "doi": "10.1145/2906388.2906406"
-            },
-            {
-                "title": "BodyScan: Enabling Radio-based Sensing on Wearable Devices for Contactless Activity and Vital Sign Monitoring",
-                "doi": "10.1145/2906388.2906411"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Reactive Control of Autonomous Drones",
-                "doi": "10.1145/2906388.2906410"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Understanding the Characteristics of Android Wear OS",
-                "doi": "10.1145/2906388.2906398"
-            },
-            {
-                "title": "Beetle: Flexible Communication for Bluetooth Low Energy",
-                "doi": "10.1145/2906388.2906414"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": []
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "The Design and Implementation of a Mobile RFID Tag Sorting Robot",
+            "doi": "10.1145/2906388.2906417"
+        },
+        {
+            "title": "Reactive Control of Autonomous Drones",
+            "doi": "10.1145/2906388.2906410"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "Idea: A System for Efficient Failure Management in Smart IoT Environments",
+            "doi": "10.1145/2906388.2906406"
+        },
+        {
+            "title": "BodyScan: Enabling Radio-based Sensing on Wearable Devices for Contactless Activity and Vital Sign Monitoring",
+            "doi": "10.1145/2906388.2906411"
+        },
+        {
+            "title": "Understanding the Characteristics of Android Wear OS",
+            "doi": "10.1145/2906388.2906398"
+        },
+        {
+            "title": "Beetle: Flexible Communication for Bluetooth Low Energy",
+            "doi": "10.1145/2906388.2906414"
+        }
+    ]
+}

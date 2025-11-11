@@ -1,78 +1,54 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Dancing Waltz with Ghosts: Measuring Sub-mm-Level 2D Rotor Orbit with a Single mmWave Radar",
-                "doi": "10.1145/3412382.3458258"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Magneto: Joint Angle Analysis Using an Electromagnet-Based Sensing Method",
-                "doi": "10.1145/3412382.3458253"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "OwLL: Accurate LoRa Localization using the TV Whitespaces",
-                "doi": "10.1145/3412382.3458263"
-            },
-            {
-                "title": "Deep Functional Network (DFN): Functional Interpretation of Deep Neural Networks for Intelligent Sensing Systems",
-                "doi": "10.1145/3412382.3458266"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "CSafe: An Intelligent Audio Wearable Platform for Improving Construction Worker Safety in Urban Environments",
-                "doi": "10.1145/3412382.3458267"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Optimal sensor channel selection for resource-efficient deep activity recognition",
-                "doi": "10.1145/3412382.3458278"
-            },
-            {
-                "title": "Protecting User Data Privacy with Adversarial Perturbations: Poster Abstract",
-                "doi": "10.1145/3412382.3458776"
-            },
-            {
-                "title": "VoiSense: Harnessing Voice Interaction on a Smartwatch to Collect Sensor Data: Demo Abstract",
-                "doi": "10.1145/3412382.3458777"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Distributed Virtual CPS Environment for K12: Demo Abstract",
-                "doi": "10.1145/3412382.3458780"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "User Identification Across Multiple Smart Pill Bottle Systems: Poster Abstract",
-                "doi": "10.1145/3412382.3458783"
-            },
-            {
-                "title": "A Multi-source Unsupervised Domain Adaptation Method for Wearable Sensor based Human Activity Recognition: Poster Abstract",
-                "doi": "10.1145/3412382.3458788"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "User Identification using Smart Pill Bottles: Systems and Machine Learning Models: PhD Forum Abstract",
-                "doi": "10.1145/3412382.3459210"
-            }
-        ]
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "Dancing Waltz with Ghosts: Measuring Sub-mm-Level 2D Rotor Orbit with a Single mmWave Radar",
+            "doi": "10.1145/3412382.3458258"
+        },
+        {
+            "title": "OwLL: Accurate LoRa Localization using the TV Whitespaces",
+            "doi": "10.1145/3412382.3458263"
+        },
+        {
+            "title": "Deep Functional Network (DFN): Functional Interpretation of Deep Neural Networks for Intelligent Sensing Systems",
+            "doi": "10.1145/3412382.3458266"
+        },
+        {
+            "title": "Distributed Virtual CPS Environment for K12: Demo Abstract",
+            "doi": "10.1145/3412382.3458780"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "Magneto: Joint Angle Analysis Using an Electromagnet-Based Sensing Method",
+            "doi": "10.1145/3412382.3458253"
+        },
+        {
+            "title": "CSafe: An Intelligent Audio Wearable Platform for Improving Construction Worker Safety in Urban Environments",
+            "doi": "10.1145/3412382.3458267"
+        },
+        {
+            "title": "Optimal sensor channel selection for resource-efficient deep activity recognition",
+            "doi": "10.1145/3412382.3458278"
+        },
+        {
+            "title": "Protecting User Data Privacy with Adversarial Perturbations: Poster Abstract",
+            "doi": "10.1145/3412382.3458776"
+        },
+        {
+            "title": "VoiSense: Harnessing Voice Interaction on a Smartwatch to Collect Sensor Data: Demo Abstract",
+            "doi": "10.1145/3412382.3458777"
+        },
+        {
+            "title": "User Identification Across Multiple Smart Pill Bottle Systems: Poster Abstract",
+            "doi": "10.1145/3412382.3458783"
+        },
+        {
+            "title": "A Multi-source Unsupervised Domain Adaptation Method for Wearable Sensor based Human Activity Recognition: Poster Abstract",
+            "doi": "10.1145/3412382.3458788"
+        },
+        {
+            "title": "User Identification using Smart Pill Bottles: Systems and Machine Learning Models: PhD Forum Abstract",
+            "doi": "10.1145/3412382.3459210"
+        }
+    ]
+}

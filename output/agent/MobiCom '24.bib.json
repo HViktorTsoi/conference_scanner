@@ -1,221 +1,162 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Soar: Design and Deployment of A Smart Roadside Infrastructure System for Autonomous Driving",
-                "doi": "10.1145/3636534.3649352"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Exploring Biomagnetism for Inclusive Vital Sign Monitoring: Modeling and Implementation",
-                "doi": "10.1145/3636534.3649349"
-            },
-            {
-                "title": "MSense: Boosting Wireless Sensing Capability Under Motion Interference",
-                "doi": "10.1145/3636534.3649350"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "WiProfile: Unlocking Diffraction Effects for Sub-Centimeter Target Profiling Using Commodity WiFi Devices",
-                "doi": "10.1145/3636534.3649355"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Experiences of Deploying a Citywide Crowdsourcing Platform to Search for Missing People with Dementia",
-                "doi": "10.1145/3636534.3649356"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Enabling Visual Recognition at Radio Frequency",
-                "doi": "10.1145/3636534.3649369"
-            },
-            {
-                "title": "Malicious Attacks against Multi-Sensor Fusion in Autonomous Driving",
-                "doi": "10.1145/3636534.3649372"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Exploring the Feasibility of Remote Cardiac Auscultation Using Earphones",
-                "doi": "10.1145/3636534.3649366"
-            },
-            {
-                "title": "ADMarker: A Multi-Modal Federated Learning System for Monitoring Digital Biomarkers of Alzheimer's Disease",
-                "doi": "10.1145/3636534.3649370"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Moir\u00e9Vision: A Generalized Moir\u00e9-based Mechanism for 6-DoF Motion Sensing",
-                "doi": "10.1145/3636534.3649374"
-            },
-            {
-                "title": "AeroBridge: Autonomous Drone Handoff System for Emergency Battery Service",
-                "doi": "10.1145/3636534.3649382"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Map++: Towards User-Participatory Visual SLAM Systems with Efficient Map Expansion and Sharing",
-                "doi": "10.1145/3636534.3649386"
-            },
-            {
-                "title": "See Through Vehicles: Fully Occluded Vehicle Detection with Millimeter Wave Radar",
-                "doi": "10.1145/3636534.3690658"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "SeaScan: An Energy-Efficient Underwater Camera for Wireless 3D Color Imaging",
-                "doi": "10.1145/3636534.3690661"
-            },
-            {
-                "title": "Hydra: Accurate Multi-Modal Leaf Wetness Sensing with mm-Wave and Camera Fusion",
-                "doi": "10.1145/3636534.3690662"
-            },
-            {
-                "title": "SURF: Eavesdropping on Underwater Communications from the Air",
-                "doi": "10.1145/3636534.3690663"
-            },
-            {
-                "title": "Crowd Analytics with a Single mmWave Radar",
-                "doi": "10.1145/3636534.3690664"
-            },
-            {
-                "title": "Plug-and-play Indoor GPS Positioning System with the Assistance of Optically Transparent Metasurfaces",
-                "doi": "10.1145/3636534.3690667"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "MeatSpec: Enabling Ubiquitous Meat Fraud Inspection through Consumer-Level Spectral Imaging",
-                "doi": "10.1145/3636534.3690666"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Around the Corner mmWave Imaging in Practical Environments",
-                "doi": "10.1145/3636534.3690671"
-            },
-            {
-                "title": "Experience: Practical Challenges for Indoor AR Applications",
-                "doi": "10.1145/3636534.3690676"
-            },
-            {
-                "title": "Rethinking Orientation Estimation with Smartphone-equipped Ultra-wideband Chips",
-                "doi": "10.1145/3636534.3690677"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Neuralite: Enabling Wireless High-Resolution Brain-Computer Interfaces",
-                "doi": "10.1145/3636534.3690673"
-            },
-            {
-                "title": "GPSense: Passive Sensing with Pervasive GPS Signals",
-                "doi": "10.1145/3636534.3690674"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "LightPure: Realtime Adversarial Image Purification for Mobile Devices Using Diffusion Models",
-                "doi": "10.1145/3636534.3690684"
-            },
-            {
-                "title": "Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices",
-                "doi": "10.1145/3636534.3690688"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Fine-grained Textile Moisture Sensing with Commodity UWB",
-                "doi": "10.1145/3636534.3690679"
-            },
-            {
-                "title": "MetaBioLiq: A Wearable Passive Metasurface Aided mmWave Sensing Platform for BioFluids",
-                "doi": "10.1145/3636534.3690687"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "UWBeacon: Lighting up Centimeter-Level Underwater Positioning",
-                "doi": "10.1145/3636534.3690689"
-            },
-            {
-                "title": "RECAP: 3D Traffic Reconstruction",
-                "doi": "10.1145/3636534.3690691"
-            },
-            {
-                "title": "Logan: Loss-tolerant Live Video Analytics System",
-                "doi": "10.1145/3636534.3690695"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "ZEROECG: Zero-Sensation ECG Monitoring By Exploring RFID MOSFET",
-                "doi": "10.1145/3636534.3690690"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Foes or Friends: Embracing Ground Effect for Edge Detection on Lightweight Drones",
-                "doi": "10.1145/3636534.3690699"
-            },
-            {
-                "title": "GPMS: Enabling Indoor GNSS Positioning using Passive Metasurfaces",
-                "doi": "10.1145/3636534.3690702"
-            },
-            {
-                "title": "SiWiS: Fine-grained Human Detection Using Single WiFi Device",
-                "doi": "10.1145/3636534.3690703"
-            },
-            {
-                "title": "\u03b1LiDAR: An Adaptive High-Resolution Panoramic LiDAR System",
-                "doi": "10.1145/3636534.3690708"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Uncovering Problematic Designs Hindering Ubiquitous Cellular Emergency Services Access",
-                "doi": "10.1145/3636534.3690704"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Hydra: Exploiting Multi-Bounce Scattering for Beyond-Field-of-View mmWave Radar",
-                "doi": "10.1145/3636534.3690710"
-            },
-            {
-                "title": "Polaris: Accurate, Vision-free Fiducials for Mobile Robots with Magnetic Constellation",
-                "doi": "10.1145/3636534.3690711"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "Soar: Design and Deployment of A Smart Roadside Infrastructure System for Autonomous Driving",
+            "doi": "10.1145/3636534.3649352"
+        },
+        {
+            "title": "WiProfile: Unlocking Diffraction Effects for Sub-Centimeter Target Profiling Using Commodity WiFi Devices",
+            "doi": "10.1145/3636534.3649355"
+        },
+        {
+            "title": "Enabling Visual Recognition at Radio Frequency",
+            "doi": "10.1145/3636534.3649369"
+        },
+        {
+            "title": "Malicious Attacks against Multi-Sensor Fusion in Autonomous Driving",
+            "doi": "10.1145/3636534.3649372"
+        },
+        {
+            "title": "Moir\u00e9Vision: A Generalized Moir\u00e9-based Mechanism for 6-DoF Motion Sensing",
+            "doi": "10.1145/3636534.3649374"
+        },
+        {
+            "title": "AeroBridge: Autonomous Drone Handoff System for Emergency Battery Service",
+            "doi": "10.1145/3636534.3649382"
+        },
+        {
+            "title": "Map++: Towards User-Participatory Visual SLAM Systems with Efficient Map Expansion and Sharing",
+            "doi": "10.1145/3636534.3649386"
+        },
+        {
+            "title": "See Through Vehicles: Fully Occluded Vehicle Detection with Millimeter Wave Radar",
+            "doi": "10.1145/3636534.3690658"
+        },
+        {
+            "title": "SeaScan: An Energy-Efficient Underwater Camera for Wireless 3D Color Imaging",
+            "doi": "10.1145/3636534.3690661"
+        },
+        {
+            "title": "Hydra: Accurate Multi-Modal Leaf Wetness Sensing with mm-Wave and Camera Fusion",
+            "doi": "10.1145/3636534.3690662"
+        },
+        {
+            "title": "SURF: Eavesdropping on Underwater Communications from the Air",
+            "doi": "10.1145/3636534.3690663"
+        },
+        {
+            "title": "Crowd Analytics with a Single mmWave Radar",
+            "doi": "10.1145/3636534.3690664"
+        },
+        {
+            "title": "Plug-and-play Indoor GPS Positioning System with the Assistance of Optically Transparent Metasurfaces",
+            "doi": "10.1145/3636534.3690667"
+        },
+        {
+            "title": "Around the Corner mmWave Imaging in Practical Environments",
+            "doi": "10.1145/3636534.3690671"
+        },
+        {
+            "title": "Experience: Practical Challenges for Indoor AR Applications",
+            "doi": "10.1145/3636534.3690676"
+        },
+        {
+            "title": "Rethinking Orientation Estimation with Smartphone-equipped Ultra-wideband Chips",
+            "doi": "10.1145/3636534.3690677"
+        },
+        {
+            "title": "LightPure: Realtime Adversarial Image Purification for Mobile Devices Using Diffusion Models",
+            "doi": "10.1145/3636534.3690684"
+        },
+        {
+            "title": "Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices",
+            "doi": "10.1145/3636534.3690688"
+        },
+        {
+            "title": "UWBeacon: Lighting up Centimeter-Level Underwater Positioning",
+            "doi": "10.1145/3636534.3690689"
+        },
+        {
+            "title": "RECAP: 3D Traffic Reconstruction",
+            "doi": "10.1145/3636534.3690691"
+        },
+        {
+            "title": "Logan: Loss-tolerant Live Video Analytics System",
+            "doi": "10.1145/3636534.3690695"
+        },
+        {
+            "title": "Foes or Friends: Embracing Ground Effect for Edge Detection on Lightweight Drones",
+            "doi": "10.1145/3636534.3690699"
+        },
+        {
+            "title": "GPMS: Enabling Indoor GNSS Positioning using Passive Metasurfaces",
+            "doi": "10.1145/3636534.3690702"
+        },
+        {
+            "title": "SiWiS: Fine-grained Human Detection Using Single WiFi Device",
+            "doi": "10.1145/3636534.3690703"
+        },
+        {
+            "title": "\u03b1LiDAR: An Adaptive High-Resolution Panoramic LiDAR System",
+            "doi": "10.1145/3636534.3690708"
+        },
+        {
+            "title": "Hydra: Exploiting Multi-Bounce Scattering for Beyond-Field-of-View mmWave Radar",
+            "doi": "10.1145/3636534.3690710"
+        },
+        {
+            "title": "Polaris: Accurate, Vision-free Fiducials for Mobile Robots with Magnetic Constellation",
+            "doi": "10.1145/3636534.3690711"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "Exploring Biomagnetism for Inclusive Vital Sign Monitoring: Modeling and Implementation",
+            "doi": "10.1145/3636534.3649349"
+        },
+        {
+            "title": "MSense: Boosting Wireless Sensing Capability Under Motion Interference",
+            "doi": "10.1145/3636534.3649350"
+        },
+        {
+            "title": "Experiences of Deploying a Citywide Crowdsourcing Platform to Search for Missing People with Dementia",
+            "doi": "10.1145/3636534.3649356"
+        },
+        {
+            "title": "Exploring the Feasibility of Remote Cardiac Auscultation Using Earphones",
+            "doi": "10.1145/3636534.3649366"
+        },
+        {
+            "title": "ADMarker: A Multi-Modal Federated Learning System for Monitoring Digital Biomarkers of Alzheimer's Disease",
+            "doi": "10.1145/3636534.3649370"
+        },
+        {
+            "title": "MeatSpec: Enabling Ubiquitous Meat Fraud Inspection through Consumer-Level Spectral Imaging",
+            "doi": "10.1145/3636534.3690666"
+        },
+        {
+            "title": "Neuralite: Enabling Wireless High-Resolution Brain-Computer Interfaces",
+            "doi": "10.1145/3636534.3690673"
+        },
+        {
+            "title": "GPSense: Passive Sensing with Pervasive GPS Signals",
+            "doi": "10.1145/3636534.3690674"
+        },
+        {
+            "title": "Fine-grained Textile Moisture Sensing with Commodity UWB",
+            "doi": "10.1145/3636534.3690679"
+        },
+        {
+            "title": "MetaBioLiq: A Wearable Passive Metasurface Aided mmWave Sensing Platform for BioFluids",
+            "doi": "10.1145/3636534.3690687"
+        },
+        {
+            "title": "ZEROECG: Zero-Sensation ECG Monitoring By Exploring RFID MOSFET",
+            "doi": "10.1145/3636534.3690690"
+        },
+        {
+            "title": "Uncovering Problematic Designs Hindering Ubiquitous Cellular Emergency Services Access",
+            "doi": "10.1145/3636534.3690704"
+        }
+    ]
+}

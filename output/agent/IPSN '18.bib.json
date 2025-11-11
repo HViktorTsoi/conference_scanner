@@ -1,118 +1,94 @@
-[
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Smart saline management system: poster abstract",
-                "doi": "10.1109/IPSN.2018.00017"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "An iterative approach for non-line-of-sight error mitigation in UWB localization: poster abstract",
-                "doi": "10.1109/IPSN.2018.00021"
-            },
-            {
-                "title": "Fast indoor localization using WiFi channel state information: poster abstract",
-                "doi": "10.1109/IPSN.2018.00023"
-            },
-            {
-                "title": "Energy efficient mobile data collection from sensor networks with range-dependent data rates: poster abstract",
-                "doi": "10.1109/IPSN.2018.00024"
-            },
-            {
-                "title": "Runtime adaptation of PHY settings for dependable UWB communications: poster abstract",
-                "doi": "10.1109/IPSN.2018.00027"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Pulse shot: photo shooting and retrieval system using heartbeat information: poster abstract",
-                "doi": "10.1109/IPSN.2018.00022"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "A motion-triggered stereo camera for 3D experience capture: demo abstract",
-                "doi": "10.1109/IPSN.2018.00030"
-            },
-            {
-                "title": "Welcome to my world: demystifying multi-user AR with the cloud: demo abstract",
-                "doi": "10.1109/IPSN.2018.00036"
-            },
-            {
-                "title": "Walkway discovery from large scale crowdsensing: demo abstract",
-                "doi": "10.1109/IPSN.2018.00037"
-            },
-            {
-                "title": "Road quality classification for road repair authorities and regular drivers, using an on-board data logger: poster abstract",
-                "doi": "10.1109/IPSN.2018.00034"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Toward fast closed-loop control over multi-hop low-power wireless networks: poster abstract",
-                "doi": "10.1109/IPSN.2018.00042"
-            },
-            {
-                "title": "Combining LoRa and RTK to achieve a high precision self-sustaining geo-localization system: poster abstract",
-                "doi": "10.1109/IPSN.2018.00043"
-            },
-            {
-                "title": "Glimpse.3D: a motion-triggered stereo body camera for 3D experience capture and preview",
-                "doi": "10.1109/IPSN.2018.00046"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Zero-power receiver for touch communication and touch sensing: poster abstract",
-                "doi": "10.1109/IPSN.2018.00038"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "ODDS: real-time object detection using depth sensors on embedded GPUs",
-                "doi": "10.1109/IPSN.2018.00051"
-            },
-            {
-                "title": "Slocalization: sub-\u03bcW ultra wideband backscatter localization",
-                "doi": "10.1109/IPSN.2018.00052"
-            },
-            {
-                "title": "Magnitude-based angle-of-arrival estimation, localization, and target tracking",
-                "doi": "10.1109/IPSN.2018.00053"
-            },
-            {
-                "title": "Data fusion for hybrid and autonomous time-of-flight positioning",
-                "doi": "10.1109/IPSN.2018.00054"
-            },
-            {
-                "title": "Nanosecond-precision time-of-arrival estimation for aircraft signals with low-cost SDR receivers",
-                "doi": "10.1109/IPSN.2018.00055"
-            },
-            {
-                "title": "Enhancing indoor smartphone location acquisition using floor plans",
-                "doi": "10.1109/IPSN.2018.00056"
-            },
-            {
-                "title": "Orientation-aware RFID tracking with centimeter-level accuracy",
-                "doi": "10.1109/IPSN.2018.00057"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Using deep data augmentation training to address software and hardware heterogeneities in wearable and smartphone sensing devices",
-                "doi": "10.1109/IPSN.2018.00048"
-            }
-        ]
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "An iterative approach for non-line-of-sight error mitigation in UWB localization: poster abstract",
+            "doi": "10.1109/IPSN.2018.00021"
+        },
+        {
+            "title": "Fast indoor localization using WiFi channel state information: poster abstract",
+            "doi": "10.1109/IPSN.2018.00023"
+        },
+        {
+            "title": "Energy efficient mobile data collection from sensor networks with range-dependent data rates: poster abstract",
+            "doi": "10.1109/IPSN.2018.00024"
+        },
+        {
+            "title": "Runtime adaptation of PHY settings for dependable UWB communications: poster abstract",
+            "doi": "10.1109/IPSN.2018.00027"
+        },
+        {
+            "title": "A motion-triggered stereo camera for 3D experience capture: demo abstract",
+            "doi": "10.1109/IPSN.2018.00030"
+        },
+        {
+            "title": "Welcome to my world: demystifying multi-user AR with the cloud: demo abstract",
+            "doi": "10.1109/IPSN.2018.00036"
+        },
+        {
+            "title": "Walkway discovery from large scale crowdsensing: demo abstract",
+            "doi": "10.1109/IPSN.2018.00037"
+        },
+        {
+            "title": "Road quality classification for road repair authorities and regular drivers, using an on-board data logger: poster abstract",
+            "doi": "10.1109/IPSN.2018.00034"
+        },
+        {
+            "title": "Toward fast closed-loop control over multi-hop low-power wireless networks: poster abstract",
+            "doi": "10.1109/IPSN.2018.00042"
+        },
+        {
+            "title": "Combining LoRa and RTK to achieve a high precision self-sustaining geo-localization system: poster abstract",
+            "doi": "10.1109/IPSN.2018.00043"
+        },
+        {
+            "title": "Glimpse.3D: a motion-triggered stereo body camera for 3D experience capture and preview",
+            "doi": "10.1109/IPSN.2018.00046"
+        },
+        {
+            "title": "ODDS: real-time object detection using depth sensors on embedded GPUs",
+            "doi": "10.1109/IPSN.2018.00051"
+        },
+        {
+            "title": "Slocalization: sub-\u03bcW ultra wideband backscatter localization",
+            "doi": "10.1109/IPSN.2018.00052"
+        },
+        {
+            "title": "Magnitude-based angle-of-arrival estimation, localization, and target tracking",
+            "doi": "10.1109/IPSN.2018.00053"
+        },
+        {
+            "title": "Data fusion for hybrid and autonomous time-of-flight positioning",
+            "doi": "10.1109/IPSN.2018.00054"
+        },
+        {
+            "title": "Nanosecond-precision time-of-arrival estimation for aircraft signals with low-cost SDR receivers",
+            "doi": "10.1109/IPSN.2018.00055"
+        },
+        {
+            "title": "Enhancing indoor smartphone location acquisition using floor plans",
+            "doi": "10.1109/IPSN.2018.00056"
+        },
+        {
+            "title": "Orientation-aware RFID tracking with centimeter-level accuracy",
+            "doi": "10.1109/IPSN.2018.00057"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "Smart saline management system: poster abstract",
+            "doi": "10.1109/IPSN.2018.00017"
+        },
+        {
+            "title": "Pulse shot: photo shooting and retrieval system using heartbeat information: poster abstract",
+            "doi": "10.1109/IPSN.2018.00022"
+        },
+        {
+            "title": "Zero-power receiver for touch communication and touch sensing: poster abstract",
+            "doi": "10.1109/IPSN.2018.00038"
+        },
+        {
+            "title": "Using deep data augmentation training to address software and hardware heterogeneities in wearable and smartphone sensing devices",
+            "doi": "10.1109/IPSN.2018.00048"
+        }
+    ]
+}

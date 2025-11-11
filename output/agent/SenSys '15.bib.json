@@ -1,197 +1,146 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Rise of the Indoor Crowd: Reconstruction of Building Interior View via Mobile Crowdsourcing",
-                "doi": "10.1145/2809695.2809702"
-            },
-            {
-                "title": "iMoon: Using Smartphones for Image-based Indoor Navigation",
-                "doi": "10.1145/2809695.2809722"
-            },
-            {
-                "title": "VeTrack: Real Time Vehicle Tracking in Uninstrumented Indoor Environments",
-                "doi": "10.1145/2809695.2809726"
-            },
-            {
-                "title": "ALPS: A Bluetooth and Ultrasound Platform for Mapping and Localization",
-                "doi": "10.1145/2809695.2809727"
-            },
-            {
-                "title": "Self-Driving Vehicles: The Challenges and Opportunities Ahead",
-                "doi": "10.1145/2809695.2823464"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Contour-based Trilateration for Indoor Fingerprinting Localization",
-                "doi": "10.1145/2809695.2809703"
-            },
-            {
-                "title": "Glimpse: Continuous, Real-Time Object Recognition on Mobile Devices",
-                "doi": "10.1145/2809695.2809711"
-            },
-            {
-                "title": "Accurate Positioning via Cross-Modality Training",
-                "doi": "10.1145/2809695.2809712"
-            },
-            {
-                "title": "SpinLight: A High Accuracy and Robust Light Positioning System for Indoor Applications",
-                "doi": "10.1145/2809695.2809713"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "FEMO: A Platform for Free-weight Exercise Monitoring with RFIDs",
-                "doi": "10.1145/2809695.2809708"
-            },
-            {
-                "title": "Smart Devices are Different: Assessing and MitigatingMobile Sensing Heterogeneities for Activity Recognition",
-                "doi": "10.1145/2809695.2809718"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "DrunkWalk: Collaborative and Adaptive Planning for Navigation of Micro-Aerial Sensor Swarms",
-                "doi": "10.1145/2809695.2809724"
-            },
-            {
-                "title": "CARLOC: Precise Positioning of Automobiles",
-                "doi": "10.1145/2809695.2809725"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Poster: Accurate Vehicle Detection in Intelligent Transportation Systems (ITS) using Wireless Magnetic Sensors",
-                "doi": "10.1145/2809695.2817876"
-            },
-            {
-                "title": "Poster: L3: Vehicle Lane-Level Localization on Highways Using Smartphones",
-                "doi": "10.1145/2809695.2817879"
-            },
-            {
-                "title": "Poster: Asynchronous Acoustic Localization using Commercial Devices",
-                "doi": "10.1145/2809695.2817880"
-            },
-            {
-                "title": "Poster: Power Spectrum Analysis of Reflected Waves with Ultrasonic Sensors Indicates \"What the Target is\"",
-                "doi": "10.1145/2809695.2817877"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Poster: Non-invasive Human Activity Monitoring using a Low-cost Doppler Sensor and an RF Link",
-                "doi": "10.1145/2809695.2817882"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Poster: CARLOC: Precisely Tracking Automobile Position",
-                "doi": "10.1145/2809695.2817889"
-            },
-            {
-                "title": "Poster: An Indoor-Outdoor Navigation Service for Subway Transportation Systems",
-                "doi": "10.1145/2809695.2817891"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Poster: Drone Can Find Lost Smartphones",
-                "doi": "10.1145/2809695.2817900"
-            },
-            {
-                "title": "Poster: Communicating \"in the Air\": Studying the Impact of UAVs on Sensor Network Data Collection",
-                "doi": "10.1145/2809695.2817901"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Demo: iMoon: Using Smartphones for Image-based Indoor Navigation",
-                "doi": "10.1145/2809695.2817848"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Demo: AsthmaGuide: An Ecosystem for Asthma Monitoring and Advice",
-                "doi": "10.1145/2809695.2817849"
-            },
-            {
-                "title": "Demo: KinVocal: Detecting Agitated Vocal Events",
-                "doi": "10.1145/2809695.2817853"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Demo: Bringing Down Wires in Vehicles: Interconnecting ECUs using Wireless Connectivity",
-                "doi": "10.1145/2809695.2817856"
-            },
-            {
-                "title": "Demo: Choco -- A Versatile Communication Protocol in Wireless Sensor Networks",
-                "doi": "10.1145/2809695.2817861"
-            },
-            {
-                "title": "Demo: Distributed MaxRS in Wireless Sensor Networks",
-                "doi": "10.1145/2809695.2817863"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Demo: IAS: Information Analytics for Sensors",
-                "doi": "10.1145/2809695.2817858"
-            },
-            {
-                "title": "Demo: Towards Recognition of Rich Non-Negative Emotions Using Daily Wearable Devices",
-                "doi": "10.1145/2809695.2817859"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Demo: PolyPoint: High-Precision Indoor Localization with UWB",
-                "doi": "10.1145/2809695.2817865"
-            },
-            {
-                "title": "Demo: ALPS -- The Acoustic Location Processing System",
-                "doi": "10.1145/2809695.2817869"
-            },
-            {
-                "title": "Demo: Glimpse -- Continuous, Real-Time Object Recognition on Mobile Devices",
-                "doi": "10.1145/2809695.2817867"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Demo: Posture Correction Using Smartphone-Based Relational Intervention Model",
-                "doi": "10.1145/2809695.2817871"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Mobile Applications Based on Smart Wearable Devices",
-                "doi": "10.1145/2809695.2822525"
-            }
-        ]
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "Rise of the Indoor Crowd: Reconstruction of Building Interior View via Mobile Crowdsourcing",
+            "doi": "10.1145/2809695.2809702"
+        },
+        {
+            "title": "iMoon: Using Smartphones for Image-based Indoor Navigation",
+            "doi": "10.1145/2809695.2809722"
+        },
+        {
+            "title": "VeTrack: Real Time Vehicle Tracking in Uninstrumented Indoor Environments",
+            "doi": "10.1145/2809695.2809726"
+        },
+        {
+            "title": "ALPS: A Bluetooth and Ultrasound Platform for Mapping and Localization",
+            "doi": "10.1145/2809695.2809727"
+        },
+        {
+            "title": "Self-Driving Vehicles: The Challenges and Opportunities Ahead",
+            "doi": "10.1145/2809695.2823464"
+        },
+        {
+            "title": "Contour-based Trilateration for Indoor Fingerprinting Localization",
+            "doi": "10.1145/2809695.2809703"
+        },
+        {
+            "title": "Glimpse: Continuous, Real-Time Object Recognition on Mobile Devices",
+            "doi": "10.1145/2809695.2809711"
+        },
+        {
+            "title": "Accurate Positioning via Cross-Modality Training",
+            "doi": "10.1145/2809695.2809712"
+        },
+        {
+            "title": "SpinLight: A High Accuracy and Robust Light Positioning System for Indoor Applications",
+            "doi": "10.1145/2809695.2809713"
+        },
+        {
+            "title": "DrunkWalk: Collaborative and Adaptive Planning for Navigation of Micro-Aerial Sensor Swarms",
+            "doi": "10.1145/2809695.2809724"
+        },
+        {
+            "title": "CARLOC: Precise Positioning of Automobiles",
+            "doi": "10.1145/2809695.2809725"
+        },
+        {
+            "title": "Poster: Accurate Vehicle Detection in Intelligent Transportation Systems (ITS) using Wireless Magnetic Sensors",
+            "doi": "10.1145/2809695.2817876"
+        },
+        {
+            "title": "Poster: L3: Vehicle Lane-Level Localization on Highways Using Smartphones",
+            "doi": "10.1145/2809695.2817879"
+        },
+        {
+            "title": "Poster: Asynchronous Acoustic Localization using Commercial Devices",
+            "doi": "10.1145/2809695.2817880"
+        },
+        {
+            "title": "Poster: Power Spectrum Analysis of Reflected Waves with Ultrasonic Sensors Indicates \"What the Target is\"",
+            "doi": "10.1145/2809695.2817877"
+        },
+        {
+            "title": "Poster: CARLOC: Precisely Tracking Automobile Position",
+            "doi": "10.1145/2809695.2817889"
+        },
+        {
+            "title": "Poster: An Indoor-Outdoor Navigation Service for Subway Transportation Systems",
+            "doi": "10.1145/2809695.2817891"
+        },
+        {
+            "title": "Poster: Drone Can Find Lost Smartphones",
+            "doi": "10.1145/2809695.2817900"
+        },
+        {
+            "title": "Poster: Communicating \"in the Air\": Studying the Impact of UAVs on Sensor Network Data Collection",
+            "doi": "10.1145/2809695.2817901"
+        },
+        {
+            "title": "Demo: iMoon: Using Smartphones for Image-based Indoor Navigation",
+            "doi": "10.1145/2809695.2817848"
+        },
+        {
+            "title": "Demo: Bringing Down Wires in Vehicles: Interconnecting ECUs using Wireless Connectivity",
+            "doi": "10.1145/2809695.2817856"
+        },
+        {
+            "title": "Demo: Choco -- A Versatile Communication Protocol in Wireless Sensor Networks",
+            "doi": "10.1145/2809695.2817861"
+        },
+        {
+            "title": "Demo: Distributed MaxRS in Wireless Sensor Networks",
+            "doi": "10.1145/2809695.2817863"
+        },
+        {
+            "title": "Demo: PolyPoint: High-Precision Indoor Localization with UWB",
+            "doi": "10.1145/2809695.2817865"
+        },
+        {
+            "title": "Demo: ALPS -- The Acoustic Location Processing System",
+            "doi": "10.1145/2809695.2817869"
+        },
+        {
+            "title": "Demo: Glimpse -- Continuous, Real-Time Object Recognition on Mobile Devices",
+            "doi": "10.1145/2809695.2817867"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "FEMO: A Platform for Free-weight Exercise Monitoring with RFIDs",
+            "doi": "10.1145/2809695.2809708"
+        },
+        {
+            "title": "Smart Devices are Different: Assessing and MitigatingMobile Sensing Heterogeneities for Activity Recognition",
+            "doi": "10.1145/2809695.2809718"
+        },
+        {
+            "title": "Poster: Non-invasive Human Activity Monitoring using a Low-cost Doppler Sensor and an RF Link",
+            "doi": "10.1145/2809695.2817882"
+        },
+        {
+            "title": "Demo: AsthmaGuide: An Ecosystem for Asthma Monitoring and Advice",
+            "doi": "10.1145/2809695.2817849"
+        },
+        {
+            "title": "Demo: KinVocal: Detecting Agitated Vocal Events",
+            "doi": "10.1145/2809695.2817853"
+        },
+        {
+            "title": "Demo: IAS: Information Analytics for Sensors",
+            "doi": "10.1145/2809695.2817858"
+        },
+        {
+            "title": "Demo: Towards Recognition of Rich Non-Negative Emotions Using Daily Wearable Devices",
+            "doi": "10.1145/2809695.2817859"
+        },
+        {
+            "title": "Demo: Posture Correction Using Smartphone-Based Relational Intervention Model",
+            "doi": "10.1145/2809695.2817871"
+        },
+        {
+            "title": "Mobile Applications Based on Smart Wearable Devices",
+            "doi": "10.1145/2809695.2822525"
+        }
+    ]
+}

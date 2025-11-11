@@ -1,219 +1,170 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Automatic Unusual Driving Event Identification for Dependable Self-Driving",
-                "doi": "10.1145/3274783.3274838"
-            },
-            {
-                "title": "Sentio: Driver-in-the-Loop Forward Collision Warning Using Multisample Reinforcement Learning",
-                "doi": "10.1145/3274783.3274843"
-            },
-            {
-                "title": "EXIMIUS: A Measurement Framework for Explicit and Implicit Urban Traffic Sensing",
-                "doi": "10.1145/3274783.3274850"
-            },
-            {
-                "title": "3D Localization for Sub-Centimeter Sized Devices",
-                "doi": "10.1145/3274783.3274851"
-            },
-            {
-                "title": "Accurate 3D Localization for 60 GHz Networks",
-                "doi": "10.1145/3274783.3274852"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "3D Localization for Sub-Centimeter Sized Devices",
-                "doi": "10.1145/3274783.3274851"
-            },
-            {
-                "title": "CapBand: Battery-free Successive Capacitance Sensing Wristband for Hand Gesture Recognition",
-                "doi": "10.1145/3274783.3274854"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "SALMA: UWB-based Single-Anchor Localization System using Multipath Assistance",
-                "doi": "10.1145/3274783.3274844"
-            },
-            {
-                "title": "Mixer: Efficient Many-to-All Broadcast in Dynamic Wireless Mesh Networks",
-                "doi": "10.1145/3274783.3274849"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Continuous Low-Power Ammonia Monitoring Using Long Short-Term Memory Neural Networks",
-                "doi": "10.1145/3274783.3274836"
-            },
-            {
-                "title": "Fabric as a Sensor: Towards Unobtrusive Sensing of Human Behavior with Triboelectric Textiles",
-                "doi": "10.1145/3274783.3274845"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "MARVEL: Enabling Mobile Augmented Reality with Low Energy and Low Latency",
-                "doi": "10.1145/3274783.3274834"
-            },
-            {
-                "title": "WINS: WiFi-Inertial Indoor State Estimation for MAVs",
-                "doi": "10.1145/3274783.3275157"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Automated Sleep Period Estimation in Wearable Multi-sensor Systems",
-                "doi": "10.1145/3274783.3275155"
-            },
-            {
-                "title": "Breathing Disorder Detection Using Wearable Electrocardiogram And Oxygen Saturation",
-                "doi": "10.1145/3274783.3275159"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Autonomous UAV sensor system for searching and locating VHF radio-tagged wildlife",
-                "doi": "10.1145/3274783.3275169"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Worldwide emerging disease-related information extraction system from news data",
-                "doi": "10.1145/3274783.3275168"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Real-time Attitude and Motion Tracking for Mobile Device in Moving Vehicle",
-                "doi": "10.1145/3274783.3275181"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Wearable-based Human-Computer Interaction with LimbMotion",
-                "doi": "10.1145/3274783.3275172"
-            },
-            {
-                "title": "Vibration-Based Occupant Activity Level Monitoring System",
-                "doi": "10.1145/3274783.3275177"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "LPWA-MAC: a Low Power Wide Area network MAC protocol for cyber-physical systems",
-                "doi": "10.1145/3274783.3275183"
-            },
-            {
-                "title": "Aerial Interactions with Wireless Sensors",
-                "doi": "10.1145/3274783.3275189"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Sensing Emotion from Voice Jitter",
-                "doi": "10.1145/3274783.3275182"
-            },
-            {
-                "title": "Sleep Position Management System for Enhancing Sleep Quality using Wearable Devices",
-                "doi": "10.1145/3274783.3275185"
-            },
-            {
-                "title": "Biometric Gait Identification for Exercise Reward System using Smart Earring",
-                "doi": "10.1145/3274783.3275186"
-            },
-            {
-                "title": "Field Deployable Real-Time Indoor Spatial Tracking System for Human Behavior Observations",
-                "doi": "10.1145/3274783.3275187"
-            },
-            {
-                "title": "eSense: Open Earable Platform for Human Sensing",
-                "doi": "10.1145/3274783.3275188"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Long Range Retroreflective V2X Communication with Polarization-based Differential Reception",
-                "doi": "10.1145/3274783.3275193"
-            },
-            {
-                "title": "ECRT: An Edge Computing System for Real-Time Image-based Object Tracking",
-                "doi": "10.1145/3274783.3275199"
-            },
-            {
-                "title": "Toward Automated Acupressure Therapy",
-                "doi": "10.1145/3274783.3278480"
-            },
-            {
-                "title": "Toward Automated Acupressure Therapy",
-                "doi": "10.1145/3274783.3278481"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Multimodal Emotion Recognition by extracting common and modality-specific information",
-                "doi": "10.1145/3274783.3275200"
-            },
-            {
-                "title": "Toward Automated Acupressure Therapy",
-                "doi": "10.1145/3274783.3278480"
-            },
-            {
-                "title": "Toward Automated Acupressure Therapy",
-                "doi": "10.1145/3274783.3278481"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Real-time Occupancy Correction Method for 3D Stereovision Counting Cameras",
-                "doi": "10.1145/3274783.3275204"
-            },
-            {
-                "title": "Robust Detection of Motor-Produced Audio Signals",
-                "doi": "10.1145/3274783.3275209"
-            },
-            {
-                "title": "AI-Enhanced 3D RF Representation Using Low-Cost mmWave Radar",
-                "doi": "10.1145/3274783.3275210"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Vehicle Air Pollution Monitoring Using IoTs",
-                "doi": "10.1145/3274783.3275202"
-            },
-            {
-                "title": "A Hybrid Air Pollution Reconstruction by Adaptive Interpolation Method",
-                "doi": "10.1145/3274783.3275207"
-            },
-            {
-                "title": "DIY Health IoT Apps",
-                "doi": "10.1145/3274783.3275206"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Real-Time Emotion Detection via E-See",
-                "doi": "10.1145/3274783.3275213"
-            }
-        ]
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "Automatic Unusual Driving Event Identification for Dependable Self-Driving",
+            "doi": "10.1145/3274783.3274838"
+        },
+        {
+            "title": "Sentio: Driver-in-the-Loop Forward Collision Warning Using Multisample Reinforcement Learning",
+            "doi": "10.1145/3274783.3274843"
+        },
+        {
+            "title": "EXIMIUS: A Measurement Framework for Explicit and Implicit Urban Traffic Sensing",
+            "doi": "10.1145/3274783.3274850"
+        },
+        {
+            "title": "3D Localization for Sub-Centimeter Sized Devices",
+            "doi": "10.1145/3274783.3274851"
+        },
+        {
+            "title": "Accurate 3D Localization for 60 GHz Networks",
+            "doi": "10.1145/3274783.3274852"
+        },
+        {
+            "title": "SALMA: UWB-based Single-Anchor Localization System using Multipath Assistance",
+            "doi": "10.1145/3274783.3274844"
+        },
+        {
+            "title": "Mixer: Efficient Many-to-All Broadcast in Dynamic Wireless Mesh Networks",
+            "doi": "10.1145/3274783.3274849"
+        },
+        {
+            "title": "MARVEL: Enabling Mobile Augmented Reality with Low Energy and Low Latency",
+            "doi": "10.1145/3274783.3274834"
+        },
+        {
+            "title": "WINS: WiFi-Inertial Indoor State Estimation for MAVs",
+            "doi": "10.1145/3274783.3275157"
+        },
+        {
+            "title": "Autonomous UAV sensor system for searching and locating VHF radio-tagged wildlife",
+            "doi": "10.1145/3274783.3275169"
+        },
+        {
+            "title": "Real-time Attitude and Motion Tracking for Mobile Device in Moving Vehicle",
+            "doi": "10.1145/3274783.3275181"
+        },
+        {
+            "title": "LPWA-MAC: a Low Power Wide Area network MAC protocol for cyber-physical systems",
+            "doi": "10.1145/3274783.3275183"
+        },
+        {
+            "title": "Aerial Interactions with Wireless Sensors",
+            "doi": "10.1145/3274783.3275189"
+        },
+        {
+            "title": "Long Range Retroreflective V2X Communication with Polarization-based Differential Reception",
+            "doi": "10.1145/3274783.3275193"
+        },
+        {
+            "title": "ECRT: An Edge Computing System for Real-Time Image-based Object Tracking",
+            "doi": "10.1145/3274783.3275199"
+        },
+        {
+            "title": "Toward Automated Acupressure Therapy",
+            "doi": "10.1145/3274783.3278480"
+        },
+        {
+            "title": "Toward Automated Acupressure Therapy",
+            "doi": "10.1145/3274783.3278481"
+        },
+        {
+            "title": "Real-time Occupancy Correction Method for 3D Stereovision Counting Cameras",
+            "doi": "10.1145/3274783.3275204"
+        },
+        {
+            "title": "Robust Detection of Motor-Produced Audio Signals",
+            "doi": "10.1145/3274783.3275209"
+        },
+        {
+            "title": "AI-Enhanced 3D RF Representation Using Low-Cost mmWave Radar",
+            "doi": "10.1145/3274783.3275210"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "3D Localization for Sub-Centimeter Sized Devices",
+            "doi": "10.1145/3274783.3274851"
+        },
+        {
+            "title": "CapBand: Battery-free Successive Capacitance Sensing Wristband for Hand Gesture Recognition",
+            "doi": "10.1145/3274783.3274854"
+        },
+        {
+            "title": "Continuous Low-Power Ammonia Monitoring Using Long Short-Term Memory Neural Networks",
+            "doi": "10.1145/3274783.3274836"
+        },
+        {
+            "title": "Fabric as a Sensor: Towards Unobtrusive Sensing of Human Behavior with Triboelectric Textiles",
+            "doi": "10.1145/3274783.3274845"
+        },
+        {
+            "title": "Automated Sleep Period Estimation in Wearable Multi-sensor Systems",
+            "doi": "10.1145/3274783.3275155"
+        },
+        {
+            "title": "Breathing Disorder Detection Using Wearable Electrocardiogram And Oxygen Saturation",
+            "doi": "10.1145/3274783.3275159"
+        },
+        {
+            "title": "Worldwide emerging disease-related information extraction system from news data",
+            "doi": "10.1145/3274783.3275168"
+        },
+        {
+            "title": "Wearable-based Human-Computer Interaction with LimbMotion",
+            "doi": "10.1145/3274783.3275172"
+        },
+        {
+            "title": "Vibration-Based Occupant Activity Level Monitoring System",
+            "doi": "10.1145/3274783.3275177"
+        },
+        {
+            "title": "Sensing Emotion from Voice Jitter",
+            "doi": "10.1145/3274783.3275182"
+        },
+        {
+            "title": "Sleep Position Management System for Enhancing Sleep Quality using Wearable Devices",
+            "doi": "10.1145/3274783.3275185"
+        },
+        {
+            "title": "Biometric Gait Identification for Exercise Reward System using Smart Earring",
+            "doi": "10.1145/3274783.3275186"
+        },
+        {
+            "title": "Field Deployable Real-Time Indoor Spatial Tracking System for Human Behavior Observations",
+            "doi": "10.1145/3274783.3275187"
+        },
+        {
+            "title": "eSense: Open Earable Platform for Human Sensing",
+            "doi": "10.1145/3274783.3275188"
+        },
+        {
+            "title": "Multimodal Emotion Recognition by extracting common and modality-specific information",
+            "doi": "10.1145/3274783.3275200"
+        },
+        {
+            "title": "Toward Automated Acupressure Therapy",
+            "doi": "10.1145/3274783.3278480"
+        },
+        {
+            "title": "Toward Automated Acupressure Therapy",
+            "doi": "10.1145/3274783.3278481"
+        },
+        {
+            "title": "Vehicle Air Pollution Monitoring Using IoTs",
+            "doi": "10.1145/3274783.3275202"
+        },
+        {
+            "title": "A Hybrid Air Pollution Reconstruction by Adaptive Interpolation Method",
+            "doi": "10.1145/3274783.3275207"
+        },
+        {
+            "title": "DIY Health IoT Apps",
+            "doi": "10.1145/3274783.3275206"
+        },
+        {
+            "title": "Real-Time Emotion Detection via E-See",
+            "doi": "10.1145/3274783.3275213"
+        }
+    ]
+}

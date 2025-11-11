@@ -1,249 +1,206 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "ORBIT: a smartphone-based platform for data-intensive embedded sensing applications",
-                "doi": "10.1145/2737095.2737098"
-            },
-            {
-                "title": "Bringing multi-antenna gain to energy-constrained wireless devices",
-                "doi": "10.1145/2737095.2737099"
-            },
-            {
-                "title": "TIIM: technology-independent interference mitigation for low-power wireless networks",
-                "doi": "10.1145/2737095.2737104"
-            },
-            {
-                "title": "RAMP: accelerating wireless sensor hardware design with a reconfigurable analog/mixed-signal platform",
-                "doi": "10.1145/2737095.2737107"
-            },
-            {
-                "title": "Decentralized multichannel medium access control: viewing desynchronization as a convex optimization method",
-                "doi": "10.1145/2737095.2737108"
-            },
-            {
-                "title": "SunaPlayer: high-accuracy emulation of solar cells",
-                "doi": "10.1145/2737095.2737110"
-            },
-            {
-                "title": "A software-defined sensor architecture for large-scale wideband spectrum monitoring",
-                "doi": "10.1145/2737095.2737119"
-            },
-            {
-                "title": "Optimal placement of protective jammers for securing wireless transmissions in a geographic domain",
-                "doi": "10.1145/2737095.2742142"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Hand hygiene duration and technique recognition using wrist-worn sensors",
-                "doi": "10.1145/2737095.2737106"
-            },
-            {
-                "title": "Tongue-n-cheek: non-contact tongue gesture recognition",
-                "doi": "10.1145/2737095.2737109"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Graph scale-space theory for distributed peak and pit identification",
-                "doi": "10.1145/2737095.2737101"
-            },
-            {
-                "title": "Cost-aware compressive sensing for networked sensing systems",
-                "doi": "10.1145/2737095.2737105"
-            },
-            {
-                "title": "Scalable social sensing of interdependent phenomena",
-                "doi": "10.1145/2737095.2737114"
-            },
-            {
-                "title": "Debiasing crowdsourced quantitative characteristics in local businesses and services",
-                "doi": "10.1145/2737095.2737116"
-            },
-            {
-                "title": "Radio-based device-free activity recognition with radio frequency interference",
-                "doi": "10.1145/2737095.2737117"
-            },
-            {
-                "title": "dRTI: directional radio tomographic imaging",
-                "doi": "10.1145/2737095.2737118"
-            },
-            {
-                "title": "QueueVadis: queuing analytics using smartphones",
-                "doi": "10.1145/2737095.2737120"
-            },
-            {
-                "title": "Feeder: supporting last-mile transit with extreme-scale urban infrastructure data",
-                "doi": "10.1145/2737095.2737121"
-            },
-            {
-                "title": "A realistic evaluation and comparison of indoor location technologies: experiences and lessons learned",
-                "doi": "10.1145/2737095.2737726"
-            },
-            {
-                "title": "PIR sensors: characterization and novel localization technique",
-                "doi": "10.1145/2737095.2742561"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Radio-based device-free activity recognition with radio frequency interference",
-                "doi": "10.1145/2737095.2737117"
-            },
-            {
-                "title": "dRTI: directional radio tomographic imaging",
-                "doi": "10.1145/2737095.2737118"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Samba: a smartphone-based robot system for energy-efficient aquatic environment monitoring",
-                "doi": "10.1145/2737095.2737100"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Radio signature based posture recognition using WBSN",
-                "doi": "10.1145/2737095.2737141"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Structural sensing system with networked dynamic sensing configuration",
-                "doi": "10.1145/2737095.2737147"
-            },
-            {
-                "title": "Detecting malicious morphological alterations of ECG signals in body sensor networks",
-                "doi": "10.1145/2737095.2742930"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "WiFi positioning with propagation-based calibration",
-                "doi": "10.1145/2737095.2737144"
-            },
-            {
-                "title": "Predictable wireless embedded platforms",
-                "doi": "10.1145/2737095.2737156"
-            },
-            {
-                "title": "Wake-up flooding: an asynchronous network flooding primitive",
-                "doi": "10.1145/2737095.2737159"
-            },
-            {
-                "title": "Towards enabling concurrent transmissions in heterogeneous networks",
-                "doi": "10.1145/2737095.2737164"
-            },
-            {
-                "title": "CheepSync: a time synchronization service for resource constrained bluetooth low energy advertisers",
-                "doi": "10.1145/2737095.2742925"
-            },
-            {
-                "title": "A model for semantic localization",
-                "doi": "10.1145/2737095.2742933"
-            },
-            {
-                "title": "Improving the error drift of inertial navigation based indoor location tracking",
-                "doi": "10.1145/2737095.2742936"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "CleanHands: an integrated monitoring system for control of hospital acquired infections",
-                "doi": "10.1145/2737095.2742928"
-            },
-            {
-                "title": "SiCILIA: a smart sensor system for clothing insulation inference using heat exchange",
-                "doi": "10.1145/2737095.2742934"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "A web-based camera dispatch system for video surveillance with dynamic requirements",
-                "doi": "10.1145/2737095.2742556"
-            },
-            {
-                "title": "Fleye on the car: big data meets the internet of things",
-                "doi": "10.1145/2737095.2742919"
-            },
-            {
-                "title": "Vehicle detection and speed estimation with PIR sensors",
-                "doi": "10.1145/2737095.2742918"
-            },
-            {
-                "title": "Robust vision-based indoor localization",
-                "doi": "10.1145/2737095.2742929"
-            },
-            {
-                "title": "A column matching based algorithm for target self-localization using beacon nodes",
-                "doi": "10.1145/2737095.2742935"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "BioMeSensi: a wearable multi-sensing platform for bio-medical applications",
-                "doi": "10.1145/2737095.2742920"
-            },
-            {
-                "title": "Step-level person localization through sparse sensing of structural vibration",
-                "doi": "10.1145/2737095.2742924"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Exploration and topological mapping with Hexbugs",
-                "doi": "10.1145/2737095.2737137"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Health-optimal routing in urban areas",
-                "doi": "10.1145/2737095.2737135"
-            },
-            {
-                "title": "SiCILIA: a smart sensor system for clothing insulation inference using heat exchange",
-                "doi": "10.1145/2737095.2737731"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Games of drones: an affective game with cyber-physical systems",
-                "doi": "10.1145/2737095.2742560"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "From spotting the difference to spotting your difference",
-                "doi": "10.1145/2737095.2737125"
-            },
-            {
-                "title": "RUBreathing: non-contact real time respiratory rate monitoring system",
-                "doi": "10.1145/2737095.2737133"
-            },
-            {
-                "title": "Wearable sensor grid architecture for body posture and surface detection and rehabilitation",
-                "doi": "10.1145/2737095.2742555"
-            },
-            {
-                "title": "Detecting deterioration of nearsightness",
-                "doi": "10.1145/2737095.2742558"
-            }
-        ]
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "ORBIT: a smartphone-based platform for data-intensive embedded sensing applications",
+            "doi": "10.1145/2737095.2737098"
+        },
+        {
+            "title": "Bringing multi-antenna gain to energy-constrained wireless devices",
+            "doi": "10.1145/2737095.2737099"
+        },
+        {
+            "title": "TIIM: technology-independent interference mitigation for low-power wireless networks",
+            "doi": "10.1145/2737095.2737104"
+        },
+        {
+            "title": "RAMP: accelerating wireless sensor hardware design with a reconfigurable analog/mixed-signal platform",
+            "doi": "10.1145/2737095.2737107"
+        },
+        {
+            "title": "Decentralized multichannel medium access control: viewing desynchronization as a convex optimization method",
+            "doi": "10.1145/2737095.2737108"
+        },
+        {
+            "title": "SunaPlayer: high-accuracy emulation of solar cells",
+            "doi": "10.1145/2737095.2737110"
+        },
+        {
+            "title": "A software-defined sensor architecture for large-scale wideband spectrum monitoring",
+            "doi": "10.1145/2737095.2737119"
+        },
+        {
+            "title": "Optimal placement of protective jammers for securing wireless transmissions in a geographic domain",
+            "doi": "10.1145/2737095.2742142"
+        },
+        {
+            "title": "Graph scale-space theory for distributed peak and pit identification",
+            "doi": "10.1145/2737095.2737101"
+        },
+        {
+            "title": "Cost-aware compressive sensing for networked sensing systems",
+            "doi": "10.1145/2737095.2737105"
+        },
+        {
+            "title": "Scalable social sensing of interdependent phenomena",
+            "doi": "10.1145/2737095.2737114"
+        },
+        {
+            "title": "Debiasing crowdsourced quantitative characteristics in local businesses and services",
+            "doi": "10.1145/2737095.2737116"
+        },
+        {
+            "title": "Radio-based device-free activity recognition with radio frequency interference",
+            "doi": "10.1145/2737095.2737117"
+        },
+        {
+            "title": "dRTI: directional radio tomographic imaging",
+            "doi": "10.1145/2737095.2737118"
+        },
+        {
+            "title": "QueueVadis: queuing analytics using smartphones",
+            "doi": "10.1145/2737095.2737120"
+        },
+        {
+            "title": "Feeder: supporting last-mile transit with extreme-scale urban infrastructure data",
+            "doi": "10.1145/2737095.2737121"
+        },
+        {
+            "title": "A realistic evaluation and comparison of indoor location technologies: experiences and lessons learned",
+            "doi": "10.1145/2737095.2737726"
+        },
+        {
+            "title": "PIR sensors: characterization and novel localization technique",
+            "doi": "10.1145/2737095.2742561"
+        },
+        {
+            "title": "Samba: a smartphone-based robot system for energy-efficient aquatic environment monitoring",
+            "doi": "10.1145/2737095.2737100"
+        },
+        {
+            "title": "WiFi positioning with propagation-based calibration",
+            "doi": "10.1145/2737095.2737144"
+        },
+        {
+            "title": "Predictable wireless embedded platforms",
+            "doi": "10.1145/2737095.2737156"
+        },
+        {
+            "title": "Wake-up flooding: an asynchronous network flooding primitive",
+            "doi": "10.1145/2737095.2737159"
+        },
+        {
+            "title": "Towards enabling concurrent transmissions in heterogeneous networks",
+            "doi": "10.1145/2737095.2737164"
+        },
+        {
+            "title": "CheepSync: a time synchronization service for resource constrained bluetooth low energy advertisers",
+            "doi": "10.1145/2737095.2742925"
+        },
+        {
+            "title": "A model for semantic localization",
+            "doi": "10.1145/2737095.2742933"
+        },
+        {
+            "title": "Improving the error drift of inertial navigation based indoor location tracking",
+            "doi": "10.1145/2737095.2742936"
+        },
+        {
+            "title": "A web-based camera dispatch system for video surveillance with dynamic requirements",
+            "doi": "10.1145/2737095.2742556"
+        },
+        {
+            "title": "Fleye on the car: big data meets the internet of things",
+            "doi": "10.1145/2737095.2742919"
+        },
+        {
+            "title": "Vehicle detection and speed estimation with PIR sensors",
+            "doi": "10.1145/2737095.2742918"
+        },
+        {
+            "title": "Robust vision-based indoor localization",
+            "doi": "10.1145/2737095.2742929"
+        },
+        {
+            "title": "A column matching based algorithm for target self-localization using beacon nodes",
+            "doi": "10.1145/2737095.2742935"
+        },
+        {
+            "title": "Exploration and topological mapping with Hexbugs",
+            "doi": "10.1145/2737095.2737137"
+        },
+        {
+            "title": "Games of drones: an affective game with cyber-physical systems",
+            "doi": "10.1145/2737095.2742560"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "Hand hygiene duration and technique recognition using wrist-worn sensors",
+            "doi": "10.1145/2737095.2737106"
+        },
+        {
+            "title": "Tongue-n-cheek: non-contact tongue gesture recognition",
+            "doi": "10.1145/2737095.2737109"
+        },
+        {
+            "title": "Radio-based device-free activity recognition with radio frequency interference",
+            "doi": "10.1145/2737095.2737117"
+        },
+        {
+            "title": "dRTI: directional radio tomographic imaging",
+            "doi": "10.1145/2737095.2737118"
+        },
+        {
+            "title": "Radio signature based posture recognition using WBSN",
+            "doi": "10.1145/2737095.2737141"
+        },
+        {
+            "title": "Structural sensing system with networked dynamic sensing configuration",
+            "doi": "10.1145/2737095.2737147"
+        },
+        {
+            "title": "Detecting malicious morphological alterations of ECG signals in body sensor networks",
+            "doi": "10.1145/2737095.2742930"
+        },
+        {
+            "title": "CleanHands: an integrated monitoring system for control of hospital acquired infections",
+            "doi": "10.1145/2737095.2742928"
+        },
+        {
+            "title": "SiCILIA: a smart sensor system for clothing insulation inference using heat exchange",
+            "doi": "10.1145/2737095.2742934"
+        },
+        {
+            "title": "BioMeSensi: a wearable multi-sensing platform for bio-medical applications",
+            "doi": "10.1145/2737095.2742920"
+        },
+        {
+            "title": "Step-level person localization through sparse sensing of structural vibration",
+            "doi": "10.1145/2737095.2742924"
+        },
+        {
+            "title": "Health-optimal routing in urban areas",
+            "doi": "10.1145/2737095.2737135"
+        },
+        {
+            "title": "SiCILIA: a smart sensor system for clothing insulation inference using heat exchange",
+            "doi": "10.1145/2737095.2737731"
+        },
+        {
+            "title": "From spotting the difference to spotting your difference",
+            "doi": "10.1145/2737095.2737125"
+        },
+        {
+            "title": "RUBreathing: non-contact real time respiratory rate monitoring system",
+            "doi": "10.1145/2737095.2737133"
+        },
+        {
+            "title": "Wearable sensor grid architecture for body posture and surface detection and rehabilitation",
+            "doi": "10.1145/2737095.2742555"
+        },
+        {
+            "title": "Detecting deterioration of nearsightness",
+            "doi": "10.1145/2737095.2742558"
+        }
+    ]
+}

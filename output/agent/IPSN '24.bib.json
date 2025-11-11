@@ -1,146 +1,110 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "LiDARSpectra: Synthetic Indoor Spectral Mapping with Low-cost LiDARs",
-                "doi": "10.1109/IPSN61024.2024.00011"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "ArtFL: Exploiting Data Resolution in Federated Learning for Dynamic Runtime Inference via Multi-Scale Training",
-                "doi": "10.1109/IPSN61024.2024.00007"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Continuous Multi-user Activity Tracking via Room-Scale mmWave Sensing",
-                "doi": "10.1109/IPSN61024.2024.00018"
-            },
-            {
-                "title": "Beyond-Voice: Towards Continuous 3D Hand Pose Tracking on Commercial Home Assistant Devices",
-                "doi": "10.1109/IPSN61024.2024.00017"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Retcon: Live Updates for Embedded Event-Driven Applications",
-                "doi": "10.1109/IPSN61024.2024.00015"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Demo Abstract: Bio-inspired Tactile Sensing for MAV Landing with Extreme Low-cost Sensors",
-                "doi": "10.1109/IPSN61024.2024.00031"
-            },
-            {
-                "title": "Demo Abstract: Embodied Aerial Agent for City-level Visual Language Navigation Using Large Language Model",
-                "doi": "10.1109/IPSN61024.2024.00033"
-            },
-            {
-                "title": "Demo Abstract: CARL: Collaborative Altitude-Adaptive Reinforcement Learning for Active Search with UAV Swarms",
-                "doi": "10.1109/IPSN61024.2024.00025"
-            },
-            {
-                "title": "Demo Abstract: Range-SLAM: UWB based Realtime Indoor Location and Mapping",
-                "doi": "10.1109/IPSN61024.2024.00030"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Demo Abstract: AD-CLIP: Privacy-Preserving, Low-Cost Synthetic Human Action Dataset for Alzheimer\u2019s Patients via CLIP-based Models",
-                "doi": "10.1109/IPSN61024.2024.00029"
-            },
-            {
-                "title": "Demo Abstract: CaringFM: An Interactive In-home Healthcare System Empowered by Large Foundation Models",
-                "doi": "10.1109/IPSN61024.2024.00028"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Demo Abstract: MARS -An mmWave-based Multi-user Activity Tracking Solution",
-                "doi": "10.1109/IPSN61024.2024.00035"
-            },
-            {
-                "title": "Poster Abstract: Emergency Networking Using UAVs: A Reinforcement Learning Approach with Large Language Model",
-                "doi": "10.1109/IPSN61024.2024.00041"
-            },
-            {
-                "title": "Poster Abstract: Sprinkler-UAV Cooperative Active Scheduling System",
-                "doi": "10.1109/IPSN61024.2024.00040"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Poster Abstract: Real-Time Cardiovascular Disease Detection via Abnormal Electrocardiogram Cycles on Embedded Systems",
-                "doi": "10.1109/IPSN61024.2024.00044"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Poster Abstract: Joint Optical Wireless Communication and Sensing using Neuromorphic Cameras",
-                "doi": "10.1109/IPSN61024.2024.00053"
-            },
-            {
-                "title": "Poster Abstract: UarLogger: Logging Measurements from UWB and AR Sensors on iOS Devices",
-                "doi": "10.1109/IPSN61024.2024.00047"
-            },
-            {
-                "title": "Poster Abstract: Adaptive Chirps Domain Window Order of MM-Wave Radar for UAV Motion Capture",
-                "doi": "10.1109/IPSN61024.2024.00046"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Poster Abstract: Threshold Cryptography-based Authentication Protocol for Remote Healthcare",
-                "doi": "10.1109/IPSN61024.2024.00052"
-            },
-            {
-                "title": "Poster Abstract: TCT: Zero-training two staged Contrastive Transformer network for SSVEP classification",
-                "doi": "10.1109/IPSN61024.2024.00048"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "PhD Forum Abstract: Sensor Fusion for Vehicle-side and Roadside 3D Object Detection and Tracking",
-                "doi": "10.1109/IPSN61024.2024.00061"
-            },
-            {
-                "title": "PhD Forum Abstract: Cooperative Perception System with Roadside Assistance",
-                "doi": "10.1109/IPSN61024.2024.00064"
-            },
-            {
-                "title": "Poster Abstract: Shallowly Buried Trash Detection in Sandy Land Based on IR-UWB Radar",
-                "doi": "10.1109/IPSN61024.2024.00057"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "PhD Forum Abstract: Ubiquitous Sensing System for Activity and Gesture Recognition via Optical and Energy-Harvesting Technologies",
-                "doi": "10.1109/IPSN61024.2024.00062"
-            },
-            {
-                "title": "PhD Forum Abstract: Advancing Solar Cells: Beyond Energy Harvesting to Positioning and Communication",
-                "doi": "10.1109/IPSN61024.2024.00060"
-            },
-            {
-                "title": "Poster Abstract: Enabling Non-contact, Low-Power Sensing using Tunnel Diodes",
-                "doi": "10.1109/IPSN61024.2024.00056"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": []
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "LiDARSpectra: Synthetic Indoor Spectral Mapping with Low-cost LiDARs",
+            "doi": "10.1109/IPSN61024.2024.00011"
+        },
+        {
+            "title": "Continuous Multi-user Activity Tracking via Room-Scale mmWave Sensing",
+            "doi": "10.1109/IPSN61024.2024.00018"
+        },
+        {
+            "title": "Beyond-Voice: Towards Continuous 3D Hand Pose Tracking on Commercial Home Assistant Devices",
+            "doi": "10.1109/IPSN61024.2024.00017"
+        },
+        {
+            "title": "Demo Abstract: Bio-inspired Tactile Sensing for MAV Landing with Extreme Low-cost Sensors",
+            "doi": "10.1109/IPSN61024.2024.00031"
+        },
+        {
+            "title": "Demo Abstract: Embodied Aerial Agent for City-level Visual Language Navigation Using Large Language Model",
+            "doi": "10.1109/IPSN61024.2024.00033"
+        },
+        {
+            "title": "Demo Abstract: CARL: Collaborative Altitude-Adaptive Reinforcement Learning for Active Search with UAV Swarms",
+            "doi": "10.1109/IPSN61024.2024.00025"
+        },
+        {
+            "title": "Demo Abstract: Range-SLAM: UWB based Realtime Indoor Location and Mapping",
+            "doi": "10.1109/IPSN61024.2024.00030"
+        },
+        {
+            "title": "Demo Abstract: MARS -An mmWave-based Multi-user Activity Tracking Solution",
+            "doi": "10.1109/IPSN61024.2024.00035"
+        },
+        {
+            "title": "Poster Abstract: Emergency Networking Using UAVs: A Reinforcement Learning Approach with Large Language Model",
+            "doi": "10.1109/IPSN61024.2024.00041"
+        },
+        {
+            "title": "Poster Abstract: Sprinkler-UAV Cooperative Active Scheduling System",
+            "doi": "10.1109/IPSN61024.2024.00040"
+        },
+        {
+            "title": "Poster Abstract: Joint Optical Wireless Communication and Sensing using Neuromorphic Cameras",
+            "doi": "10.1109/IPSN61024.2024.00053"
+        },
+        {
+            "title": "Poster Abstract: UarLogger: Logging Measurements from UWB and AR Sensors on iOS Devices",
+            "doi": "10.1109/IPSN61024.2024.00047"
+        },
+        {
+            "title": "Poster Abstract: Adaptive Chirps Domain Window Order of MM-Wave Radar for UAV Motion Capture",
+            "doi": "10.1109/IPSN61024.2024.00046"
+        },
+        {
+            "title": "PhD Forum Abstract: Sensor Fusion for Vehicle-side and Roadside 3D Object Detection and Tracking",
+            "doi": "10.1109/IPSN61024.2024.00061"
+        },
+        {
+            "title": "PhD Forum Abstract: Cooperative Perception System with Roadside Assistance",
+            "doi": "10.1109/IPSN61024.2024.00064"
+        },
+        {
+            "title": "Poster Abstract: Shallowly Buried Trash Detection in Sandy Land Based on IR-UWB Radar",
+            "doi": "10.1109/IPSN61024.2024.00057"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "ArtFL: Exploiting Data Resolution in Federated Learning for Dynamic Runtime Inference via Multi-Scale Training",
+            "doi": "10.1109/IPSN61024.2024.00007"
+        },
+        {
+            "title": "Retcon: Live Updates for Embedded Event-Driven Applications",
+            "doi": "10.1109/IPSN61024.2024.00015"
+        },
+        {
+            "title": "Demo Abstract: AD-CLIP: Privacy-Preserving, Low-Cost Synthetic Human Action Dataset for Alzheimer\u2019s Patients via CLIP-based Models",
+            "doi": "10.1109/IPSN61024.2024.00029"
+        },
+        {
+            "title": "Demo Abstract: CaringFM: An Interactive In-home Healthcare System Empowered by Large Foundation Models",
+            "doi": "10.1109/IPSN61024.2024.00028"
+        },
+        {
+            "title": "Poster Abstract: Real-Time Cardiovascular Disease Detection via Abnormal Electrocardiogram Cycles on Embedded Systems",
+            "doi": "10.1109/IPSN61024.2024.00044"
+        },
+        {
+            "title": "Poster Abstract: Threshold Cryptography-based Authentication Protocol for Remote Healthcare",
+            "doi": "10.1109/IPSN61024.2024.00052"
+        },
+        {
+            "title": "Poster Abstract: TCT: Zero-training two staged Contrastive Transformer network for SSVEP classification",
+            "doi": "10.1109/IPSN61024.2024.00048"
+        },
+        {
+            "title": "PhD Forum Abstract: Ubiquitous Sensing System for Activity and Gesture Recognition via Optical and Energy-Harvesting Technologies",
+            "doi": "10.1109/IPSN61024.2024.00062"
+        },
+        {
+            "title": "PhD Forum Abstract: Advancing Solar Cells: Beyond Energy Harvesting to Positioning and Communication",
+            "doi": "10.1109/IPSN61024.2024.00060"
+        },
+        {
+            "title": "Poster Abstract: Enabling Non-contact, Low-Power Sensing using Tunnel Diodes",
+            "doi": "10.1109/IPSN61024.2024.00056"
+        }
+    ]
+}

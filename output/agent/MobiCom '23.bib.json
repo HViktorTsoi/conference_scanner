@@ -1,309 +1,222 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Wireless Actuation for Soft Electronics-free Robots",
-                "doi": "10.1145/3570361.3592494"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Battery-free Wideband Spectrum Mapping using Commodity RFID Tags",
-                "doi": "10.1145/3570361.3592508"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions with Backscatter",
-                "doi": "10.1145/3570361.3592511"
-            },
-            {
-                "title": "AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving",
-                "doi": "10.1145/3570361.3592517"
-            },
-            {
-                "title": "FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform",
-                "doi": "10.1145/3570361.3592525"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "UniScatter: a Metamaterial Backscatter Tag for Wideband Joint Communication and Radar Sensing",
-                "doi": "10.1145/3570361.3592526"
-            },
-            {
-                "title": "NeRF2: Neural Radio-Frequency Radiance Fields",
-                "doi": "10.1145/3570361.3592527"
-            },
-            {
-                "title": "AccuMO: Accuracy-Centric Multitask Offloading in Edge-Assisted Mobile Augmented Reality",
-                "doi": "10.1145/3570361.3592531"
-            },
-            {
-                "title": "NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras",
-                "doi": "10.1145/3570361.3592523"
-            },
-            {
-                "title": "MetaStream: Live Volumetric Content Capture, Creation, Delivery, and Rendering in Real Time",
-                "doi": "10.1145/3570361.3592530"
-            },
-            {
-                "title": "mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications",
-                "doi": "10.1145/3570361.3592515"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications",
-                "doi": "10.1145/3570361.3592515"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "BEAVIS: Balloon Enabled Aerial Vehicle for IoT and Sensing",
-                "doi": "10.1145/3570361.3592498"
-            },
-            {
-                "title": "BatMobility: Towards Flying Without Seeing for Autonomous Drones",
-                "doi": "10.1145/3570361.3592532"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "AccessWear: Making Smartphone Applications Accessible to Blind Users",
-                "doi": "10.1145/3570361.3592495"
-            },
-            {
-                "title": "TherapyPal: Towards a Privacy-Preserving Companion Diagnostic Tool based on Digital Symptomatic Phenotyping",
-                "doi": "10.1145/3570361.3592499"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "MilliSign: mmWave-Based Passive Signs for Guiding UAVs in Poor Visibility Conditions",
-                "doi": "10.1145/3570361.3613264"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Sign-to-911: Emergency Call Service for Sign Language Users with Assistive AR Glasses",
-                "doi": "10.1145/3570361.3613260"
-            },
-            {
-                "title": "ETAG: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle",
-                "doi": "10.1145/3570361.3613262"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Taming Event Cameras with Bio-Inspired Architecture and Algorithm: A Case for Drone Obstacle Avoidance",
-                "doi": "10.1145/3570361.3613269"
-            },
-            {
-                "title": "Robust Real-time Multi-vehicle Collaboration on Asynchronous Sensors",
-                "doi": "10.1145/3570361.3613271"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "DancingAnt: Body-empowered Wireless Sensing Utilizing Pervasive Radiations from Powerline",
-                "doi": "10.1145/3570361.3613272"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "VI-Map: Infrastructure-Assisted Real-Time HD Mapping for Autonomous Driving",
-                "doi": "10.1145/3570361.3613280"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "APG: Audioplethysmography for Cardiac Monitoring in Hearables",
-                "doi": "10.1145/3570361.3613281"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "ReMark: Privacy-preserving Fiducial Marker System via Single-pixel Imaging",
-                "doi": "10.1145/3570361.3613289"
-            },
-            {
-                "title": "MUSE-Fi: Contactless MUti-person SEnsing Exploiting Near-field Wi-Fi Channel Variation",
-                "doi": "10.1145/3570361.3613290"
-            },
-            {
-                "title": "mmSV: mmWave Vehicular Networking using Street View Imagery in Urban Environments",
-                "doi": "10.1145/3570361.3613291"
-            },
-            {
-                "title": "Anemoi: A Low-cost Sensorless Indoor Drone System for Automatic Mapping of 3D Airflow Fields",
-                "doi": "10.1145/3570361.3613292"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "LiT: Fine-grained Toothbrushing Monitoring with Commercial LED Toothbrush",
-                "doi": "10.1145/3570361.3613287"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "MilliMobile: An Autonomous Battery-free Wireless Microrobot",
-                "doi": "10.1145/3570361.3613304"
-            },
-            {
-                "title": "Squint: A Framework for Dynamic Voltage Scaling of Image Sensors Towards Low Power IoT Vision",
-                "doi": "10.1145/3570361.3613303"
-            },
-            {
-                "title": "Towards Generalized mmWave-based Human Pose Estimation through Signal Augmentation",
-                "doi": "10.1145/3570361.3613302"
-            },
-            {
-                "title": "Low-Bandwidth Self-Improving Transmission of Rare Training Data",
-                "doi": "10.1145/3570361.3613300"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Magnetic Backscatter for In-body Communication and Localization",
-                "doi": "10.1145/3570361.3613301"
-            },
-            {
-                "title": "Practically Adopting Human Activity Recognition",
-                "doi": "10.1145/3570361.3613299"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "RF-Search: Searching Unconscious Victim in Smoke Scenes with RF-enabled Drone",
-                "doi": "10.1145/3570361.3613305"
-            },
-            {
-                "title": "A Simplified Intelligent Autonomous Obstacle Bypassing Method for Mobile Robots",
-                "doi": "10.1145/3570361.3614066"
-            },
-            {
-                "title": "A Self-Adaptive Retro-FSO Design for Air-to-Ground Communication",
-                "doi": "10.1145/3570361.3614067"
-            },
-            {
-                "title": "A Framework for Dynamic Voltage Scaling of Image Sensors Towards Low Power IoT Vision",
-                "doi": "10.1145/3570361.3614071"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "RF-Search: Searching Unconscious Victim in Smoke Scenes with RF-enabled Drone",
-                "doi": "10.1145/3570361.3613305"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "RadarHD: Demonstrating Lidar-like Point Clouds from mmWave Radar",
-                "doi": "10.1145/3570361.3614077"
-            },
-            {
-                "title": "Real-time Generation of 3-Dimensional Representations of Static Objects using Small Unmanned Aerial Vehicles",
-                "doi": "10.1145/3570361.3614078"
-            },
-            {
-                "title": "Catch Me If You Can: Demonstrating Laser Tethering with Highly Mobile Targets",
-                "doi": "10.1145/3570361.3614081"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "5G MEC Architecture for Vulnerable Road Users Management Through Smart City Data Fusion",
-                "doi": "10.1145/3570361.3614070"
-            },
-            {
-                "title": "DNN-based SLAM Tracking Error Online Estimation",
-                "doi": "10.1145/3570361.3614082"
-            },
-            {
-                "title": "A Compact and Real-Time Millimeter-wave Experiment Framework with True Mobility Capabilities",
-                "doi": "10.1145/3570361.3614087"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "A Measurement System for Distributed UWB-based Ranging and Localization in Snow Avalanches",
-                "doi": "10.1145/3570361.3615730"
-            },
-            {
-                "title": "A Transformer-based Trajectory Prediction Method",
-                "doi": "10.1145/3570361.3615733"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Brain Sensing with Ultrasound Tomography and Deep Learning Algorithms",
-                "doi": "10.1145/3570361.3615734"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Towards Learning an Optimal Metric for Fingerprint-based Localisation",
-                "doi": "10.1145/3570361.3615739"
-            },
-            {
-                "title": "When BLE Meets Light: Multi-modal Fusion for Enhanced Indoor Localization",
-                "doi": "10.1145/3570361.3615746"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Effective Abnormal Activity Detection on Multivariate Time Series Healthcare Data",
-                "doi": "10.1145/3570361.3615741"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Experimental Investigation of Angle Diversity Receiver for Vehicular VLC",
-                "doi": "10.1145/3570361.3615755"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models",
-                "doi": "10.1145/3570361.3615759"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "Wireless Actuation for Soft Electronics-free Robots",
+            "doi": "10.1145/3570361.3592494"
+        },
+        {
+            "title": "GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions with Backscatter",
+            "doi": "10.1145/3570361.3592511"
+        },
+        {
+            "title": "AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving",
+            "doi": "10.1145/3570361.3592517"
+        },
+        {
+            "title": "FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform",
+            "doi": "10.1145/3570361.3592525"
+        },
+        {
+            "title": "UniScatter: a Metamaterial Backscatter Tag for Wideband Joint Communication and Radar Sensing",
+            "doi": "10.1145/3570361.3592526"
+        },
+        {
+            "title": "NeRF2: Neural Radio-Frequency Radiance Fields",
+            "doi": "10.1145/3570361.3592527"
+        },
+        {
+            "title": "AccuMO: Accuracy-Centric Multitask Offloading in Edge-Assisted Mobile Augmented Reality",
+            "doi": "10.1145/3570361.3592531"
+        },
+        {
+            "title": "NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras",
+            "doi": "10.1145/3570361.3592523"
+        },
+        {
+            "title": "MetaStream: Live Volumetric Content Capture, Creation, Delivery, and Rendering in Real Time",
+            "doi": "10.1145/3570361.3592530"
+        },
+        {
+            "title": "mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications",
+            "doi": "10.1145/3570361.3592515"
+        },
+        {
+            "title": "BEAVIS: Balloon Enabled Aerial Vehicle for IoT and Sensing",
+            "doi": "10.1145/3570361.3592498"
+        },
+        {
+            "title": "BatMobility: Towards Flying Without Seeing for Autonomous Drones",
+            "doi": "10.1145/3570361.3592532"
+        },
+        {
+            "title": "MilliSign: mmWave-Based Passive Signs for Guiding UAVs in Poor Visibility Conditions",
+            "doi": "10.1145/3570361.3613264"
+        },
+        {
+            "title": "Taming Event Cameras with Bio-Inspired Architecture and Algorithm: A Case for Drone Obstacle Avoidance",
+            "doi": "10.1145/3570361.3613269"
+        },
+        {
+            "title": "Robust Real-time Multi-vehicle Collaboration on Asynchronous Sensors",
+            "doi": "10.1145/3570361.3613271"
+        },
+        {
+            "title": "VI-Map: Infrastructure-Assisted Real-Time HD Mapping for Autonomous Driving",
+            "doi": "10.1145/3570361.3613280"
+        },
+        {
+            "title": "ReMark: Privacy-preserving Fiducial Marker System via Single-pixel Imaging",
+            "doi": "10.1145/3570361.3613289"
+        },
+        {
+            "title": "MUSE-Fi: Contactless MUti-person SEnsing Exploiting Near-field Wi-Fi Channel Variation",
+            "doi": "10.1145/3570361.3613290"
+        },
+        {
+            "title": "mmSV: mmWave Vehicular Networking using Street View Imagery in Urban Environments",
+            "doi": "10.1145/3570361.3613291"
+        },
+        {
+            "title": "Anemoi: A Low-cost Sensorless Indoor Drone System for Automatic Mapping of 3D Airflow Fields",
+            "doi": "10.1145/3570361.3613292"
+        },
+        {
+            "title": "MilliMobile: An Autonomous Battery-free Wireless Microrobot",
+            "doi": "10.1145/3570361.3613304"
+        },
+        {
+            "title": "Squint: A Framework for Dynamic Voltage Scaling of Image Sensors Towards Low Power IoT Vision",
+            "doi": "10.1145/3570361.3613303"
+        },
+        {
+            "title": "Towards Generalized mmWave-based Human Pose Estimation through Signal Augmentation",
+            "doi": "10.1145/3570361.3613302"
+        },
+        {
+            "title": "Low-Bandwidth Self-Improving Transmission of Rare Training Data",
+            "doi": "10.1145/3570361.3613300"
+        },
+        {
+            "title": "RF-Search: Searching Unconscious Victim in Smoke Scenes with RF-enabled Drone",
+            "doi": "10.1145/3570361.3613305"
+        },
+        {
+            "title": "A Simplified Intelligent Autonomous Obstacle Bypassing Method for Mobile Robots",
+            "doi": "10.1145/3570361.3614066"
+        },
+        {
+            "title": "A Self-Adaptive Retro-FSO Design for Air-to-Ground Communication",
+            "doi": "10.1145/3570361.3614067"
+        },
+        {
+            "title": "A Framework for Dynamic Voltage Scaling of Image Sensors Towards Low Power IoT Vision",
+            "doi": "10.1145/3570361.3614071"
+        },
+        {
+            "title": "RadarHD: Demonstrating Lidar-like Point Clouds from mmWave Radar",
+            "doi": "10.1145/3570361.3614077"
+        },
+        {
+            "title": "Real-time Generation of 3-Dimensional Representations of Static Objects using Small Unmanned Aerial Vehicles",
+            "doi": "10.1145/3570361.3614078"
+        },
+        {
+            "title": "Catch Me If You Can: Demonstrating Laser Tethering with Highly Mobile Targets",
+            "doi": "10.1145/3570361.3614081"
+        },
+        {
+            "title": "5G MEC Architecture for Vulnerable Road Users Management Through Smart City Data Fusion",
+            "doi": "10.1145/3570361.3614070"
+        },
+        {
+            "title": "DNN-based SLAM Tracking Error Online Estimation",
+            "doi": "10.1145/3570361.3614082"
+        },
+        {
+            "title": "A Compact and Real-Time Millimeter-wave Experiment Framework with True Mobility Capabilities",
+            "doi": "10.1145/3570361.3614087"
+        },
+        {
+            "title": "A Measurement System for Distributed UWB-based Ranging and Localization in Snow Avalanches",
+            "doi": "10.1145/3570361.3615730"
+        },
+        {
+            "title": "A Transformer-based Trajectory Prediction Method",
+            "doi": "10.1145/3570361.3615733"
+        },
+        {
+            "title": "Towards Learning an Optimal Metric for Fingerprint-based Localisation",
+            "doi": "10.1145/3570361.3615739"
+        },
+        {
+            "title": "When BLE Meets Light: Multi-modal Fusion for Enhanced Indoor Localization",
+            "doi": "10.1145/3570361.3615746"
+        },
+        {
+            "title": "Experimental Investigation of Angle Diversity Receiver for Vehicular VLC",
+            "doi": "10.1145/3570361.3615755"
+        },
+        {
+            "title": "Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models",
+            "doi": "10.1145/3570361.3615759"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "Battery-free Wideband Spectrum Mapping using Commodity RFID Tags",
+            "doi": "10.1145/3570361.3592508"
+        },
+        {
+            "title": "mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications",
+            "doi": "10.1145/3570361.3592515"
+        },
+        {
+            "title": "AccessWear: Making Smartphone Applications Accessible to Blind Users",
+            "doi": "10.1145/3570361.3592495"
+        },
+        {
+            "title": "TherapyPal: Towards a Privacy-Preserving Companion Diagnostic Tool based on Digital Symptomatic Phenotyping",
+            "doi": "10.1145/3570361.3592499"
+        },
+        {
+            "title": "Sign-to-911: Emergency Call Service for Sign Language Users with Assistive AR Glasses",
+            "doi": "10.1145/3570361.3613260"
+        },
+        {
+            "title": "ETAG: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle",
+            "doi": "10.1145/3570361.3613262"
+        },
+        {
+            "title": "DancingAnt: Body-empowered Wireless Sensing Utilizing Pervasive Radiations from Powerline",
+            "doi": "10.1145/3570361.3613272"
+        },
+        {
+            "title": "APG: Audioplethysmography for Cardiac Monitoring in Hearables",
+            "doi": "10.1145/3570361.3613281"
+        },
+        {
+            "title": "LiT: Fine-grained Toothbrushing Monitoring with Commercial LED Toothbrush",
+            "doi": "10.1145/3570361.3613287"
+        },
+        {
+            "title": "Magnetic Backscatter for In-body Communication and Localization",
+            "doi": "10.1145/3570361.3613301"
+        },
+        {
+            "title": "Practically Adopting Human Activity Recognition",
+            "doi": "10.1145/3570361.3613299"
+        },
+        {
+            "title": "RF-Search: Searching Unconscious Victim in Smoke Scenes with RF-enabled Drone",
+            "doi": "10.1145/3570361.3613305"
+        },
+        {
+            "title": "Brain Sensing with Ultrasound Tomography and Deep Learning Algorithms",
+            "doi": "10.1145/3570361.3615734"
+        },
+        {
+            "title": "Effective Abnormal Activity Detection on Multivariate Time Series Healthcare Data",
+            "doi": "10.1145/3570361.3615741"
+        }
+    ]
+}

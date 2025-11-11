@@ -1,454 +1,362 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "LeakyTrack: non-coherent single-antenna nodal and environmental mobility tracking with a leaky-wave antenna",
-                "doi": "10.1145/3384419.3430717"
-            },
-            {
-                "title": "Symphony: localizing multiple acoustic sources with a single microphone array",
-                "doi": "10.1145/3384419.3430724"
-            },
-            {
-                "title": "Combating interference for long range LoRa sensing",
-                "doi": "10.1145/3384419.3430731"
-            },
-            {
-                "title": "UWHear: through-wall extraction and separation of audio vibrations using wireless signals",
-                "doi": "10.1145/3384419.3430772"
-            },
-            {
-                "title": "milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor fusion",
-                "doi": "10.1145/3384419.3430776"
-            },
-            {
-                "title": "LiTag: localization and posture estimation with passive visible light tags",
-                "doi": "10.1145/3384419.3430777"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Combating interference for long range LoRa sensing",
-                "doi": "10.1145/3384419.3430731"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "FM-track: pushing the limits of contactless multi-target tracking using acoustic signals",
-                "doi": "10.1145/3384419.3430780"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "MobiPose: real-time multi-person pose estimation on mobile devices",
-                "doi": "10.1145/3384419.3430726"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Detecting replay attacks against industrial robots via power fingerprinting",
-                "doi": "10.1145/3384419.3430775"
-            },
-            {
-                "title": "DroneScale: drone load estimation via remote passive RF sensing",
-                "doi": "10.1145/3384419.3430778"
-            },
-            {
-                "title": "Spying with your robot vacuum cleaner: eavesdropping via lidar sensors",
-                "doi": "10.1145/3384419.3430781"
-            },
-            {
-                "title": "Pointillism: accurate 3D bounding box estimation with multi-radars",
-                "doi": "10.1145/3384419.3430783"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Distream: scaling live video analytics with workload-adaptive distributed edge intelligence",
-                "doi": "10.1145/3384419.3430721"
-            },
-            {
-                "title": "Wi-fi see it all: generative adversarial network-augmented versatile wi-fi imaging",
-                "doi": "10.1145/3384419.3430725"
-            },
-            {
-                "title": "Ember: energy management of batteryless event detection sensors with deep reinforcement learning",
-                "doi": "10.1145/3384419.3430734"
-            },
-            {
-                "title": "Deep compressive offloading: speeding up neural network inference by trading edge computation for network latency",
-                "doi": "10.1145/3384419.3430898"
-            },
-            {
-                "title": "ApproxDet: content and contention-aware approximate object detection for mobiles",
-                "doi": "10.1145/3384419.3431159"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Neuroplex: learning to detect complex events in sensor networks through knowledge injection",
-                "doi": "10.1145/3384419.3431158"
-            },
-            {
-                "title": "RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition",
-                "doi": "10.1145/3384419.3430735"
-            },
-            {
-                "title": "GazeGraph: graph-based few-shot cognitive context sensing from human visual behavior",
-                "doi": "10.1145/3384419.3430774"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Aerial sensing system for wildfire detection: demo abstract",
-                "doi": "10.1145/3384419.3430399"
-            },
-            {
-                "title": "A method for detecting street parking using dashboard camera videos on an edge device: demo abstract",
-                "doi": "10.1145/3384419.3430464"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "A monitoring, modeling, and interactive recommendation system for in-home caregivers: demo abstract",
-                "doi": "10.1145/3384419.3430422"
-            },
-            {
-                "title": "Activity recognition through intermittent distributed processing by energy harvesting PIR sensors: demo abstract",
-                "doi": "10.1145/3384419.3430426"
-            },
-            {
-                "title": "AI thermometer for temperature screening: demo abstract",
-                "doi": "10.1145/3384419.3430433"
-            },
-            {
-                "title": "Noninvasive glucose monitoring using polarized light",
-                "doi": "10.1145/3384419.3430720"
-            },
-            {
-                "title": "ERICA: enabling real-time mistake detection & corrective feedback for free-weights exercises",
-                "doi": "10.1145/3384419.3430732"
-            },
-            {
-                "title": "RFWash: a weakly supervised tracking of hand hygiene technique",
-                "doi": "10.1145/3384419.3430733"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Automated, autonomous, and repeatable wireless experimentation in heterogeneous 3D environments: demo abstract",
-                "doi": "10.1145/3384419.3430412"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "CoPED: a smartwatch based voice cognitive assistant for the pandemic and beyond: demo abstract",
-                "doi": "10.1145/3384419.3430431"
-            },
-            {
-                "title": "Federated learning on wearable devices: demo abstract",
-                "doi": "10.1145/3384419.3430446"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Intelligent and autonomous wheelchair design: demo abstract",
-                "doi": "10.1145/3384419.3430409"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Intelligent and autonomous wheelchair design: demo abstract",
-                "doi": "10.1145/3384419.3430409"
-            },
-            {
-                "title": "IMACS - an i nteractive cognitive assistant m odule for c ardiac a rrest cases in emergency medical s ervice: demo abstract",
-                "doi": "10.1145/3384419.3430451"
-            },
-            {
-                "title": "Real-time robust estimation of breathing rate from PPG using commercial-grade smart devices: demo abstract",
-                "doi": "10.1145/3384419.3430458"
-            },
-            {
-                "title": "Hand motion capture system based on multiple inertial sensors: demo abstract",
-                "doi": "10.1145/3384419.3430461"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Visual and inertial sensor fusion for mobile X-ray detector tracking: demo abstract",
-                "doi": "10.1145/3384419.3430435"
-            },
-            {
-                "title": "A performance investigation of thermal infrared camera and optical camera for searching victims with an unmanned aerial vehicle: poster abstract",
-                "doi": "10.1145/3384419.3430459"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "ThermoTrak: smartphone based real-time fever screening: demo abstract",
-                "doi": "10.1145/3384419.3430400"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Exploring drivers' embarrassing moments in using automotive navigation: poster abstract",
-                "doi": "10.1145/3384419.3430403"
-            },
-            {
-                "title": "Enabling identity-aware tracking by vision-RFID fusion: poster abstract",
-                "doi": "10.1145/3384419.3430418"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Analysis of healing effects caused by changes in display resolution using biosensors: poster abstract",
-                "doi": "10.1145/3384419.3430413"
-            },
-            {
-                "title": "Crowdsensing spatial data to follow epidemic evolution: poster abstract",
-                "doi": "10.1145/3384419.3430427"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "In-ear thermometer: wearable real-time core body temperature monitoring: poster abstract",
-                "doi": "10.1145/3384419.3430442"
-            },
-            {
-                "title": "Indoor air quality monitoring system for proactive control of respiratory infectious diseases: poster abstract",
-                "doi": "10.1145/3384419.3430456"
-            },
-            {
-                "title": "HARaaS: HAR as a service using wifi signal in IoT-enabled edge computing: poster abstract",
-                "doi": "10.1145/3384419.3430469"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "LidarPhone: acoustic eavesdropping using a lidar sensor: poster abstract",
-                "doi": "10.1145/3384419.3430430"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Low-cost multi-person continuous skin temperature sensing system for fever detection: poster abstract",
-                "doi": "10.1145/3384419.3430398"
-            },
-            {
-                "title": "Real-time reassurance monitoring shopping basket in retail store: poster abstract",
-                "doi": "10.1145/3384419.3430411"
-            },
-            {
-                "title": "Participatory sound meter calibration system for mobile devices: poster abstract",
-                "doi": "10.1145/3384419.3430449"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Tap it and you know what it is: a surface identification system based on acoustic dispersion: poster abstract",
-                "doi": "10.1145/3384419.3431187"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "SmartEye - a wearable device that help visually impaired people during on-site banking: poster abstract",
-                "doi": "10.1145/3384419.3430438"
-            },
-            {
-                "title": "Teacher, trainee, and student based knowledge distillation technique for monitoring indoor activities: poster abstract",
-                "doi": "10.1145/3384419.3430450"
-            },
-            {
-                "title": "Smart earpieces that know who you are quietly: poster abstract",
-                "doi": "10.1145/3384419.3431254"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Towards secure backscatter-based in-body sensor networks: poster abstract",
-                "doi": "10.1145/3384419.3430415"
-            },
-            {
-                "title": "A privacy-enabled platform for COVID-19 applications: poster abstract",
-                "doi": "10.1145/3384419.3430594"
-            },
-            {
-                "title": "A nudge-based smart system for hand hygiene promotion in private organizations: poster abstract",
-                "doi": "10.1145/3384419.3430595"
-            },
-            {
-                "title": "DigitalPPE: low cost wearable that acts as a social distancingreminder and contact tracer: poster abstract",
-                "doi": "10.1145/3384419.3430600"
-            },
-            {
-                "title": "BluBLE, space-time social distancing to monitor the spread of COVID-19: poster abstract",
-                "doi": "10.1145/3384419.3430601"
-            },
-            {
-                "title": "COVID-19 tracer: passive close-contacts searching through wi-fi probes: poster abstract",
-                "doi": "10.1145/3384419.3430604"
-            },
-            {
-                "title": "Development of the portal site of COVID-19 data in Japan: poster abstract",
-                "doi": "10.1145/3384419.3430611"
-            },
-            {
-                "title": "Contact analysis on COVID-19 using a campus network: poster abstract",
-                "doi": "10.1145/3384419.3430612"
-            },
-            {
-                "title": "Automating decontamination of N95 masks for frontline workers in COVID-19 pandemic: poster abstract",
-                "doi": "10.1145/3384419.3430613"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Physical distance monitoring system for COVID-19 using raspberry Pi and a monocular camera: poster abstract",
-                "doi": "10.1145/3384419.3430591"
-            },
-            {
-                "title": "How much does human mobility behavior affect the COVID-19 infection spread? poster abstract",
-                "doi": "10.1145/3384419.3430593"
-            },
-            {
-                "title": "Privacy-preserving contact tracing using homomorphic encryption: poster abstract",
-                "doi": "10.1145/3384419.3430596"
-            },
-            {
-                "title": "Identifying human contact points on environmental surfaces using heat traces to support disinfect activities: poster abstract",
-                "doi": "10.1145/3384419.3430597"
-            },
-            {
-                "title": "Mitigating denial-of-service attacks on digital contact tracing: poster abstract",
-                "doi": "10.1145/3384419.3430599"
-            },
-            {
-                "title": "Evaluation of distance learning on concentration and relax by EEG and HRV: poster abstract",
-                "doi": "10.1145/3384419.3430602"
-            },
-            {
-                "title": "Poirot: private contact summary aggregation: poster abstract",
-                "doi": "10.1145/3384419.3430603"
-            },
-            {
-                "title": "How blockchain helps to combat trust crisis in COVID-19 pandemic? poster abstract",
-                "doi": "10.1145/3384419.3430605"
-            },
-            {
-                "title": "Proactive privacy-preserving proximity prevention through bluetooth transceivers: poster abstract",
-                "doi": "10.1145/3384419.3430608"
-            },
-            {
-                "title": "Dual-radio discovery and ranging for infrastructure-less social distancing with Janus: poster abstract",
-                "doi": "10.1145/3384419.3430614"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Distributed machine learning for collaborative mobile robots: PhD forum abstract",
-                "doi": "10.1145/3384419.3430574"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "SelfGuard: semi-automated activity tracking for enhancing self-protection against the COVID-19 pandemic: poster abstract",
-                "doi": "10.1145/3384419.3430592"
-            },
-            {
-                "title": "WiFiMon: a mobility analytics platform for building occupancy monitoring and contact tracing using wifi sensing: poster abstract",
-                "doi": "10.1145/3384419.3430598"
-            },
-            {
-                "title": "The CORONA business in modern cities: poster abstract",
-                "doi": "10.1145/3384419.3430606"
-            },
-            {
-                "title": "Structure of psychological stress during the COVID-19 pandemic and effects of essential oil odor exposure: poster abstract",
-                "doi": "10.1145/3384419.3430607"
-            },
-            {
-                "title": "Towards ICT based mobility support system with in the COVID-19 era: poster abstract",
-                "doi": "10.1145/3384419.3430609"
-            },
-            {
-                "title": "Simulating COVID-19 containment measures using the South Korean patient data: poster abstract",
-                "doi": "10.1145/3384419.3430610"
-            },
-            {
-                "title": "VenueTrace: a privacy-by-design COVID-19 digital contact tracing solution: poster abstract",
-                "doi": "10.1145/3384419.3430615"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Improving cyber-physical system performance through actuator-sensor interactions: PhD forum abstract",
-                "doi": "10.1145/3384419.3430568"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Scalable mHealth technologies for public health monitoring: PhD forum abstract",
-                "doi": "10.1145/3384419.3430565"
-            },
-            {
-                "title": "Noise-tolerant and context-aware structural vibration based activity monitoring: PhD forum abstract",
-                "doi": "10.1145/3384419.3430571"
-            },
-            {
-                "title": "Requirements analysis for reminder system in daily activity recognition dementia: PhD forum abstract",
-                "doi": "10.1145/3384419.3430572"
-            },
-            {
-                "title": "Mobile application for caregiver in collecting statistical data of BPSD attack focused on macro activities: PhD forum abstract",
-                "doi": "10.1145/3384419.3430577"
-            },
-            {
-                "title": "Multilabel classification in human activity recognition: PhD forum abstract",
-                "doi": "10.1145/3384419.3430578"
-            },
-            {
-                "title": "Inferring finer-grained human information with multi-modal cross-granularity learning: PhD forum abstract",
-                "doi": "10.1145/3384419.3430580"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": []
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "LeakyTrack: non-coherent single-antenna nodal and environmental mobility tracking with a leaky-wave antenna",
+            "doi": "10.1145/3384419.3430717"
+        },
+        {
+            "title": "Symphony: localizing multiple acoustic sources with a single microphone array",
+            "doi": "10.1145/3384419.3430724"
+        },
+        {
+            "title": "Combating interference for long range LoRa sensing",
+            "doi": "10.1145/3384419.3430731"
+        },
+        {
+            "title": "UWHear: through-wall extraction and separation of audio vibrations using wireless signals",
+            "doi": "10.1145/3384419.3430772"
+        },
+        {
+            "title": "milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor fusion",
+            "doi": "10.1145/3384419.3430776"
+        },
+        {
+            "title": "LiTag: localization and posture estimation with passive visible light tags",
+            "doi": "10.1145/3384419.3430777"
+        },
+        {
+            "title": "FM-track: pushing the limits of contactless multi-target tracking using acoustic signals",
+            "doi": "10.1145/3384419.3430780"
+        },
+        {
+            "title": "Detecting replay attacks against industrial robots via power fingerprinting",
+            "doi": "10.1145/3384419.3430775"
+        },
+        {
+            "title": "DroneScale: drone load estimation via remote passive RF sensing",
+            "doi": "10.1145/3384419.3430778"
+        },
+        {
+            "title": "Spying with your robot vacuum cleaner: eavesdropping via lidar sensors",
+            "doi": "10.1145/3384419.3430781"
+        },
+        {
+            "title": "Pointillism: accurate 3D bounding box estimation with multi-radars",
+            "doi": "10.1145/3384419.3430783"
+        },
+        {
+            "title": "Distream: scaling live video analytics with workload-adaptive distributed edge intelligence",
+            "doi": "10.1145/3384419.3430721"
+        },
+        {
+            "title": "Wi-fi see it all: generative adversarial network-augmented versatile wi-fi imaging",
+            "doi": "10.1145/3384419.3430725"
+        },
+        {
+            "title": "Ember: energy management of batteryless event detection sensors with deep reinforcement learning",
+            "doi": "10.1145/3384419.3430734"
+        },
+        {
+            "title": "Deep compressive offloading: speeding up neural network inference by trading edge computation for network latency",
+            "doi": "10.1145/3384419.3430898"
+        },
+        {
+            "title": "ApproxDet: content and contention-aware approximate object detection for mobiles",
+            "doi": "10.1145/3384419.3431159"
+        },
+        {
+            "title": "Aerial sensing system for wildfire detection: demo abstract",
+            "doi": "10.1145/3384419.3430399"
+        },
+        {
+            "title": "A method for detecting street parking using dashboard camera videos on an edge device: demo abstract",
+            "doi": "10.1145/3384419.3430464"
+        },
+        {
+            "title": "Automated, autonomous, and repeatable wireless experimentation in heterogeneous 3D environments: demo abstract",
+            "doi": "10.1145/3384419.3430412"
+        },
+        {
+            "title": "Intelligent and autonomous wheelchair design: demo abstract",
+            "doi": "10.1145/3384419.3430409"
+        },
+        {
+            "title": "Visual and inertial sensor fusion for mobile X-ray detector tracking: demo abstract",
+            "doi": "10.1145/3384419.3430435"
+        },
+        {
+            "title": "A performance investigation of thermal infrared camera and optical camera for searching victims with an unmanned aerial vehicle: poster abstract",
+            "doi": "10.1145/3384419.3430459"
+        },
+        {
+            "title": "Exploring drivers' embarrassing moments in using automotive navigation: poster abstract",
+            "doi": "10.1145/3384419.3430403"
+        },
+        {
+            "title": "Enabling identity-aware tracking by vision-RFID fusion: poster abstract",
+            "doi": "10.1145/3384419.3430418"
+        },
+        {
+            "title": "LidarPhone: acoustic eavesdropping using a lidar sensor: poster abstract",
+            "doi": "10.1145/3384419.3430430"
+        },
+        {
+            "title": "Tap it and you know what it is: a surface identification system based on acoustic dispersion: poster abstract",
+            "doi": "10.1145/3384419.3431187"
+        },
+        {
+            "title": "Distributed machine learning for collaborative mobile robots: PhD forum abstract",
+            "doi": "10.1145/3384419.3430574"
+        },
+        {
+            "title": "Improving cyber-physical system performance through actuator-sensor interactions: PhD forum abstract",
+            "doi": "10.1145/3384419.3430568"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "Combating interference for long range LoRa sensing",
+            "doi": "10.1145/3384419.3430731"
+        },
+        {
+            "title": "MobiPose: real-time multi-person pose estimation on mobile devices",
+            "doi": "10.1145/3384419.3430726"
+        },
+        {
+            "title": "Neuroplex: learning to detect complex events in sensor networks through knowledge injection",
+            "doi": "10.1145/3384419.3431158"
+        },
+        {
+            "title": "RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition",
+            "doi": "10.1145/3384419.3430735"
+        },
+        {
+            "title": "GazeGraph: graph-based few-shot cognitive context sensing from human visual behavior",
+            "doi": "10.1145/3384419.3430774"
+        },
+        {
+            "title": "A monitoring, modeling, and interactive recommendation system for in-home caregivers: demo abstract",
+            "doi": "10.1145/3384419.3430422"
+        },
+        {
+            "title": "Activity recognition through intermittent distributed processing by energy harvesting PIR sensors: demo abstract",
+            "doi": "10.1145/3384419.3430426"
+        },
+        {
+            "title": "AI thermometer for temperature screening: demo abstract",
+            "doi": "10.1145/3384419.3430433"
+        },
+        {
+            "title": "Noninvasive glucose monitoring using polarized light",
+            "doi": "10.1145/3384419.3430720"
+        },
+        {
+            "title": "ERICA: enabling real-time mistake detection & corrective feedback for free-weights exercises",
+            "doi": "10.1145/3384419.3430732"
+        },
+        {
+            "title": "RFWash: a weakly supervised tracking of hand hygiene technique",
+            "doi": "10.1145/3384419.3430733"
+        },
+        {
+            "title": "CoPED: a smartwatch based voice cognitive assistant for the pandemic and beyond: demo abstract",
+            "doi": "10.1145/3384419.3430431"
+        },
+        {
+            "title": "Federated learning on wearable devices: demo abstract",
+            "doi": "10.1145/3384419.3430446"
+        },
+        {
+            "title": "Intelligent and autonomous wheelchair design: demo abstract",
+            "doi": "10.1145/3384419.3430409"
+        },
+        {
+            "title": "IMACS - an i nteractive cognitive assistant m odule for c ardiac a rrest cases in emergency medical s ervice: demo abstract",
+            "doi": "10.1145/3384419.3430451"
+        },
+        {
+            "title": "Real-time robust estimation of breathing rate from PPG using commercial-grade smart devices: demo abstract",
+            "doi": "10.1145/3384419.3430458"
+        },
+        {
+            "title": "Hand motion capture system based on multiple inertial sensors: demo abstract",
+            "doi": "10.1145/3384419.3430461"
+        },
+        {
+            "title": "ThermoTrak: smartphone based real-time fever screening: demo abstract",
+            "doi": "10.1145/3384419.3430400"
+        },
+        {
+            "title": "Analysis of healing effects caused by changes in display resolution using biosensors: poster abstract",
+            "doi": "10.1145/3384419.3430413"
+        },
+        {
+            "title": "Crowdsensing spatial data to follow epidemic evolution: poster abstract",
+            "doi": "10.1145/3384419.3430427"
+        },
+        {
+            "title": "In-ear thermometer: wearable real-time core body temperature monitoring: poster abstract",
+            "doi": "10.1145/3384419.3430442"
+        },
+        {
+            "title": "Indoor air quality monitoring system for proactive control of respiratory infectious diseases: poster abstract",
+            "doi": "10.1145/3384419.3430456"
+        },
+        {
+            "title": "HARaaS: HAR as a service using wifi signal in IoT-enabled edge computing: poster abstract",
+            "doi": "10.1145/3384419.3430469"
+        },
+        {
+            "title": "Low-cost multi-person continuous skin temperature sensing system for fever detection: poster abstract",
+            "doi": "10.1145/3384419.3430398"
+        },
+        {
+            "title": "Real-time reassurance monitoring shopping basket in retail store: poster abstract",
+            "doi": "10.1145/3384419.3430411"
+        },
+        {
+            "title": "Participatory sound meter calibration system for mobile devices: poster abstract",
+            "doi": "10.1145/3384419.3430449"
+        },
+        {
+            "title": "SmartEye - a wearable device that help visually impaired people during on-site banking: poster abstract",
+            "doi": "10.1145/3384419.3430438"
+        },
+        {
+            "title": "Teacher, trainee, and student based knowledge distillation technique for monitoring indoor activities: poster abstract",
+            "doi": "10.1145/3384419.3430450"
+        },
+        {
+            "title": "Smart earpieces that know who you are quietly: poster abstract",
+            "doi": "10.1145/3384419.3431254"
+        },
+        {
+            "title": "Towards secure backscatter-based in-body sensor networks: poster abstract",
+            "doi": "10.1145/3384419.3430415"
+        },
+        {
+            "title": "A privacy-enabled platform for COVID-19 applications: poster abstract",
+            "doi": "10.1145/3384419.3430594"
+        },
+        {
+            "title": "A nudge-based smart system for hand hygiene promotion in private organizations: poster abstract",
+            "doi": "10.1145/3384419.3430595"
+        },
+        {
+            "title": "DigitalPPE: low cost wearable that acts as a social distancingreminder and contact tracer: poster abstract",
+            "doi": "10.1145/3384419.3430600"
+        },
+        {
+            "title": "BluBLE, space-time social distancing to monitor the spread of COVID-19: poster abstract",
+            "doi": "10.1145/3384419.3430601"
+        },
+        {
+            "title": "COVID-19 tracer: passive close-contacts searching through wi-fi probes: poster abstract",
+            "doi": "10.1145/3384419.3430604"
+        },
+        {
+            "title": "Development of the portal site of COVID-19 data in Japan: poster abstract",
+            "doi": "10.1145/3384419.3430611"
+        },
+        {
+            "title": "Contact analysis on COVID-19 using a campus network: poster abstract",
+            "doi": "10.1145/3384419.3430612"
+        },
+        {
+            "title": "Automating decontamination of N95 masks for frontline workers in COVID-19 pandemic: poster abstract",
+            "doi": "10.1145/3384419.3430613"
+        },
+        {
+            "title": "Physical distance monitoring system for COVID-19 using raspberry Pi and a monocular camera: poster abstract",
+            "doi": "10.1145/3384419.3430591"
+        },
+        {
+            "title": "How much does human mobility behavior affect the COVID-19 infection spread? poster abstract",
+            "doi": "10.1145/3384419.3430593"
+        },
+        {
+            "title": "Privacy-preserving contact tracing using homomorphic encryption: poster abstract",
+            "doi": "10.1145/3384419.3430596"
+        },
+        {
+            "title": "Identifying human contact points on environmental surfaces using heat traces to support disinfect activities: poster abstract",
+            "doi": "10.1145/3384419.3430597"
+        },
+        {
+            "title": "Mitigating denial-of-service attacks on digital contact tracing: poster abstract",
+            "doi": "10.1145/3384419.3430599"
+        },
+        {
+            "title": "Evaluation of distance learning on concentration and relax by EEG and HRV: poster abstract",
+            "doi": "10.1145/3384419.3430602"
+        },
+        {
+            "title": "Poirot: private contact summary aggregation: poster abstract",
+            "doi": "10.1145/3384419.3430603"
+        },
+        {
+            "title": "How blockchain helps to combat trust crisis in COVID-19 pandemic? poster abstract",
+            "doi": "10.1145/3384419.3430605"
+        },
+        {
+            "title": "Proactive privacy-preserving proximity prevention through bluetooth transceivers: poster abstract",
+            "doi": "10.1145/3384419.3430608"
+        },
+        {
+            "title": "Dual-radio discovery and ranging for infrastructure-less social distancing with Janus: poster abstract",
+            "doi": "10.1145/3384419.3430614"
+        },
+        {
+            "title": "SelfGuard: semi-automated activity tracking for enhancing self-protection against the COVID-19 pandemic: poster abstract",
+            "doi": "10.1145/3384419.3430592"
+        },
+        {
+            "title": "WiFiMon: a mobility analytics platform for building occupancy monitoring and contact tracing using wifi sensing: poster abstract",
+            "doi": "10.1145/3384419.3430598"
+        },
+        {
+            "title": "The CORONA business in modern cities: poster abstract",
+            "doi": "10.1145/3384419.3430606"
+        },
+        {
+            "title": "Structure of psychological stress during the COVID-19 pandemic and effects of essential oil odor exposure: poster abstract",
+            "doi": "10.1145/3384419.3430607"
+        },
+        {
+            "title": "Towards ICT based mobility support system with in the COVID-19 era: poster abstract",
+            "doi": "10.1145/3384419.3430609"
+        },
+        {
+            "title": "Simulating COVID-19 containment measures using the South Korean patient data: poster abstract",
+            "doi": "10.1145/3384419.3430610"
+        },
+        {
+            "title": "VenueTrace: a privacy-by-design COVID-19 digital contact tracing solution: poster abstract",
+            "doi": "10.1145/3384419.3430615"
+        },
+        {
+            "title": "Scalable mHealth technologies for public health monitoring: PhD forum abstract",
+            "doi": "10.1145/3384419.3430565"
+        },
+        {
+            "title": "Noise-tolerant and context-aware structural vibration based activity monitoring: PhD forum abstract",
+            "doi": "10.1145/3384419.3430571"
+        },
+        {
+            "title": "Requirements analysis for reminder system in daily activity recognition dementia: PhD forum abstract",
+            "doi": "10.1145/3384419.3430572"
+        },
+        {
+            "title": "Mobile application for caregiver in collecting statistical data of BPSD attack focused on macro activities: PhD forum abstract",
+            "doi": "10.1145/3384419.3430577"
+        },
+        {
+            "title": "Multilabel classification in human activity recognition: PhD forum abstract",
+            "doi": "10.1145/3384419.3430578"
+        },
+        {
+            "title": "Inferring finer-grained human information with multi-modal cross-granularity learning: PhD forum abstract",
+            "doi": "10.1145/3384419.3430580"
+        }
+    ]
+}

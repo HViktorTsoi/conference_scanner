@@ -4,6 +4,7 @@ import bibtexparser
 import tqdm
 from bibtexparser.bwriter import BibTexWriter
 import json
+import glob
 
 prompt_template = """
 You are a senior researcher in Embodied AI and healthcare-related mobile computing. From the BibTeX I will provide, according to the titles, abstracts and keywords, identify papers relevant to the following two topics:
@@ -90,7 +91,53 @@ def process_bibtex_file(bibtex_name, batch_size):
             json.dump(result, f, indent=4)
 
 
+def merge_json_file(json_file):
+    """
+    Merge all items in a JSON file into a single dictionary.
+
+    Args:
+        json_file (str): Path to the JSON file to be merged.
+
+    Returns:
+        dict: Merged dictionary with combined lists for each category.
+    """
+    with open(json_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    merged_result = {
+        "Broadly defined robot systems": [],
+        "Broadly defined systems for health care": []
+    }
+
+    for batch in data:
+        for category in merged_result:
+            merged_result[category].extend(batch.get(category, []))
+
+    # Remove duplicates based on title and doi
+    for category in merged_result:
+        seen = set()
+        merged_result[category] = [
+            item for item in merged_result[category]
+            if (item['title'], item['doi']) not in seen and not seen.add((item['title'], item['doi']))
+        ]
+
+    # Save the merged result back to the file
+    with open(json_file, 'w', encoding='utf-8') as f:
+        json.dump(merged_result, f, indent=4)
+
+    print(f"Merged JSON saved to {json_file}")
+
+
 if __name__ == '__main__':
+    # 遍历output/agent下的json文件，并调用merge_json_file进行合并
+
+    # Merge JSON files in the output directory
+    output_dir = './output/agent/'
+    for json_file in glob.glob(os.path.join(output_dir, '*.json')):
+        print(f"Merging {json_file}...")
+        merge_json_file(json_file)
+    exit(0)
+
     # Traverse the bibtex directory and process files containing "MobiCom"
     bibtex_dir = './bibtex'
     # target_keyword = "MobiCom"

@@ -1,136 +1,106 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "3D-OmniTrack: 3D tracking with COTS RFID systems",
-                "doi": "10.1145/3302506.3310386"
-            },
-            {
-                "title": "SnapLoc: an ultra-fast UWB-based indoor localization system for an unlimited number of tags",
-                "doi": "10.1145/3302506.3310389"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Transferring activity recognition models for new wearable sensors with deep generative domain adaptation",
-                "doi": "10.1145/3302506.3310391"
-            },
-            {
-                "title": "SGSF: a small groups based serial fusion method",
-                "doi": "10.1145/3302506.3310392"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Chorus: UWB concurrent transmissions for GPS-like passive localization of countless targets",
-                "doi": "10.1145/3302506.3310395"
-            },
-            {
-                "title": "SmartDashCam: automatic live calibration for DashCams",
-                "doi": "10.1145/3302506.3310397"
-            },
-            {
-                "title": "Tracking from one side: multi-person passive tracking with WiFi magnitude measurements",
-                "doi": "10.1145/3302506.3310399"
-            },
-            {
-                "title": "Wireless computer vision using commodity radios",
-                "doi": "10.1145/3302506.3310403"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Privacy-preserving control message dissemination for PVCPS: poster abstract",
-                "doi": "10.1145/3302506.3312599"
-            },
-            {
-                "title": "Array resource allocation based on KKT optimization for radar and communication integration: poster abstract",
-                "doi": "10.1145/3302506.3312602"
-            },
-            {
-                "title": "SoftLoRa - a LoRa-based platform for accurate and secure timing: poster abstract",
-                "doi": "10.1145/3302506.3312603"
-            },
-            {
-                "title": "LongShoT: long-range synchronization of time",
-                "doi": "10.1145/3302506.3310408"
-            },
-            {
-                "title": "Can a phone hear the shape of a room?",
-                "doi": "10.1145/3302506.3310407"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "H2B: heartbeat-based secret key generation using piezo vibration sensors",
-                "doi": "10.1145/3302506.3310406"
-            },
-            {
-                "title": "Synchronous automatic training for wearable sensors via knowledge distillation: poster abstract",
-                "doi": "10.1145/3302506.3312600"
-            },
-            {
-                "title": "A maximal correlation embedding method for multilabel human context recognition: poster abstract",
-                "doi": "10.1145/3302506.3312601"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "IoT enabled Wi-Fi indoor positioning system using raster maps: poster abstract",
-                "doi": "10.1145/3302506.3312612"
-            },
-            {
-                "title": "Evaluation of a LoRa mesh wireless networking system supporting time-critical transmission and data lost recovery: poster abstract",
-                "doi": "10.1145/3302506.3312607"
-            },
-            {
-                "title": "Multi-channel software-based MAC protocol for UWSNs",
-                "doi": "10.1145/3302506.3312610"
-            },
-            {
-                "title": "Carrier scheduling in IoT networks with interoperable battery-free backscatter tags: poster abstract",
-                "doi": "10.1145/3302506.3312613"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Gait health monitoring through footstep-induced floor vibrations: poster abstract",
-                "doi": "10.1145/3302506.3312608"
-            },
-            {
-                "title": "An automated real-time and affordable airborne pollen sensing system: poster abstract",
-                "doi": "10.1145/3302506.3312609"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Fast feedback control and coordination with mode changes for wireless cyber-physical systems: demo abstract",
-                "doi": "10.1145/3302506.3312483"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "A sensor-fusion approach system for detecting early extravasation of infant intravenous infusion: demo abstract",
-                "doi": "10.1145/3302506.3312485"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Deskbuddy: an office activity detection system: demo abstract",
-                "doi": "10.1145/3302506.3312490"
-            }
-        ]
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "3D-OmniTrack: 3D tracking with COTS RFID systems",
+            "doi": "10.1145/3302506.3310386"
+        },
+        {
+            "title": "SnapLoc: an ultra-fast UWB-based indoor localization system for an unlimited number of tags",
+            "doi": "10.1145/3302506.3310389"
+        },
+        {
+            "title": "Chorus: UWB concurrent transmissions for GPS-like passive localization of countless targets",
+            "doi": "10.1145/3302506.3310395"
+        },
+        {
+            "title": "SmartDashCam: automatic live calibration for DashCams",
+            "doi": "10.1145/3302506.3310397"
+        },
+        {
+            "title": "Tracking from one side: multi-person passive tracking with WiFi magnitude measurements",
+            "doi": "10.1145/3302506.3310399"
+        },
+        {
+            "title": "Wireless computer vision using commodity radios",
+            "doi": "10.1145/3302506.3310403"
+        },
+        {
+            "title": "Privacy-preserving control message dissemination for PVCPS: poster abstract",
+            "doi": "10.1145/3302506.3312599"
+        },
+        {
+            "title": "Array resource allocation based on KKT optimization for radar and communication integration: poster abstract",
+            "doi": "10.1145/3302506.3312602"
+        },
+        {
+            "title": "SoftLoRa - a LoRa-based platform for accurate and secure timing: poster abstract",
+            "doi": "10.1145/3302506.3312603"
+        },
+        {
+            "title": "LongShoT: long-range synchronization of time",
+            "doi": "10.1145/3302506.3310408"
+        },
+        {
+            "title": "Can a phone hear the shape of a room?",
+            "doi": "10.1145/3302506.3310407"
+        },
+        {
+            "title": "IoT enabled Wi-Fi indoor positioning system using raster maps: poster abstract",
+            "doi": "10.1145/3302506.3312612"
+        },
+        {
+            "title": "Evaluation of a LoRa mesh wireless networking system supporting time-critical transmission and data lost recovery: poster abstract",
+            "doi": "10.1145/3302506.3312607"
+        },
+        {
+            "title": "Multi-channel software-based MAC protocol for UWSNs",
+            "doi": "10.1145/3302506.3312610"
+        },
+        {
+            "title": "Carrier scheduling in IoT networks with interoperable battery-free backscatter tags: poster abstract",
+            "doi": "10.1145/3302506.3312613"
+        },
+        {
+            "title": "Fast feedback control and coordination with mode changes for wireless cyber-physical systems: demo abstract",
+            "doi": "10.1145/3302506.3312483"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "Transferring activity recognition models for new wearable sensors with deep generative domain adaptation",
+            "doi": "10.1145/3302506.3310391"
+        },
+        {
+            "title": "SGSF: a small groups based serial fusion method",
+            "doi": "10.1145/3302506.3310392"
+        },
+        {
+            "title": "H2B: heartbeat-based secret key generation using piezo vibration sensors",
+            "doi": "10.1145/3302506.3310406"
+        },
+        {
+            "title": "Synchronous automatic training for wearable sensors via knowledge distillation: poster abstract",
+            "doi": "10.1145/3302506.3312600"
+        },
+        {
+            "title": "A maximal correlation embedding method for multilabel human context recognition: poster abstract",
+            "doi": "10.1145/3302506.3312601"
+        },
+        {
+            "title": "Gait health monitoring through footstep-induced floor vibrations: poster abstract",
+            "doi": "10.1145/3302506.3312608"
+        },
+        {
+            "title": "An automated real-time and affordable airborne pollen sensing system: poster abstract",
+            "doi": "10.1145/3302506.3312609"
+        },
+        {
+            "title": "A sensor-fusion approach system for detecting early extravasation of infant intravenous infusion: demo abstract",
+            "doi": "10.1145/3302506.3312485"
+        },
+        {
+            "title": "Deskbuddy: an office activity detection system: demo abstract",
+            "doi": "10.1145/3302506.3312490"
+        }
+    ]
+}

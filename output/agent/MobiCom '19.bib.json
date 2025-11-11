@@ -1,174 +1,114 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Living IoT: A Flying Wireless Platform on Live Insects",
-                "doi": "10.1145/3300061.3300136"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Diagnosing Vehicles with Automotive Batteries",
-                "doi": "10.1145/3300061.3300126"
-            },
-            {
-                "title": "VeMo: Enabling Transparent Vehicular Mobility Modeling at Individual Levels with Full Penetration",
-                "doi": "10.1145/3300061.3300130"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "PDVocal: Towards Privacy-preserving Parkinson's Disease Detection using Non-speech Body Sounds",
-                "doi": "10.1145/3300061.3300125"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Edge Assisted Real-time Object Detection for Mobile Augmented Reality",
-                "doi": "10.1145/3300061.3300116"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "SignSpeaker: A Real-time, High-Precision SmartWatch-based Sign Language Translator",
-                "doi": "10.1145/3300061.3300117"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Experience: Design, Development and Evaluation of a Wearable Device for mHealth Applications",
-                "doi": "10.1145/3300061.3345432"
-            },
-            {
-                "title": "HealthSense: Software-defined Mobile-based Clinical Trials",
-                "doi": "10.1145/3300061.3345433"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "On the Feasibility of Wi-Fi Based Material Sensing",
-                "doi": "10.1145/3300061.3345442"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Human-Machine and Human-Robot Interaction for Long-Term User Engagement and Behavior Change",
-                "doi": "10.1145/3300061.3300141"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Human-Machine and Human-Robot Interaction for Long-Term User Engagement and Behavior Change",
-                "doi": "10.1145/3300061.3300141"
-            },
-            {
-                "title": "Contactless Infant Monitoring using White Noise",
-                "doi": "10.1145/3300061.3345453"
-            },
-            {
-                "title": "eBP: A Wearable System For Frequent and Comfortable Blood Pressure Monitoring From User's Ear",
-                "doi": "10.1145/3300061.3345454"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Demo: Wireless LAN Emulator Using Wireless Network Tap Device for Testing a Vehicular Network System",
-                "doi": "10.1145/3300061.3343376"
-            },
-            {
-                "title": "Demo: Tagging IoT Data in a Drone View",
-                "doi": "10.1145/3300061.3343378"
-            },
-            {
-                "title": "Demo: Extracting 3D Maps from Crowdsourced GNSS Skyview Data",
-                "doi": "10.1145/3300061.3343381"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Demo: A ROS-based Robot with Distributed Sensors for Seamless People Tracking",
-                "doi": "10.1145/3300061.3343369"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Poster: DyMand -- An Open-Source Mobile and Wearable System for Assessing Couples' Dyadic Management of Chronic Diseases",
-                "doi": "10.1145/3300061.3343399"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Poster: A Machine Learning based Hybrid Trust Management Heuristic for Vehicular Ad hoc Networks",
-                "doi": "10.1145/3300061.3343404"
-            },
-            {
-                "title": "Characterizing Uncertainties of Wireless Channels in Connected Vehicles",
-                "doi": "10.1145/3300061.3343409"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Poster: In-situ Water-Quality Monitoring System through Ultraviolet Sensing Using Off-the-Shelf Cameras",
-                "doi": "10.1145/3300061.3343397"
-            },
-            {
-                "title": "Poster: Contactless Infant Monitoring using White Noise",
-                "doi": "10.1145/3300061.3343401"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Poster: Address Shuffling based Moving Target Defense for In-Vehicle Software-Defined Networks",
-                "doi": "10.1145/3300061.3343392"
-            },
-            {
-                "title": "Poster: Understanding Long-Term Mobility and Charging Evolving of Shared EV Networks",
-                "doi": "10.1145/3300061.3343402"
-            },
-            {
-                "title": "CHANTS'19: 14th Workshop on Challenged Networks",
-                "doi": "10.1145/3300061.3355634"
-            },
-            {
-                "title": "mmNets'19: The 3rd ACM Workshop on Millimeter-Wave Networks and Sensing Systems",
-                "doi": "10.1145/3300061.3355635"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "SMAS'19: 1st ACM Workshop on Emerging Smart Technologies and Infrastructures for Smart Mobility and Sustainability",
-                "doi": "10.1145/3300061.3355633"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "Living IoT: A Flying Wireless Platform on Live Insects",
+            "doi": "10.1145/3300061.3300136"
+        },
+        {
+            "title": "Diagnosing Vehicles with Automotive Batteries",
+            "doi": "10.1145/3300061.3300126"
+        },
+        {
+            "title": "VeMo: Enabling Transparent Vehicular Mobility Modeling at Individual Levels with Full Penetration",
+            "doi": "10.1145/3300061.3300130"
+        },
+        {
+            "title": "Edge Assisted Real-time Object Detection for Mobile Augmented Reality",
+            "doi": "10.1145/3300061.3300116"
+        },
+        {
+            "title": "On the Feasibility of Wi-Fi Based Material Sensing",
+            "doi": "10.1145/3300061.3345442"
+        },
+        {
+            "title": "Human-Machine and Human-Robot Interaction for Long-Term User Engagement and Behavior Change",
+            "doi": "10.1145/3300061.3300141"
+        },
+        {
+            "title": "Demo: Wireless LAN Emulator Using Wireless Network Tap Device for Testing a Vehicular Network System",
+            "doi": "10.1145/3300061.3343376"
+        },
+        {
+            "title": "Demo: Tagging IoT Data in a Drone View",
+            "doi": "10.1145/3300061.3343378"
+        },
+        {
+            "title": "Demo: Extracting 3D Maps from Crowdsourced GNSS Skyview Data",
+            "doi": "10.1145/3300061.3343381"
+        },
+        {
+            "title": "Demo: A ROS-based Robot with Distributed Sensors for Seamless People Tracking",
+            "doi": "10.1145/3300061.3343369"
+        },
+        {
+            "title": "Poster: A Machine Learning based Hybrid Trust Management Heuristic for Vehicular Ad hoc Networks",
+            "doi": "10.1145/3300061.3343404"
+        },
+        {
+            "title": "Characterizing Uncertainties of Wireless Channels in Connected Vehicles",
+            "doi": "10.1145/3300061.3343409"
+        },
+        {
+            "title": "Poster: Address Shuffling based Moving Target Defense for In-Vehicle Software-Defined Networks",
+            "doi": "10.1145/3300061.3343392"
+        },
+        {
+            "title": "Poster: Understanding Long-Term Mobility and Charging Evolving of Shared EV Networks",
+            "doi": "10.1145/3300061.3343402"
+        },
+        {
+            "title": "CHANTS'19: 14th Workshop on Challenged Networks",
+            "doi": "10.1145/3300061.3355634"
+        },
+        {
+            "title": "mmNets'19: The 3rd ACM Workshop on Millimeter-Wave Networks and Sensing Systems",
+            "doi": "10.1145/3300061.3355635"
+        },
+        {
+            "title": "SMAS'19: 1st ACM Workshop on Emerging Smart Technologies and Infrastructures for Smart Mobility and Sustainability",
+            "doi": "10.1145/3300061.3355633"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "PDVocal: Towards Privacy-preserving Parkinson's Disease Detection using Non-speech Body Sounds",
+            "doi": "10.1145/3300061.3300125"
+        },
+        {
+            "title": "SignSpeaker: A Real-time, High-Precision SmartWatch-based Sign Language Translator",
+            "doi": "10.1145/3300061.3300117"
+        },
+        {
+            "title": "Experience: Design, Development and Evaluation of a Wearable Device for mHealth Applications",
+            "doi": "10.1145/3300061.3345432"
+        },
+        {
+            "title": "HealthSense: Software-defined Mobile-based Clinical Trials",
+            "doi": "10.1145/3300061.3345433"
+        },
+        {
+            "title": "Human-Machine and Human-Robot Interaction for Long-Term User Engagement and Behavior Change",
+            "doi": "10.1145/3300061.3300141"
+        },
+        {
+            "title": "Contactless Infant Monitoring using White Noise",
+            "doi": "10.1145/3300061.3345453"
+        },
+        {
+            "title": "eBP: A Wearable System For Frequent and Comfortable Blood Pressure Monitoring From User's Ear",
+            "doi": "10.1145/3300061.3345454"
+        },
+        {
+            "title": "Poster: DyMand -- An Open-Source Mobile and Wearable System for Assessing Couples' Dyadic Management of Chronic Diseases",
+            "doi": "10.1145/3300061.3343399"
+        },
+        {
+            "title": "Poster: In-situ Water-Quality Monitoring System through Ultraviolet Sensing Using Off-the-Shelf Cameras",
+            "doi": "10.1145/3300061.3343397"
+        },
+        {
+            "title": "Poster: Contactless Infant Monitoring using White Noise",
+            "doi": "10.1145/3300061.3343401"
+        }
+    ]
+}

@@ -1,186 +1,134 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Renovating road signs for infrastructure-to-vehicle networking: a visible light backscatter communication and networking approach",
-                "doi": "10.1145/3372224.3380883"
-            },
-            {
-                "title": "Hummingbird: energy efficient GPS receiver for small satellites",
-                "doi": "10.1145/3372224.3380886"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Deep learning based wireless localization for indoor navigation",
-                "doi": "10.1145/3372224.3380894"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "PDLens: smartphone knows drug effectiveness among Parkinson's via daily-life activity fusion",
-                "doi": "10.1145/3372224.3380889"
-            },
-            {
-                "title": "MET: a magneto-inductive sensing based electric toothbrushing monitoring system",
-                "doi": "10.1145/3372224.3380896"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Bleep: motor-enabled audio side-channel for constrained UAVs",
-                "doi": "10.1145/3372224.3419183"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Towards flexible wireless charging for medical implants using distributed antenna system",
-                "doi": "10.1145/3372224.3380899"
-            },
-            {
-                "title": "Towards 3D human pose construction using wifi",
-                "doi": "10.1145/3372224.3380900"
-            },
-            {
-                "title": "ThermoWave: a new paradigm of wireless passive temperature monitoring via mmWave sensing",
-                "doi": "10.1145/3372224.3419184"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "SDR receiver using commodity wifi via physical-layer signal reconstruction",
-                "doi": "10.1145/3372224.3419189"
-            },
-            {
-                "title": "Heimdall: mobile GPU coordination platform for augmented reality applications",
-                "doi": "10.1145/3372224.3419192"
-            },
-            {
-                "title": "SPINN: synergistic progressive inference of neural networks over device and cloud",
-                "doi": "10.1145/3372224.3419194"
-            },
-            {
-                "title": "C-14: assured timestamps for drone videos",
-                "doi": "10.1145/3372224.3419196"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "SociTrack: infrastructure-free interaction tracking through mobile sensor networks",
-                "doi": "10.1145/3372224.3419190"
-            },
-            {
-                "title": "Understanding and embracing the complexities of the molecular communication channel in liquids",
-                "doi": "10.1145/3372224.3419191"
-            },
-            {
-                "title": "EarSense: earphones as a teeth activity sensor",
-                "doi": "10.1145/3372224.3419197"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "mmVib: micrometer-level vibration measurement with mmwave radar",
-                "doi": "10.1145/3372224.3419202"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Demystifying millimeter-wave V2X: towards robust and efficient directional connectivity under high mobility",
-                "doi": "10.1145/3372224.3419208"
-            },
-            {
-                "title": "DMM: fast map matching for cellular data",
-                "doi": "10.1145/3372224.3421461"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "SpiroSonic: monitoring human lung function via acoustic sensing on commodity smartphones",
-                "doi": "10.1145/3372224.3419209"
-            },
-            {
-                "title": "Self-reconfigurable micro-implants for cross-tissue wireless and batteryless connectivity",
-                "doi": "10.1145/3372224.3419216"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "The implementation of stigmergy in network-assisted multi-agent system",
-                "doi": "10.1145/3372224.3417318"
-            },
-            {
-                "title": "M-cube: an open-source millimeter-wave MIMO software radio for wireless communication and sensing applications",
-                "doi": "10.1145/3372224.3417327"
-            },
-            {
-                "title": "Airdropping sensor networks from drones and insects",
-                "doi": "10.1145/3372224.3419981"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Contactless seismocardiography via deep learning radars",
-                "doi": "10.1145/3372224.3419982"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Edge-SLAM: edge-assisted visual simultaneous localization and mapping",
-                "doi": "10.1145/3372224.3417326"
-            },
-            {
-                "title": "Using magnetic fingerprints to position cars on multi-layer roads",
-                "doi": "10.1145/3372224.3418156"
-            },
-            {
-                "title": "Homecoming: a wireless homing device for UAVs",
-                "doi": "10.1145/3372224.3418157"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Constructing 3-dimensional 5G coverage map for real-time airborne missions",
-                "doi": "10.1145/3372224.3418160"
-            },
-            {
-                "title": "CarML: distributed machine learning in vehicular clouds",
-                "doi": "10.1145/3372224.3418168"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "What you wear know how you feel: an emotion inference system with multi-modal wearable devices",
-                "doi": "10.1145/3372224.3418161"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Age of information in wireless networks: from theory to implementation",
-                "doi": "10.1145/3372224.3418171"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "Renovating road signs for infrastructure-to-vehicle networking: a visible light backscatter communication and networking approach",
+            "doi": "10.1145/3372224.3380883"
+        },
+        {
+            "title": "Hummingbird: energy efficient GPS receiver for small satellites",
+            "doi": "10.1145/3372224.3380886"
+        },
+        {
+            "title": "Deep learning based wireless localization for indoor navigation",
+            "doi": "10.1145/3372224.3380894"
+        },
+        {
+            "title": "Bleep: motor-enabled audio side-channel for constrained UAVs",
+            "doi": "10.1145/3372224.3419183"
+        },
+        {
+            "title": "SDR receiver using commodity wifi via physical-layer signal reconstruction",
+            "doi": "10.1145/3372224.3419189"
+        },
+        {
+            "title": "Heimdall: mobile GPU coordination platform for augmented reality applications",
+            "doi": "10.1145/3372224.3419192"
+        },
+        {
+            "title": "SPINN: synergistic progressive inference of neural networks over device and cloud",
+            "doi": "10.1145/3372224.3419194"
+        },
+        {
+            "title": "C-14: assured timestamps for drone videos",
+            "doi": "10.1145/3372224.3419196"
+        },
+        {
+            "title": "mmVib: micrometer-level vibration measurement with mmwave radar",
+            "doi": "10.1145/3372224.3419202"
+        },
+        {
+            "title": "Demystifying millimeter-wave V2X: towards robust and efficient directional connectivity under high mobility",
+            "doi": "10.1145/3372224.3419208"
+        },
+        {
+            "title": "DMM: fast map matching for cellular data",
+            "doi": "10.1145/3372224.3421461"
+        },
+        {
+            "title": "The implementation of stigmergy in network-assisted multi-agent system",
+            "doi": "10.1145/3372224.3417318"
+        },
+        {
+            "title": "M-cube: an open-source millimeter-wave MIMO software radio for wireless communication and sensing applications",
+            "doi": "10.1145/3372224.3417327"
+        },
+        {
+            "title": "Airdropping sensor networks from drones and insects",
+            "doi": "10.1145/3372224.3419981"
+        },
+        {
+            "title": "Edge-SLAM: edge-assisted visual simultaneous localization and mapping",
+            "doi": "10.1145/3372224.3417326"
+        },
+        {
+            "title": "Using magnetic fingerprints to position cars on multi-layer roads",
+            "doi": "10.1145/3372224.3418156"
+        },
+        {
+            "title": "Homecoming: a wireless homing device for UAVs",
+            "doi": "10.1145/3372224.3418157"
+        },
+        {
+            "title": "Constructing 3-dimensional 5G coverage map for real-time airborne missions",
+            "doi": "10.1145/3372224.3418160"
+        },
+        {
+            "title": "CarML: distributed machine learning in vehicular clouds",
+            "doi": "10.1145/3372224.3418168"
+        },
+        {
+            "title": "Age of information in wireless networks: from theory to implementation",
+            "doi": "10.1145/3372224.3418171"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "PDLens: smartphone knows drug effectiveness among Parkinson's via daily-life activity fusion",
+            "doi": "10.1145/3372224.3380889"
+        },
+        {
+            "title": "MET: a magneto-inductive sensing based electric toothbrushing monitoring system",
+            "doi": "10.1145/3372224.3380896"
+        },
+        {
+            "title": "Towards flexible wireless charging for medical implants using distributed antenna system",
+            "doi": "10.1145/3372224.3380899"
+        },
+        {
+            "title": "Towards 3D human pose construction using wifi",
+            "doi": "10.1145/3372224.3380900"
+        },
+        {
+            "title": "ThermoWave: a new paradigm of wireless passive temperature monitoring via mmWave sensing",
+            "doi": "10.1145/3372224.3419184"
+        },
+        {
+            "title": "SociTrack: infrastructure-free interaction tracking through mobile sensor networks",
+            "doi": "10.1145/3372224.3419190"
+        },
+        {
+            "title": "Understanding and embracing the complexities of the molecular communication channel in liquids",
+            "doi": "10.1145/3372224.3419191"
+        },
+        {
+            "title": "EarSense: earphones as a teeth activity sensor",
+            "doi": "10.1145/3372224.3419197"
+        },
+        {
+            "title": "SpiroSonic: monitoring human lung function via acoustic sensing on commodity smartphones",
+            "doi": "10.1145/3372224.3419209"
+        },
+        {
+            "title": "Self-reconfigurable micro-implants for cross-tissue wireless and batteryless connectivity",
+            "doi": "10.1145/3372224.3419216"
+        },
+        {
+            "title": "Contactless seismocardiography via deep learning radars",
+            "doi": "10.1145/3372224.3419982"
+        },
+        {
+            "title": "What you wear know how you feel: an emotion inference system with multi-modal wearable devices",
+            "doi": "10.1145/3372224.3418161"
+        }
+    ]
+}

@@ -1,102 +1,78 @@
-[
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "See through smoke: robust indoor mapping with low-cost mmWave radar",
-                "doi": "10.1145/3386901.3388945"
-            },
-            {
-                "title": "Osprey: a mmWave approach to tire wear sensing",
-                "doi": "10.1145/3386901.3389031"
-            },
-            {
-                "title": "mm-FLEX: an open platform for millimeter-wave mobile full-bandwidth experimentation",
-                "doi": "10.1145/3386901.3389034"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Fast and scalable in-memory deep multitask learning via neural weight virtualization",
-                "doi": "10.1145/3386901.3388947"
-            },
-            {
-                "title": "Approximate query service on autonomous IoT cameras",
-                "doi": "10.1145/3386901.3388948"
-            }
-        ],
-        "Broadly defined systems for health care": []
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "BeeCluster: drone orchestration via predictive optimization",
-                "doi": "10.1145/3386901.3388912"
-            },
-            {
-                "title": "Wi-Go: accurate and scalable vehicle positioning using WiFi fine timing measurement",
-                "doi": "10.1145/3386901.3388944"
-            },
-            {
-                "title": "SkySense: terrestrial and aerial spectrum use analysed using lightweight sensing technology with weather balloons",
-                "doi": "10.1145/3386901.3389026"
-            },
-            {
-                "title": "Edge-SLAM: edge-assisted visual simultaneous localization and mapping",
-                "doi": "10.1145/3386901.3389033"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Vulcan: lessons on reliability of wearables through state-aware fuzzing",
-                "doi": "10.1145/3386901.3388916"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "AirPlanes: a DIY modeling system using mobile VSLAM for indoor space",
-                "doi": "10.1145/3386901.3396599"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Painometry: wearable and objective quantification system for acute postoperative pain",
-                "doi": "10.1145/3386901.3389022"
-            },
-            {
-                "title": "RehabPhone: a software-defined tool using 3D printing and smartphones for personalized home-based rehabilitation",
-                "doi": "10.1145/3386901.3389028"
-            },
-            {
-                "title": "WAKE: a behind-the-ear wearable system for microsleep detection",
-                "doi": "10.1145/3386901.3389032"
-            },
-            {
-                "title": "NoFaceContact: stop touching your face with NFC",
-                "doi": "10.1145/3386901.3396603"
-            }
-        ]
-    },
-    {
-        "Broadly defined robot systems": [
-            {
-                "title": "Osprey demo: a mmwave approach to tire wear sensing",
-                "doi": "10.1145/3386901.3396601"
-            }
-        ],
-        "Broadly defined systems for health care": [
-            {
-                "title": "Key sensor discovery for quality audit of air sensor networks",
-                "doi": "10.1145/3386901.3396606"
-            },
-            {
-                "title": "Vulcan: a state-aware fuzzing tool for wear OS ecosystem",
-                "doi": "10.1145/3386901.3397492"
-            }
-        ]
-    }
-]
+{
+    "Broadly defined robot systems": [
+        {
+            "title": "See through smoke: robust indoor mapping with low-cost mmWave radar",
+            "doi": "10.1145/3386901.3388945"
+        },
+        {
+            "title": "Osprey: a mmWave approach to tire wear sensing",
+            "doi": "10.1145/3386901.3389031"
+        },
+        {
+            "title": "mm-FLEX: an open platform for millimeter-wave mobile full-bandwidth experimentation",
+            "doi": "10.1145/3386901.3389034"
+        },
+        {
+            "title": "Fast and scalable in-memory deep multitask learning via neural weight virtualization",
+            "doi": "10.1145/3386901.3388947"
+        },
+        {
+            "title": "Approximate query service on autonomous IoT cameras",
+            "doi": "10.1145/3386901.3388948"
+        },
+        {
+            "title": "BeeCluster: drone orchestration via predictive optimization",
+            "doi": "10.1145/3386901.3388912"
+        },
+        {
+            "title": "Wi-Go: accurate and scalable vehicle positioning using WiFi fine timing measurement",
+            "doi": "10.1145/3386901.3388944"
+        },
+        {
+            "title": "SkySense: terrestrial and aerial spectrum use analysed using lightweight sensing technology with weather balloons",
+            "doi": "10.1145/3386901.3389026"
+        },
+        {
+            "title": "Edge-SLAM: edge-assisted visual simultaneous localization and mapping",
+            "doi": "10.1145/3386901.3389033"
+        },
+        {
+            "title": "AirPlanes: a DIY modeling system using mobile VSLAM for indoor space",
+            "doi": "10.1145/3386901.3396599"
+        },
+        {
+            "title": "Osprey demo: a mmwave approach to tire wear sensing",
+            "doi": "10.1145/3386901.3396601"
+        }
+    ],
+    "Broadly defined systems for health care": [
+        {
+            "title": "Vulcan: lessons on reliability of wearables through state-aware fuzzing",
+            "doi": "10.1145/3386901.3388916"
+        },
+        {
+            "title": "Painometry: wearable and objective quantification system for acute postoperative pain",
+            "doi": "10.1145/3386901.3389022"
+        },
+        {
+            "title": "RehabPhone: a software-defined tool using 3D printing and smartphones for personalized home-based rehabilitation",
+            "doi": "10.1145/3386901.3389028"
+        },
+        {
+            "title": "WAKE: a behind-the-ear wearable system for microsleep detection",
+            "doi": "10.1145/3386901.3389032"
+        },
+        {
+            "title": "NoFaceContact: stop touching your face with NFC",
+            "doi": "10.1145/3386901.3396603"
+        },
+        {
+            "title": "Key sensor discovery for quality audit of air sensor networks",
+            "doi": "10.1145/3386901.3396606"
+        },
+        {
+            "title": "Vulcan: a state-aware fuzzing tool for wear OS ecosystem",
+            "doi": "10.1145/3386901.3397492"
+        }
+    ]
+}
